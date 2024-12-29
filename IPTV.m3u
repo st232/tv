@@ -121,7 +121,7 @@ http://86.57.198.251:8181/play/1017/index.m3u8
 http://135.181.115.81:8000/play/a01j/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", Viju+ Planet
 http://158.101.222.193:88/vesti/play.php?channel_id=91
-#EXTINF:-1 group-title="Познавательные", Zooпарк
+#EXTINF:-1 group-title="Познавательные", Zоопарк
 http://stream2.cinerama.uz/1417/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Авто 24
 http://stream2.cinerama.uz/1430/mono.m3u8
@@ -166,7 +166,7 @@ http://stream2.cinerama.uz/1037/tracks-v1a1/mono.m3u8
 http://185.23.80.28:8080/BRIDGE_ROCK/index.m3u8?token=test
 #EXTINF:-1 group-title="Музыка", Bridge TV Classic orig
 http://stream01.vnet.am/BRIDGETVClassic/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Музыка", Kronehit
+#EXTINF:-1 group-title="Музыка", Krone hit HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1 group-title="Музыка", Trace Urban HD
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
