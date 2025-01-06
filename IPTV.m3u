@@ -48,7 +48,7 @@ http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТРК 
 http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТС
-http://dmi3y-tv.ru/hls/T2/CH_STSHD.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТС Love
 http://185.50.148.2:7706/STSLove/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Суббота!
@@ -130,7 +130,7 @@ http://stream2.cinerama.uz/1430/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Авто Плюс
 http://stream2.cinerama.uz/1036/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Арсенал HD 
-http://45.143.108.104/arsenal/index.m3u8
+http://dmi3y-tv.ru/hls/CH_ARSENALHD.m3u8
 #EXTINF:-1 group-title="Познавательные", Драйв
 http://185.23.80.28:8080/Draiv/index.m3u8?token=tva.in.ua
 #EXTINF:-1 group-title="Познавательные", Еда
@@ -214,8 +214,6 @@ http://93.189.224.246:52900/play/a00m/index.m3u8
 http://stv.mediacdn.ru/live/cdn/multimuzika/playlist_sdhigher.m3u8
 #EXTINF:-1 group-title="Детские", Смайлик ТВ
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
-#EXTINF:-1 group-title="Детские", СТС Kids HD
-http://45.159.74.13/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", СуперГерои
 http://65.21.85.175:8000/play/a01r/index.m3u8?token=livetv
 
