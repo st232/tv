@@ -245,8 +245,6 @@ http://88.218.242.237:8000/play/a00x
 http://158.101.222.193:88/vesti/play.php?channel_id=47
 #EXTINF:-1 group-title="Кино и сериалы", Дом Кино
 https://stream01.vnet.am/DomKino/mono.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Дорама
-http://95.67.12.82:9046
 #EXTINF:-1 group-title="Кино и сериалы", Индия HD
 http://stream01.vnet.am/ZeeTV/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Индийское кино
@@ -283,7 +281,5 @@ http://cdn2.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 http://65.21.85.175:8000/play/a01f/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино и сериалы", Победа
 http://185.50.148.2:7707/Pobeda/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Русский роман
-http://stream01.vnet.am/RusskiyRoman/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Хит HD 
 http://ott.server-iptv.live/665/video.m3u8?token=M4f082ab4c
