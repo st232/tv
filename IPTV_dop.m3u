@@ -1,5 +1,121 @@
 #EXTM3U url-tvg="http://epg.one/ru.xml.gz"
 
+#EXTINF:-1 group-title="Новости", Euronews 1
+http://stream2.cinerama.uz/1024/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="euronews" group-title="Новости",Евроновости 22
+http://stream2.cinerama.uz/1024/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Новости", EuroNews 2
+http://edge02.odtv.az/o1/euronews/playlist.m3u8
+#EXTINF:-1 group-title="Новости", EuroNews 3
+http://edge02.odtv.az/o1/euronews/playlist.m3u8
+#EXTINF:-1 group-title="Новости", EURONEWS 4
+https://stream1.cinerama.uz/1024/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Новости", EuroNews  5
+http://edge02.odtv.az/o1/euronews/playlist.m3u8
+
+
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ZooПАРК 1
+http://dmi3y-tv.ru/hls/CH_3OOPARK.m3u8
+#EXTINF:-1 group-title="Познавательные", Zooпарк 2
+http://185.37.150.40:8092/Zoo/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные", Зоо ТВ 3
+http://31.148.48.15/Zoo_TV/index.m3u8
+#EXTINF:-1 tvg-id="zootv" tvg-logo="https://iptvx.one/picons/zootv.png" group-title="Познавательные",Зоо ТВ (EDTV 576p) 4
+http://31.210.208.171:8080/zootv/index.m3u8?token=+W2MSER
+#EXTINF:-1 tvg-id="zoopark" tvg-logo="http://epg.one/img2/367.png" group-title="Познавательные",ZOOПАРК (EDTV 576p) 5
+http://stream2.cinerama.uz/1417/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="zootv" group-title="Познавательные",Зоо ТВ 6
+https://stream-msk-04.ott.tricolor.tv:443/dtv/id152_MSKSG-PVR-1--Zoo_TV/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczNjYyMDAyMSwiaHdpZCI6ImJhNDM4OGI2N2NlNjg5ZmMwYWRlODE3OTlhYWNkZDZhNzg2ZmMxZWI5MzQ4M2YwYTEwMjNhZTViMmMyNDYwM2EiLCJsYXN0X3JlcV9kYXRlIjoxNzM2MDE1MjIxLCJzZXNzaW9uX2lkIjoiOTJhYTUyNTU3NGNmZDI0Yjc0ODNkNzUxZjI4OGIwOWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.uLo0cmjeeqr30_OOnEnsGj1VydNMcMt9G-Rr1Tjjt_Q
+#EXTINF:-1 tvg-id="zoopark" group-title="Познавательные",ZooПарк 7
+http://stream2.cinerama.uz/1417/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные", ZooПарк 8
+https://stream1.cinerama.uz/1417/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные", ZooПарк 9
+http://77.106.252.178:4022/udp/233.33.221.27:5050
+#EXTINF:-1 group-title="Познавательные", ZooПарк 11
+http://88.85.172.243:7004/play/a010
+#EXTINF:-1 group-title="Познавательные", ZooПарк 12
+https://stream1.cinerama.uz/1417/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="Хобби", Авто Плюс 3
+http://213.226.137.140:81/tl/l105/index.m3u8
+#EXTINF:-1 tvg-id="avto-plus" group-title="Познавательные", Авто Плюс
+http://stream2.cinerama.uz/1036/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://img.rnx.ru/logotvchannel/347.jpg" tvg-id="no_epg_cinema" group-title="Кинозалы", Первый автомобильный
+#EXTVLCOPT:http-user-agent=SmartTV
+https://hls.goodgame.ru/hls/206355.m3u8
+
+#EXTINF:-1 group-title="СПОРТИВНЫЕ",АВТО 24 1
+http://dmi3y-tv.ru/hls/CH_AVTO24.m3u8
+#EXTINF:-1 group-title="Хобби", Авто 24 2
+http://178.124.152.238:8088/auto24
+#EXTINF:-1 tvg-id="avto24" tvg-logo="http://epg.one/img2/2008.png" group-title="Хобби и увлечения",АВТО 24 (EDTV 576p) 4
+http://stream2.cinerama.uz/1430/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",Авто 24 5
+http://stream2.cinerama.uz/1430/mono.m3u8
+#EXTINF:-1 group-title="Познавательные", Авто 24 6
+http://88.85.172.243:7002/play/a02x
+#EXTINF:-1 group-title="Познавательные", Авто 24  7
+https://stream1.cinerama.uz/1430/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные", Авто 24 8
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+http://88.85.172.243:7002/play/a02x
+
+
+
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Живая планета 1
+http://dmi3y-tv.ru/hls/CH_ZHIVAYAPLANETA.m3u8
+#EXTINF:-1 group-title="Познавательные", Живая планета 2
+https://stream1.cinerama.uz/1250/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="zhivaya-planeta" tvg-logo="https://iptvx.one/picons/zhivaya-planeta.png" group-title="Познавательные",Живая Планета (EDTV 576p) 3
+http://stream2.cinerama.uz/1250/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",Живая Планета 4
+https://stream-msk-05.ott.tricolor.tv:443/dtv/id267_MSKSG-PVR-1--Zhivaya_Planeta/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczNjYyMDAyMSwiaHdpZCI6ImJhNDM4OGI2N2NlNjg5ZmMwYWRlODE3OTlhYWNkZDZhNzg2ZmMxZWI5MzQ4M2YwYTEwMjNhZTViMmMyNDYwM2EiLCJsYXN0X3JlcV9kYXRlIjoxNzM2MDE1MjIxLCJzZXNzaW9uX2lkIjoiOTJhYTUyNTU3NGNmZDI0Yjc0ODNkNzUxZjI4OGIwOWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.uLo0cmjeeqr30_OOnEnsGj1VydNMcMt9G-Rr1Tjjt_Q
+#EXTINF:-1 group-title="Познавательные", Живая планета 6
+https://stream1.cinerama.uz/1250/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="Познавательные", Техно 24 1
+https://stream1.cinerama.uz/1037/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" group-title="Кинозалы ПерсикТВ [нестабильные]",ТЕХНО 2
+https://fs2.persik.by/Techno3/index.m3u8
+#EXTINF:-1 tvg-id="texno-24" tvg-id="texno-24" group-title="Познавательные", Техно 24 3
+http://stream-msk-03.ott.tricolor.tv/dtv/id283_MSKSG-PVR-1--Tehno24/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczNjYyMDAyMSwiaHdpZCI6ImJhNDM4OGI2N2NlNjg5ZmMwYWRlODE3OTlhYWNkZDZhNzg2ZmMxZWI5MzQ4M2YwYTEwMjNhZTViMmMyNDYwM2EiLCJsYXN0X3JlcV9kYXRlIjoxNzM2MDE1MjIxLCJzZXNzaW9uX2lkIjoiOTJhYTUyNTU3NGNmZDI0Yjc0ODNkNzUxZjI4OGIwOWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.uLo0cmjeeqr30_OOnEnsGj1VydNMcMt9G-Rr1Tjjt_Q
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Т24 4
+http://dmi3y-tv.ru/hls/CH_T24.m3u8
+#EXTINF:-1 tvg-id="texno-24" tvg-logo="https://iptvx.one/picons/texno-24.png" group-title="Познавательные",Т24 (EDTV 576p) 5
+http://stream2.cinerama.uz/1037/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные", Т24  6
+https://stream1.cinerama.uz/1037/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные", Т24 2 7
+https://stream1.cinerama.uz/1037/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -231,8 +347,7 @@ rtmp://5.182.229.90//7320
 #EXTINF:-1 group-title="Познавательные", National Geographic 20
 http://ucdn.beetv.kz/btv/live/hls/000000034.m3u8
 
-#EXTINF:-1 group-title="Познавательные", Живая планета 6
-https://stream1.cinerama.uz/1250/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 group-title="Познавательные", Наука 7
 https://stream1.cinerama.uz/1248/tracks-v1a1/mono.m3u8
@@ -299,9 +414,7 @@ http://stream02.vnet.am/NatGeoWild/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", viju History 2
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 http://88.85.172.243:7005/play/a00z
-#EXTINF:-1 group-title="Познавательные", Авто 24 3
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-http://88.85.172.243:7002/play/a02x
+
 #EXTINF:-1 group-title="Развлекательные", пятница
 https://stream01.vnet.am/Pyatnica/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", Первый канал HD 
@@ -395,8 +508,7 @@ http://91.247.68.229:8000/play/Poehali/index.m3u8
 https://stream1.cinerama.uz/1420/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Совершенно секретно 8
 http://88.85.172.243:7012/play/a02f
-#EXTINF:-1 group-title="Познавательные", Т24 2
-https://stream1.cinerama.uz/1037/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Познавательные", Тайна 1
 https://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac.smil/tracks-v1a1/mono.m3u8?hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="Познавательные", Тайна 3
@@ -501,8 +613,7 @@ https://stream1.cinerama.uz/1043/tracks-v1a1/mono.m3u8
 https://stream1.cinerama.uz/1231/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", National Geographic Wild 
 https://stream1.cinerama.uz/1042/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", ZooПарк 
-https://stream1.cinerama.uz/1417/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Познавательные", viju Explore 
 https://stream1.cinerama.uz/1045/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", viju History 
@@ -517,10 +628,8 @@ https://stream1.cinerama.uz/1409/tracks-v1a1/mono.m3u8
 https://stream1.cinerama.uz/1247/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Приключения 
 https://stream1.cinerama.uz/1420/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", Т24 
-https://stream1.cinerama.uz/1037/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", Авто 24 
-https://stream1.cinerama.uz/1430/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 group-title="Познавательные", Домашние животные 
 https://stream1.cinerama.uz/1426/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Телекафе 
@@ -588,12 +697,7 @@ http://ucdn.beetv.kz/btv/live/hls/000004474.m3u8
 http://185.50.148.2:7707/NationalGeographic/index.m3u8
 #EXTINF:-1 group-title="Познавательные", TLC 1
 http://edge02.odtv.az/o5/tlc/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные", ZooПарк 3
-https://stream1.cinerama.uz/1417/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", ZooПарк 4
-http://77.106.252.178:4022/udp/233.33.221.27:5050
-#EXTINF:-1 group-title="Познавательные", ZooПарк 11
-http://88.85.172.243:7004/play/a010
+
 #EXTINF:-1 group-title="Познавательные", viju Explore 2
 http://185.50.148.2:7703/ViasatExplorer/index.m3u8
 #EXTINF:-1 group-title="Познавательные", viju Explore 3
@@ -620,10 +724,7 @@ https://stream1.cinerama.uz/1228/tracks-v1a1/mono.m3u8
 http://edge02.odtv.az/o5/viasatnature/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", viju Nature 12
 http://88.85.172.243:7005/play/a010
-#EXTINF:-1 group-title="Новости", EURONEWS
-https://stream1.cinerama.uz/1024/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Новости", EuroNews 
-http://edge02.odtv.az/o1/euronews/playlist.m3u8
+
 #EXTINF:-1 group-title="Развлекательные", ТСВ 
 http://iptv-hls.idc.md:8200/hls/2/live1.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТСВ
@@ -720,8 +821,8 @@ http://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Развлекательные", Звезда 2
 http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Познавательные", Авто 24 11
-http://88.85.172.243:7002/play/a02x
+
+
 #EXTINF:-1 group-title="Познавательные", Домашние животные 2
 https://stream1.cinerama.uz/1426/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", Домашний 2
@@ -812,10 +913,8 @@ http://cdn.ntv.ru/unknown_russia/index.m3u8
 http://185.134.39.134:4022/udp/234.0.0.106:2000
 #EXTINF:-1 group-title="Развлекательные", Неизвестная Россия 12
 http://88.218.242.237:8000/play/a00n
-#EXTINF:-1 group-title="Новости", EuroNews 2
-http://edge02.odtv.az/o1/euronews/playlist.m3u8
-#EXTINF:-1 group-title="Новости", EuroNews 3
-http://edge02.odtv.az/o1/euronews/playlist.m3u8
+
+
 #EXTINF:-1 group-title="Развлекательные", Домашний
 http://stream02.vnet.am/Domashniy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", Перец 4
