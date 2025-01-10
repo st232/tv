@@ -45,8 +45,6 @@ http://92.53.64.197:5050/Rossiya_1/video.m3u8?token=m3VIth-Rou_bM1
 http://176.107.219.20:9000/play/a009/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТВ
 http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Развлекательные", СТРК 
-http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТС
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТС Love
@@ -179,8 +177,6 @@ http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 
 #EXTINF:-1 group-title="Юмор", КВН ТВ
 http://stream01.vnet.am/Bober/mono.m3u8
-#EXTINF:-1 group-title="Юмор", Сарафан
-http://86.57.178.105:10822
 #EXTINF:-1 group-title="Юмор", Твоё ТВ Юмор
 http://tvoetv.space:8080/tvoetv_humor/tracks-v1a1/mono.m3u8
 
@@ -229,8 +225,6 @@ http://158.101.222.193:88/vesti/play.php?channel_id=40
 http://158.101.222.193:88/vesti/play.php?channel_id=41
 #EXTINF:-1 group-title="Кино и сериалы", Amedia Premium
 http://stream01.vnet.am/AmediaPremium/mono.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Bollywood HD 
-https://stream2.cinerama.uz/1444/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Cinema
 http://catchup.videoline.ru/cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Hollywood HD
