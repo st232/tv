@@ -1,57 +1,6 @@
 #EXTM3U url-tvg="http://epg.one/ru.xml.gz"
 
 
-#EXTINF:-1 group-title="Познавательные", Zooпарк 2
-http://185.37.150.40:8092/Zoo/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные", Зоо ТВ 3
-
-#EXTINF:-1 group-title="Познавательные", ZooПарк 9
-http://77.106.252.178:4022/udp/233.33.221.27:5050
-
-
-
-#EXTINF:-1 group-title="Хобби", Авто Плюс 3
-http://213.226.137.140:81/tl/l105/index.m3u8
-
-
-#EXTINF:-1 group-title="Хобби", Авто 24 2
-http://178.124.152.238:8088/auto24
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
