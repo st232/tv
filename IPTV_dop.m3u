@@ -13,27 +13,10 @@ http://77.106.252.178:4022/udp/233.33.221.27:5050
 #EXTINF:-1 group-title="Хобби", Авто Плюс 3
 http://213.226.137.140:81/tl/l105/index.m3u8
 #EXTINF:-1 tvg-id="avto-plus" group-title="Познавательные", Авто Плюс
-http://stream2.cinerama.uz/1036/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://img.rnx.ru/logotvchannel/347.jpg" tvg-id="no_epg_cinema" group-title="Кинозалы", Первый автомобильный
-#EXTVLCOPT:http-user-agent=SmartTV
-https://hls.goodgame.ru/hls/206355.m3u8
-
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",АВТО 24 1
-http://dmi3y-tv.ru/hls/CH_AVTO24.m3u8
 #EXTINF:-1 group-title="Хобби", Авто 24 2
 http://178.124.152.238:8088/auto24
-#EXTINF:-1 tvg-id="avto24" tvg-logo="http://epg.one/img2/2008.png" group-title="Хобби и увлечения",АВТО 24 (EDTV 576p) 4
-http://stream2.cinerama.uz/1430/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные",Авто 24 5
-http://stream2.cinerama.uz/1430/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", Авто 24 6
-http://88.85.172.243:7002/play/a02x
-#EXTINF:-1 group-title="Познавательные", Авто 24  7
-https://stream1.cinerama.uz/1430/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", Авто 24 8
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-http://88.85.172.243:7002/play/a02x
+
 
 
 
