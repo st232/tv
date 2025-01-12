@@ -46,6 +46,7 @@ http://176.107.219.20:9000/play/a009/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТВ
 http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТС
+#EXTVLCOPT:http-user-agent=WINK/1.51.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТС Love
 http://185.50.148.2:7706/STSLove/index.m3u8
@@ -85,9 +86,7 @@ http://65.21.85.175:8000/play/a00e/index.m3u8?token=livetv
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://stream01.vnet.am/AnimalPlanet/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Big Planet
-http://88.218.242.237:8000/play/a00k
-#EXTINF:-1 group-title="Познавательные", Curiosity Stream HD orig
-http://88.218.242.237:8000/play/a00j
+http://185.50.148.2:7703/BigPlanet/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Da Vinci 
 http://185.50.148.2:7703/DaVinciLearning/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Discovery Channel HD
@@ -109,8 +108,6 @@ http://95.67.12.82:9088
 http://158.101.222.193:88/vesti/play.php?channel_id=96
 #EXTINF:-1 group-title="Познавательные", RT Doc orig
 https://hls.rt.com/hls/rtdru.m3u8
-#EXTINF:-1 group-title="Познавательные", The Explorers
-http://88.218.242.237:8000/play/a00m
 #EXTINF:-1 group-title="Познавательные", TLC HD
 http://ott.server-iptv.live/413/video.m3u8?token=M4f082ab4c
 #EXTINF:-1 group-title="Познавательные", Viju Explore
@@ -131,8 +128,6 @@ http://213.226.137.140:81/tl/l105/index.m3u8
 http://dmi3y-tv.ru/hls/CH_ARSENALHD.m3u8
 #EXTINF:-1 group-title="Познавательные", Драйв
 http://185.23.80.28:8080/Draiv/index.m3u8?token=tva.in.ua
-#EXTINF:-1 group-title="Познавательные", Еда
-http://88.218.242.237:8000/play/a00r
 #EXTINF:-1 group-title="Познавательные", Живая планета
 http://stream2.cinerama.uz/1250/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Звезда Плюс
@@ -188,8 +183,6 @@ http://tvoetv.space:8080/tvoetv_humor/tracks-v1a1/mono.m3u8
 http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Детские", Cartoon Network
 http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Детские", FamilyJam HD
-http://88.218.242.237:8000/play/a00b
 #EXTINF:-1 group-title="Детские", Nickelodeon
 http://135.181.115.81:8000/play/a009/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Детские", NickToons
