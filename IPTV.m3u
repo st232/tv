@@ -13,7 +13,6 @@ http://stream2.cinerama.uz/1024/tracks-v1a1/mono.m3u8
 
 
 
-
 #EXTINF:-1 group-title="Развлекательные", Беларусь 1 
 http://194.158.222.36:6101
 #EXTINF:-1 group-title="Развлекательные", Беларусь 2
@@ -73,7 +72,6 @@ http://185.50.148.2:7702/Che/index.m3u8
 http://tv.streams.baikal-telecom.net:8080/U/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", TV BRICS 
 http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
-
 
 
 
@@ -154,7 +152,6 @@ http://stream2.cinerama.uz/1037/tracks-v1a1/mono.m3u8
 
 
 
-
 #EXTINF:-1 group-title="Музыка", Bridge Rock
 http://185.23.80.28:8080/BRIDGE_ROCK/index.m3u8?token=test
 #EXTINF:-1 group-title="Музыка", Bridge TV Classic orig
@@ -169,12 +166,10 @@ http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 
 
 
-
 #EXTINF:-1 group-title="Юмор", КВН ТВ
 http://stream01.vnet.am/Bober/mono.m3u8
 #EXTINF:-1 group-title="Юмор", Твоё ТВ Юмор
 http://tvoetv.space:8080/tvoetv_humor/tracks-v1a1/mono.m3u8
-
 
 
 
@@ -209,7 +204,6 @@ http://65.21.85.175:8000/play/a01r/index.m3u8?token=livetv
 
 
 
-
 #EXTINF:-1 group-title="Кино и сериалы", .sci-fi 
 http://stream01.vnet.am/Kinoseriya/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Amedia 2 
@@ -226,8 +220,6 @@ http://158.101.222.193:88/vesti/play.php?channel_id=102
 http://hlss.goodgame.ru:8080/hls/163253.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Fox
 https://stream01.vnet.am/Fox/mono.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", VHS-ка HD
-http://88.218.242.237:8000/play/a00x
 #EXTINF:-1 group-title="Кино и сериалы", viju TV1000
 http://158.101.222.193:88/vesti/play.php?channel_id=47
 #EXTINF:-1 group-title="Кино и сериалы", Дом Кино
