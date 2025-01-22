@@ -8,7 +8,7 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
 #EXTINF:-1 group-title="Новостные", РБК 
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 #EXTINF:-1 group-title="Новостные", Euronews
-http://stream2.cinerama.uz/1024/tracks-v1a1/mono.m3u8
+http://185.37.150.40:8092/Euronews/playlist.m3u8
 
 
 
