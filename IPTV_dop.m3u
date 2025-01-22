@@ -128,12 +128,13 @@ http://s18209.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТВЦ 9
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="Развлекательные", ТНТ 1
+https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
 #EXTINF:-1 group-title="Общий",ТНТ 2
 http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
 #EXTINF:-1 group-title="Общий",ТНТ 4
-https://streaming.televizor-24-tochka.ru/live/38.m3u8
-#EXTINF:-1 group-title="Развлекательные", ТНТ4 5
-https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
+ttps://streaming.televizor-24-tochka.ru/live/38.m3u8
+
 #EXTINF:-1 group-title="Общий",ТНТ 6 wink
 #EXTVLCOPT:http-user-agent=WINK/1.51.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
@@ -149,6 +150,10 @@ http://185.23.80.28:8080/TNT_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ 11
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT.m3u8
 
+#EXTINF:-1 group-title="Развлекательные", ТНТ4 0
+https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
+#EXTINF:-1 group-title="Развлекательные", ТНТ4 11
+https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ4 Int (EDTV 576p) 1
 http://stream02.vnet.am/THTComedy/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", ТНТ International 2
