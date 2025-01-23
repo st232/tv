@@ -103,7 +103,7 @@ http://158.101.222.193:88/vesti/play.php?channel_id=96
 #EXTINF:-1 group-title="Познавательные", RT Doc orig
 https://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 group-title="Познавательные", TLC HD
-http://ott.server-iptv.live/413/video.m3u8?token=M4f082ab4c
+http://dmi3y-tv.ru/hls/CH_TLC.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju Explore
 http://158.101.222.193:88/vesti/play.php?channel_id=104
 #EXTINF:-1 group-title="Познавательные", Viju History
