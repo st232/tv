@@ -188,8 +188,7 @@ http://uiptv.do.am/1ufc/109121273/playlist.m3u8
 http://178.212.71.253:8002/play/a00s/index.m3u8
 
 #EXTINF:-1 group-title="Развлекательные", Ю 3 wink
-#EXTVLCOPT:http-user-agent=WINK/1.51.2 (AndroidTV/9) HlsWinkPlayer
-http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
+http://tv.streams.baikal-telecom.net:8080/U/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Ю 4
 http://tv.streams.baikal-telecom.net:8080/U/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Ю 7
