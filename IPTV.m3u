@@ -42,9 +42,10 @@ http://stream01.vnet.am/RenTv/mono.m3u8
 http://92.53.64.197:5050/Rossiya_1/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1  group-title="Развлекательные", Светлое ТВ
 http://176.107.219.20:9000/play/a009/index.m3u8
+#EXTINF:-1 group-title="Развлекательные", СТВ Беларусь
+http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТС
-#EXTVLCOPT:http-user-agent=WINK/1.51.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+http://stream02.vnet.am/CTC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТС Love
 http://185.50.148.2:7706/STSLove/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Суббота!
@@ -59,7 +60,7 @@ http://tvoetv.space:8080/tvoetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ
 http://185.23.80.28:8080/TNT_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="Развлекательные", ТНТ4
-http://130.193.73.10:8937/play/a020
+https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТСВ MD
 https://iptv-hls.idc.md/hls/2/live1.m3u8
 #EXTINF:-1 group-title="Развлекательные", Че!
