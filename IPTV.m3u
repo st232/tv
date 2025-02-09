@@ -8,7 +8,7 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
 #EXTINF:-1 group-title="Новостные", РБК
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 #EXTINF:-1 group-title="Новостные", Euronews
-http://185.37.150.40:8092/Euronews/playlist.m3u8
+http://cdn.admuspeh.my/8084/index.m3u8?token=iptvshared
 
 
 
@@ -51,7 +51,7 @@ http://185.50.148.2:7706/STSLove/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Суббота!
 http://130.193.73.10:8937/play/a03a
 #EXTINF:-1 group-title="Развлекательные", ТВ3
-#EXTVLCOPT:http-user-agent=WINK/1.51.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.53.0 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТВЦ
 http://65.21.85.175:8000/play/a00v/index.m3u8?token=livetv
@@ -76,8 +76,6 @@ http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
 
 #EXTINF:-1 group-title="Познавательные", 360°
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные", 365 Дней ТВ
-http://65.21.85.175:8000/play/a00e/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", Animal Planet
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://stream01.vnet.am/AnimalPlanet/tracks-v1a2/mono.m3u8
@@ -95,15 +93,17 @@ http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 http://stream01.vnet.am/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild
-http://135.181.115.81:8000/play/a00c/index.m3u8?token=livetv
+http://stream02.vnet.am/NatGeoWild/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", National Geographic
-http://135.181.115.81:8000/play/a00a/index.m3u8?token=livetv
+http://stream02.vnet.am/NationalGeographic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", One Planet
 http://95.67.12.82:9088
 #EXTINF:-1 group-title="Познавательные", Ocean TV
 http://158.101.222.193:88/vesti/play.php?channel_id=96
 #EXTINF:-1 group-title="Познавательные", RT Doc orig
 https://hls.rt.com/hls/rtdru.m3u8
+#EXTINF:-1 group-title="Познавательные", Sunset Space 
+https://stream.sunset-media.ru:443/AfBrazXsUK/J9hGT3vYuv/3.m3u8
 #EXTINF:-1 group-title="Познавательные", TLC HD
 http://dmi3y-tv.ru/hls/CH_TLC.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju Explore
@@ -115,7 +115,7 @@ http://135.181.115.81:8000/play/a01j/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", Viju+ Planet
 http://158.101.222.193:88/vesti/play.php?channel_id=91
 #EXTINF:-1 group-title="Познавательные", Zоопарк
-http://185.37.150.40:8092/Zoo/playlist.m3u8
+https://flussonic.salomtv.uz/ZooPark/video.m3u8
 #EXTINF:-1 group-title="Познавательные", Авто 24
 http://178.124.152.238:8088/auto24
 #EXTINF:-1 group-title="Познавательные", Авто Плюс
@@ -128,6 +128,8 @@ http://185.23.80.28:8080/Draiv/index.m3u8?token=tva.in.ua
 http://130.193.73.10:8937/play/a01m
 #EXTINF:-1 group-title="Познавательные", Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Познавательные", Зоо ТВ
+http://31.148.48.15/Zoo_TV/index.m3u8
 #EXTINF:-1 group-title="Познавательные", История
 http://stream01.vnet.am/Istoria/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Кулинар ТВ
@@ -176,8 +178,6 @@ http://tvoetv.space:8080/tvoetv_humor/tracks-v1a1/mono.m3u8
 http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Детские", Cartoon Network
 http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Детские", Nickelodeon
-http://135.181.115.81:8000/play/a009/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Детские", NickToons
 https://stream01.vnet.am/Boomerang/mono.m3u8
 #EXTINF:-1 group-title="Детские", Детский мир
