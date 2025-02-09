@@ -229,15 +229,9 @@ https://iptv.prosto.tv/ch87/video.m3u8?secret=3fwh601f
 
 #EXTINF:-1 group-title="Познавательные", National Geographic 3
 http://stream02.vnet.am/NationalGeographic/index.m3u8
-#EXTINF:-1 group-title="Познавательные", National Geographic 13
-http://135.181.115.81:8000/play/a00a/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Познавательные", National Geographic 14
-http://stream02.vnet.am/NationalGeographic/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Познавательные", National Geographic Wild HD 2
 http://78.130.250.2:8023/play/a02c/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Nat Geo Wild 3
-http://stream02.vnet.am/NatGeoWild/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild 5
 http://stream02.vnet.am/NatGeoWild/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild HD 7
