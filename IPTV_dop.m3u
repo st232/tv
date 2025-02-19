@@ -111,8 +111,9 @@ http://195.26.83.96:7013/play/a00e/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Суббота! 4
 http://77.106.252.178:4022/udp/233.33.210.203:5050
 
-#EXTINF:-1 group-title="Развлекательные", ТВ 3 3
-http://stream01.vnet.am/Channel_121/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные", ТВ 3 3 wink
+#EXTVLCOPT:http-user-agent=WINK/1.54.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТВ 3 7
 http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТВ 3 12 wink
@@ -187,10 +188,9 @@ http://uiptv.do.am/1ufc/109121273/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", Че! 10
 http://178.212.71.253:8002/play/a00s/index.m3u8
 
-#EXTINF:-1 group-title="Развлекательные", Ю 3 wink
-http://tv.streams.baikal-telecom.net:8080/U/index.m3u8
-#EXTINF:-1 group-title="Развлекательные", Ю 4
-http://tv.streams.baikal-telecom.net:8080/U/index.m3u8
+#EXTINF:-1 group-title="Развлекательные", Ю 4 wink
+#EXTVLCOPT:http-user-agent=WINK/1.54.1 (AndroidTV/9) HlsWinkPlayer
+http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", Ю 7
 http://tv.streams.baikal-telecom.net:8080/U/mpegts
 
