@@ -142,6 +142,9 @@ http://91.247.68.229:8000/play/Lapki/index.m3u8
 http://65.21.85.175:8000/play/a01m/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", Наука HD
 http://vod.tuva.ru/nauka2/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Первый автомобильный
+#EXTVLCOPT:http-user-agent=SmartTV
+https://hls.goodgame.ru/hls/206355.m3u8
 #EXTINF:-1 group-title="Познавательные", Первый космический HD
 http://stream01.vnet.am/Evrika/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Поехали!
