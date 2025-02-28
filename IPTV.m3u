@@ -8,7 +8,7 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
 #EXTINF:-1 group-title="Новостные", РБК
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 #EXTINF:-1 group-title="Новостные", Euronews
-http://cdn.admuspeh.my/8084/index.m3u8?token=iptvshared
+http://ott.server-iptv.live/140/video.m3u8?token=A3b61a999e
 
 
 
@@ -34,10 +34,10 @@ http://stream01.vnet.am/Perec/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Пятница!
 http://93.189.224.246:52900/play/a00n/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Пятый канал
-#EXTVLCOPT:http-user-agent=WINK/1.54.3 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.55.1 (AndroidTV/9) HlsWinkPlayer
 http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", РЕН ТВ
-#EXTVLCOPT:http-user-agent=WINK/1.54.3 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.55.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", Россия 1
 http://92.53.64.197:5050/Rossiya_1/video.m3u8?token=m3VIth-Rou_bM1
@@ -48,7 +48,8 @@ http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТС
 http://stream02.vnet.am/CTC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТС Love
-http://185.50.148.2:7706/STSLove/index.m3u8
+#EXTVLCOPT:http-user-agent=WINK/1.55.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", Суббота!
 http://130.193.73.10:8937/play/a03a
 #EXTINF:-1 group-title="Развлекательные", ТВ3
@@ -58,13 +59,13 @@ http://65.21.85.175:8000/play/a00v/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Развлекательные", Твое ТВ HD
 http://tvoetv.space:8080/tvoetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ
-http://185.23.80.28:8080/TNT_HD/index.m3u8?token=test
+https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ4
 http://130.193.73.10:8937/play/a020
 #EXTINF:-1 group-title="Развлекательные", ТСВ MD
 https://iptv-hls.idc.md/hls/2/live1.m3u8
 #EXTINF:-1 group-title="Развлекательные", Че!
-http://185.50.148.2:7702/Che/index.m3u8
+http://195.26.83.96:7009/play/89/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Ю ТВ
 http://tv.streams.baikal-telecom.net:8080/U/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", TV BRICS
@@ -79,9 +80,7 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/play
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://stream01.vnet.am/AnimalPlanet/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Big Planet
-http://185.50.148.2:7703/BigPlanet/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Da Vinci
-http://185.50.148.2:7703/DaVinciLearning/index.m3u8
+http://109.200.130.123:7537/play/a02j
 #EXTINF:-1 group-title="Познавательные", Discovery Channel HD
 http://dmi3y-tv.ru/hls/CH_DISCOVERYCHANNELHD.m3u8
 #EXTINF:-1 group-title="Познавательные", Galaxy
@@ -108,7 +107,7 @@ http://dmi3y-tv.ru/hls/CH_TLC.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju Explore
 http://158.101.222.193:88/vesti/play.php?channel_id=104
 #EXTINF:-1 group-title="Познавательные", Viju History
-http://185.50.148.2:7703/ViasatHistory/index.m3u8
+http://flu.ttk.mx:90/Viasat_History/mono.m3u8?token=hs06e
 #EXTINF:-1 group-title="Познавательные", Viju Nature
 http://135.181.115.81:8000/play/a01j/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", Viju+ Planet
@@ -118,11 +117,11 @@ https://flussonic.salomtv.uz/ZooPark/video.m3u8
 #EXTINF:-1 group-title="Познавательные", Авто 24
 http://178.124.152.238:8088/auto24
 #EXTINF:-1 group-title="Познавательные", Авто Плюс
-http://213.226.137.140:81/tl/l105/index.m3u8
+http://s1.merlive.am/Avtoplus/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Арсенал HD
 http://dmi3y-tv.ru/hls/CH_ARSENALHD.m3u8
 #EXTINF:-1 group-title="Познавательные", Драйв
-http://185.23.80.28:8080/Draiv/index.m3u8?token=tva.in.ua
+http://185.23.80.29:8080/Draiv/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные", Живая планета
 http://130.193.73.10:8937/play/a01m
 #EXTINF:-1 group-title="Познавательные", Звезда Плюс
@@ -135,8 +134,6 @@ http://stream01.vnet.am/Istoria/mono.m3u8
 http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 group-title="Познавательные", Кухня ТВ
 http://stream01.vnet.am/KukhnyaTv/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", Лапки Live HD
-http://91.247.68.229:8000/play/Lapki/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Моя Планета
 http://65.21.85.175:8000/play/a01m/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", Наука HD
@@ -146,8 +143,6 @@ http://vod.tuva.ru/nauka2/index.m3u8
 https://hls.goodgame.ru/hls/206355.m3u8
 #EXTINF:-1 group-title="Познавательные", Первый космический HD
 http://stream01.vnet.am/Evrika/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", Поехали!
-http://91.247.68.229:8000/play/Poehali/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Т24
 http://flu.ttk.mx:90/T-24/mono.m3u8?token=hs06e
 
@@ -155,7 +150,7 @@ http://flu.ttk.mx:90/T-24/mono.m3u8?token=hs06e
 
 
 #EXTINF:-1 group-title="Музыка", Bridge Rock
-http://185.23.80.28:8080/BRIDGE_ROCK/index.m3u8?token=test
+http://185.23.80.29:8080/BRIDGE_ROCK/index.m3u8?token=test
 #EXTINF:-1 group-title="Музыка", Bridge TV Classic orig
 http://stream01.vnet.am/BRIDGETVClassic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыка", Krone hit HD
@@ -234,8 +229,6 @@ http://ott.server-iptv.live/676/video.m3u8?token=M4f082ab4c
 http://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кинокомедия
 http://158.101.222.193:88/vesti/play.php?channel_id=30
-#EXTINF:-1 group-title="Кино и сериалы", Киноман
-http://stream02.vnet.am/Kinoman/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киномикс
 http://158.101.222.193:88/vesti/play.php?channel_id=162
 #EXTINF:-1 group-title="Кино и сериалы", Кинопремьера
@@ -258,7 +251,5 @@ http://158.101.222.193:88/vesti/play.php?channel_id=22
 http://cdn2.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", НТВ Хит
 http://65.21.85.175:8000/play/a01f/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Кино и сериалы", Победа
-http://185.50.148.2:7707/Pobeda/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Хит HD 
 http://ott.server-iptv.live/665/video.m3u8?token=M4f082ab4c
