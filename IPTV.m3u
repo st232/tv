@@ -7,8 +7,6 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
 #EXTINF:-1 group-title="Новостные", РБК
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
-#EXTINF:-1 group-title="Новостные", Euronews
-http://ott.server-iptv.live/140/video.m3u8?token=A3b61a999e
 
 
 
@@ -61,7 +59,7 @@ http://tvoetv.space:8080/tvoetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ
 https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ4
-http://130.193.73.10:8937/play/a020
+https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТСВ MD
 https://iptv-hls.idc.md/hls/2/live1.m3u8
 #EXTINF:-1 group-title="Развлекательные", Че!
