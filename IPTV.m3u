@@ -14,7 +14,7 @@ http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Беларусь 1
 http://194.158.222.36:6101
 #EXTINF:-1 group-title="Развлекательные", Беларусь 2
-http://93.189.224.246:52900/play/a003/index.m3u8
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="Развлекательные", Беларусь 3
 http://194.158.222.36:6108
 #EXTINF:-1 group-title="Развлекательные", БелРос
@@ -30,12 +30,12 @@ https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
 #EXTINF:-1 group-title="Развлекательные", Перец International
 http://stream01.vnet.am/Perec/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Пятница!
-http://93.189.224.246:52900/play/a00n/index.m3u8
+https://stream01.vnet.am/Pyatnica/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", Пятый канал
-#EXTVLCOPT:http-user-agent=WINK/1.55.1 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.56.1 (AndroidTV/9) HlsWinkPlayer
 http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", РЕН ТВ
-#EXTVLCOPT:http-user-agent=WINK/1.55.1 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.56.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", Россия 1
 http://92.53.64.197:5050/Rossiya_1/video.m3u8?token=m3VIth-Rou_bM1
@@ -46,7 +46,7 @@ http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТС
 http://stream02.vnet.am/CTC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТС Love
-#EXTVLCOPT:http-user-agent=WINK/1.55.1 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.56.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", Суббота!
 http://130.193.73.10:8937/play/a03a
@@ -99,19 +99,17 @@ http://158.101.222.193:88/vesti/play.php?channel_id=96
 #EXTINF:-1 group-title="Познавательные", RT Doc orig
 https://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 group-title="Познавательные", Sunset Space 
-https://stream.sunset-media.ru:443/AfBrazXsUK/J9hGT3vYuv/3.m3u8
+https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/3.m3u8
 #EXTINF:-1 group-title="Познавательные", TLC HD
 http://dmi3y-tv.ru/hls/CH_TLC.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju Explore
 http://158.101.222.193:88/vesti/play.php?channel_id=104
 #EXTINF:-1 group-title="Познавательные", Viju History
-http://flu.ttk.mx:90/Viasat_History/mono.m3u8?token=hs06e
+http://185.50.148.2:7703/ViasatHistory/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju Nature
 http://135.181.115.81:8000/play/a01j/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", Viju+ Planet
 http://158.101.222.193:88/vesti/play.php?channel_id=91
-#EXTINF:-1 group-title="Познавательные", Zоопарк
-http://flu.ttk.mx:90/Zoopark/mono.m3u8?token=hs06e
 #EXTINF:-1 group-title="Познавательные", Авто 24
 http://178.124.152.238:8088/auto24
 #EXTINF:-1 group-title="Познавательные", Авто Плюс
@@ -119,7 +117,7 @@ http://31.148.48.15/Avto_Plus/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Арсенал HD
 http://dmi3y-tv.ru/hls/CH_ARSENALHD.m3u8
 #EXTINF:-1 group-title="Познавательные", Драйв
-http://flu.ttk.mx:90/Drive/mono.m3u8?token=hs06e
+http://api.peers.tv/timeshift/drive/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDIyOTY1ODAsImlhdCI6MTc0MjIxMDE4MCwiY2lkIjo2LCJ1aWQiOjkwMjExNTYzOCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.kKKqr0SFOo6HqfFwODeUgusXtEVqx6MElVu0Zvz17yY&offset=3
 #EXTINF:-1 group-title="Познавательные", Живая планета
 http://130.193.73.10:8937/play/a01m
 #EXTINF:-1 group-title="Познавательные", Звезда Плюс
@@ -185,8 +183,6 @@ http://api.alpaca.t62a.com/hls/9116/stream0.m3u8
 http://stv.mediacdn.ru/live/cdn/mama/playlist_sdhigher.m3u8
 #EXTINF:-1 group-title="Детские", Мульт
 http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Детские", Мультиландия
-http://93.189.224.246:52900/play/a00m/index.m3u8
 #EXTINF:-1 group-title="Детские", Мультимузыка
 http://stv.mediacdn.ru/live/cdn/multimuzika/playlist_sdhigher.m3u8
 #EXTINF:-1 group-title="Детские", Смайлик ТВ
