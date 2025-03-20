@@ -92,16 +92,12 @@ http://stream01.vnet.am/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 http://stream02.vnet.am/NatGeoWild/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", National Geographic
 http://stream02.vnet.am/NationalGeographic/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", One Planet
-http://95.67.12.82:9088
 #EXTINF:-1 group-title="Познавательные", Ocean TV
 http://158.101.222.193:88/vesti/play.php?channel_id=96
 #EXTINF:-1 group-title="Познавательные", RT Doc orig
 https://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 group-title="Познавательные", Sunset Space 
 https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/3.m3u8
-#EXTINF:-1 group-title="Познавательные", TLC HD
-http://dmi3y-tv.ru/hls/CH_TLC.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju Explore
 http://158.101.222.193:88/vesti/play.php?channel_id=104
 #EXTINF:-1 group-title="Познавательные", Viju History
