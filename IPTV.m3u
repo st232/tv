@@ -124,8 +124,6 @@ http://31.148.48.15/Zoo_TV/index.m3u8
 http://stream01.vnet.am/Istoria/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Кулинар ТВ
 http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
-#EXTINF:-1 group-title="Познавательные", Кухня ТВ
-http://stream01.vnet.am/KukhnyaTv/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Моя Планета
 http://65.21.85.175:8000/play/a01m/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", Наука HD
@@ -143,8 +141,6 @@ http://flu.ttk.mx:90/T-24/mono.m3u8?token=hs06e
 
 #EXTINF:-1 group-title="Музыка", Bridge Rock
 http://185.23.80.29:8080/BRIDGE_ROCK/index.m3u8?token=test
-#EXTINF:-1 group-title="Музыка", Bridge TV Classic orig
-http://stream01.vnet.am/BRIDGETVClassic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыка", Krone hit HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1 group-title="Музыка", Trace Urban HD
