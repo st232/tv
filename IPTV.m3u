@@ -90,7 +90,7 @@ http://stream01.vnet.am/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild
 http://78.130.250.2:8023/play/a02c/index.m3u8
 #EXTINF:-1 group-title="Познавательные", National Geographic
-http://stream02.vnet.am/NationalGeographic/tracks-v1a1/mono.m3u8
+http://135.181.115.81:8000/play/a03w/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", Ocean TV
 http://158.101.222.193:88/vesti/play.php?channel_id=96
 #EXTINF:-1 group-title="Познавательные", RT Doc orig
