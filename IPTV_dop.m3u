@@ -5,24 +5,9 @@ http://188.134.76.176:81/udp/235.10.10.140:1234
 
 
 
-#EXTINF:-1 group-title="Познавательный",Драйв 1
-http://s83.chas.tv:8081/chas/drive.stream/playlist.m3u8?&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=RmxsVUNTS2ZhK2F1SlVUVEQrczRnelFIYVliZytvdjFsTDNGSzdFMnB1QT06OmWusLTV8zm08GSqoJPqvgo%3D
-#EXTINF:-1 group-title="Познавательный",Драйв 2
-https://stream1.cinerama.uz/1421/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательный",Драйв 3
-http://178.124.179.122:8088/Drive/index.m3u8
-#EXTINF:-1 group-title="Познавательный",Драйв 4
-http://178.163.99.241:4022/udp/234.0.0.245:2000
-#EXTINF:-1 group-title="Познавательный",Драйв 5
-http://91.207.115.228:12000/play/a04z
 #EXTINF:-1 group-title="Познавательный",Драйв 6
 http://188.134.76.176:81/udp/235.10.10.76:1234
-#EXTINF:-1 group-title="Познавательный",Драйв 7
-http://91.224.169.250:5000/c41
-#EXTINF:-1 group-title="Познавательный",Драйв 8
-http://81.23.189.54:4022/udp/234.0.0.245:2000
-#EXTINF:-1 group-title="Познавательный",Драйв 9
-http://178.163.0.173:4022/udp/234.0.0.245:2000
+
 
 
 
