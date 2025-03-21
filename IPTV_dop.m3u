@@ -1,89 +1,80 @@
 #EXTM3U url-tvg="http://epg.one/ru.xml.gz"
 
-
-#EXTINF:-1 group-title="Разное",Арсенал 
-http://45.143.108.104/arsenal/index.m3u8
-#EXTINF:-1 group-title="Разное",Арсенал 
-http://ott-cdn.ucom.am/s68/04.m3u8
-#EXTINF:-1 group-title="Разное",Арсенал 
-http://iptv.mega.net.ru:8888/arsenal_hd/mono.m3u8
-#EXTINF:-1 group-title="Разное",Арсенал 
-https://stream1.cinerama.uz/1414/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Разное",Арсенал 
 http://188.134.76.176:81/udp/235.10.10.140:1234
 
 
 
-#EXTINF:-1 group-title="Познавательный",Драйв 
+#EXTINF:-1 group-title="Познавательный",Драйв 1
 http://s83.chas.tv:8081/chas/drive.stream/playlist.m3u8?&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=RmxsVUNTS2ZhK2F1SlVUVEQrczRnelFIYVliZytvdjFsTDNGSzdFMnB1QT06OmWusLTV8zm08GSqoJPqvgo%3D
-#EXTINF:-1 group-title="Познавательный",Драйв 
+#EXTINF:-1 group-title="Познавательный",Драйв 2
 https://stream1.cinerama.uz/1421/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательный",Драйв 
+#EXTINF:-1 group-title="Познавательный",Драйв 3
 http://178.124.179.122:8088/Drive/index.m3u8
-#EXTINF:-1 group-title="Познавательный",Драйв 
+#EXTINF:-1 group-title="Познавательный",Драйв 4
 http://178.163.99.241:4022/udp/234.0.0.245:2000
-#EXTINF:-1 group-title="Познавательный",Драйв 
+#EXTINF:-1 group-title="Познавательный",Драйв 5
 http://91.207.115.228:12000/play/a04z
-#EXTINF:-1 group-title="Познавательный",Драйв 
+#EXTINF:-1 group-title="Познавательный",Драйв 6
 http://188.134.76.176:81/udp/235.10.10.76:1234
-#EXTINF:-1 group-title="Познавательный",Драйв 
+#EXTINF:-1 group-title="Познавательный",Драйв 7
 http://91.224.169.250:5000/c41
-#EXTINF:-1 group-title="Познавательный",Драйв 
+#EXTINF:-1 group-title="Познавательный",Драйв 8
 http://81.23.189.54:4022/udp/234.0.0.245:2000
-#EXTINF:-1 group-title="Познавательный",Драйв 
+#EXTINF:-1 group-title="Познавательный",Драйв 9
 http://178.163.0.173:4022/udp/234.0.0.245:2000
 
 
 
 
-#EXTINF:-1 group-title="Разное",Первый космический 
+#EXTINF:-1 group-title="Разное",Первый космический 1
 http://iptv.mega.net.ru:8888/Eureka_HD/mono.m3u8
-#EXTINF:-1 group-title="Разное",Первый космический 
+#EXTINF:-1 group-title="Разное",Первый космический 2
 http://stream01.vnet.am/Evrika/mono.m3u8
-#EXTINF:-1 group-title="Разное",Первый космический 
+#EXTINF:-1 group-title="Разное",Первый космический 3
 http://hls.seversk.ru:8080/play/a01a/index.m3u8
-#EXTINF:-1 group-title="Разное",Первый космический 
+#EXTINF:-1 group-title="Разное",Первый космический 4
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 http://78.140.39.3/play/a01a/index.m3u8
-#EXTINF:-1 group-title="Разное",Первый космический 
+#EXTINF:-1 group-title="Разное",Первый космический 5
 https://stream1.cinerama.uz/1415/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Разное",Первый космический 
+#EXTINF:-1 group-title="Разное",Первый космический 6
 https://bkm.beetv.kz/btv/live/hls/000001220.m3u8
-#EXTINF:-1 group-title="Разное",Первый космический 
+#EXTINF:-1 group-title="Разное",Первый космический 7
 http://ucdn.beetv.kz/btv/live/hls/000001220.m3u8
 
 
 
 
 
-#EXTINF:-1 group-title="Познавательный",Т24 
+#EXTINF:-1 group-title="Познавательный",Т24 1
 http://iptv.mega.net.ru:8888/24_Tehno/mono.m3u8
-#EXTINF:-1 group-title="Познавательный",Т24 
+#EXTINF:-1 group-title="Познавательный",Т24 2
 https://stream1.cinerama.uz/1037/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательный",Т24 
+#EXTINF:-1 group-title="Познавательный",Т24 3
 http://188.134.76.176:81/udp/235.10.10.226:1234
-#EXTINF:-1 group-title="Познавательный",Т24 
+#EXTINF:-1 group-title="Познавательный",Т24 4
 http://ucdn.beetv.kz/btv/live/hls/000000008.m3u8
-#EXTINF:-1 group-title="Познавательный",Т24 
+#EXTINF:-1 group-title="Познавательный",Т24 5
 https://bkm.beetv.kz/btv/live/hls/000000008.m3u8
-#EXTINF:-1 group-title="Познавательный",Т24 
+#EXTINF:-1 group-title="Познавательный",Т24 6
 http://81.23.189.54:4022/udp/234.0.0.247:2000
-#EXTINF:-1 group-title="Познавательный",Т24 
+#EXTINF:-1 group-title="Познавательный",Т24 7
 http://178.163.99.241:4022/udp/234.0.0.247:2000
-#EXTINF:-1 group-title="Познавательный",Т24 
+#EXTINF:-1 group-title="Познавательный",Т24 8
 http://178.163.0.173:4022/udp/234.0.0.247:2000
-#EXTINF:-1 group-title="Познавательный",Т24 
+#EXTINF:-1 group-title="Познавательный",Т24 9
 http://91.224.169.250:5000/c15
-#EXTINF:-1 group-title="Познавательный",Т24 
+#EXTINF:-1 group-title="Познавательный",Т24 10
 http://91.218.160.212:8015/play/a021/index.m3u8
 
 
 
 
-#EXTINF:-1 group-title="Музыка",Bridge TV Rock 
+#EXTINF:-1 group-title="Музыка",Bridge TV Rock 1
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 http://hls.seversk.ru:8080/play/a012/index.m3u8
-#EXTINF:-1 group-title="Музыка",Bridge TV Rock 
+#EXTINF:-1 group-title="Музыка",Bridge TV Rock 2
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 14)
 http://78.140.39.3/play/a012/index.m3u8
 
