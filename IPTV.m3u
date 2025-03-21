@@ -27,12 +27,12 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 https://streaming.thestream.cyou/live/213-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Развлекательные", Первый канал
 https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
-#EXTINF:-1 group-title="Развлекательные", Перец International
-http://stream01.vnet.am/Perec/index.m3u8
+#EXTINF:-1 group-title="Развлекательные", Перец
+rtmp://212.0.213.132//Teledom
 #EXTINF:-1 group-title="Развлекательные", Пятница!
-https://stream01.vnet.am/Pyatnica/mono.m3u8
+https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
 #EXTINF:-1 group-title="Развлекательные", Пятый канал
-#EXTVLCOPT:http-user-agent=SmartTV
+#EXTVLCOPT:http-user-agent=WINK/1.56.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", РЕН ТВ
 https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
@@ -49,7 +49,7 @@ http://178.212.71.253:8002/play/a00r/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Суббота!
 http://130.193.73.10:8937/play/a03a
 #EXTINF:-1 group-title="Развлекательные", ТВ3
-http://stream01.vnet.am/Channel_121/mono.m3u8
+http://65.21.85.175:8000/play/a00u/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Развлекательные", ТВЦ
 http://65.21.85.175:8000/play/a00v/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Развлекательные", Твое ТВ HD
@@ -75,8 +75,7 @@ http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Познавательные", 360°
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Animal Planet
-#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
-http://stream01.vnet.am/AnimalPlanet/tracks-v1a2/mono.m3u8
+http://135.181.115.81:8000/play/a03i/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", Big Planet
 http://109.200.130.123:7537/play/a02j
 #EXTINF:-1 group-title="Познавательные", Discovery Channel HD
@@ -89,7 +88,7 @@ http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 http://stream01.vnet.am/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild
-http://stream02.vnet.am/NatGeoWild/tracks-v1a1/mono.m3u8
+http://78.130.250.2:8023/play/a02c/index.m3u8
 #EXTINF:-1 group-title="Познавательные", National Geographic
 http://stream02.vnet.am/NationalGeographic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Ocean TV
