@@ -1,5 +1,115 @@
 #EXTM3U url-tvg="http://epg.one/ru.xml.gz"
 
+
+#EXTINF:-1 group-title="Разное",Арсенал 
+http://45.143.108.104/arsenal/index.m3u8
+#EXTINF:-1 group-title="Разное",Арсенал 
+http://ott-cdn.ucom.am/s68/04.m3u8
+#EXTINF:-1 group-title="Разное",Арсенал 
+http://iptv.mega.net.ru:8888/arsenal_hd/mono.m3u8
+#EXTINF:-1 group-title="Разное",Арсенал 
+https://stream1.cinerama.uz/1414/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Разное",Арсенал 
+http://188.134.76.176:81/udp/235.10.10.140:1234
+
+
+
+#EXTINF:-1 group-title="Познавательный",Драйв 
+http://s83.chas.tv:8081/chas/drive.stream/playlist.m3u8?&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=RmxsVUNTS2ZhK2F1SlVUVEQrczRnelFIYVliZytvdjFsTDNGSzdFMnB1QT06OmWusLTV8zm08GSqoJPqvgo%3D
+#EXTINF:-1 group-title="Познавательный",Драйв 
+https://stream1.cinerama.uz/1421/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательный",Драйв 
+http://178.124.179.122:8088/Drive/index.m3u8
+#EXTINF:-1 group-title="Познавательный",Драйв 
+http://178.163.99.241:4022/udp/234.0.0.245:2000
+#EXTINF:-1 group-title="Познавательный",Драйв 
+http://91.207.115.228:12000/play/a04z
+#EXTINF:-1 group-title="Познавательный",Драйв 
+http://188.134.76.176:81/udp/235.10.10.76:1234
+#EXTINF:-1 group-title="Познавательный",Драйв 
+http://91.224.169.250:5000/c41
+#EXTINF:-1 group-title="Познавательный",Драйв 
+http://81.23.189.54:4022/udp/234.0.0.245:2000
+#EXTINF:-1 group-title="Познавательный",Драйв 
+http://178.163.0.173:4022/udp/234.0.0.245:2000
+
+
+
+
+#EXTINF:-1 group-title="Разное",Первый космический 
+http://iptv.mega.net.ru:8888/Eureka_HD/mono.m3u8
+#EXTINF:-1 group-title="Разное",Первый космический 
+http://stream01.vnet.am/Evrika/mono.m3u8
+#EXTINF:-1 group-title="Разное",Первый космический 
+http://hls.seversk.ru:8080/play/a01a/index.m3u8
+#EXTINF:-1 group-title="Разное",Первый космический 
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+http://78.140.39.3/play/a01a/index.m3u8
+#EXTINF:-1 group-title="Разное",Первый космический 
+https://stream1.cinerama.uz/1415/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Разное",Первый космический 
+https://bkm.beetv.kz/btv/live/hls/000001220.m3u8
+#EXTINF:-1 group-title="Разное",Первый космический 
+http://ucdn.beetv.kz/btv/live/hls/000001220.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="Познавательный",Т24 
+http://iptv.mega.net.ru:8888/24_Tehno/mono.m3u8
+#EXTINF:-1 group-title="Познавательный",Т24 
+https://stream1.cinerama.uz/1037/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательный",Т24 
+http://188.134.76.176:81/udp/235.10.10.226:1234
+#EXTINF:-1 group-title="Познавательный",Т24 
+http://ucdn.beetv.kz/btv/live/hls/000000008.m3u8
+#EXTINF:-1 group-title="Познавательный",Т24 
+https://bkm.beetv.kz/btv/live/hls/000000008.m3u8
+#EXTINF:-1 group-title="Познавательный",Т24 
+http://81.23.189.54:4022/udp/234.0.0.247:2000
+#EXTINF:-1 group-title="Познавательный",Т24 
+http://178.163.99.241:4022/udp/234.0.0.247:2000
+#EXTINF:-1 group-title="Познавательный",Т24 
+http://178.163.0.173:4022/udp/234.0.0.247:2000
+#EXTINF:-1 group-title="Познавательный",Т24 
+http://91.224.169.250:5000/c15
+#EXTINF:-1 group-title="Познавательный",Т24 
+http://91.218.160.212:8015/play/a021/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Музыка",Bridge TV Rock 
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+http://hls.seversk.ru:8080/play/a012/index.m3u8
+#EXTINF:-1 group-title="Музыка",Bridge TV Rock 
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 14)
+http://78.140.39.3/play/a012/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="Новости", Известия 
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/index.m3u8
 
@@ -41,6 +151,39 @@ https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал 1
 #EXTVLCOPT:http-user-agent=WINK/1.51.4 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV.m3u8
+#EXTINF:-1 group-title="Общий",5 канал 2
+http://iptv.mega.net.ru:8888/Peterburg_5_kanal/mono.m3u8
+#EXTINF:-1 group-title="Общий",5 канал 3
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
+#EXTINF:-1 group-title="Общий",5 канал 4
+http://135.181.115.81:8000/play/a00m/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Общий",5 канал 5
+http://91.207.115.228:9001/play/a052/index.m3u8
+#EXTINF:-1 group-title="Общий",5 канал 6
+http://91.207.114.220:9001/play/a052/index.m3u8
+#EXTINF:-1 group-title="Общий",5 канал 7
+http://91.142.158.107:8092/play/5/index.m3u8
+#EXTINF:-1 group-title="Общий",5 канал 8
+http://91.142.158.107:8092/play/35/index.m3u8
+#EXTINF:-1 group-title="Общий",5 канал 9
+http://77.106.252.178:4022/udp/233.33.210.6:5050
+#EXTINF:-1 group-title="Общий",5 канал 10
+http://91.234.108.44:8886/udp/237.0.1.5:10000
+#EXTINF:-1 group-title="Общий",5 канал 11
+http://178.163.99.241:4022/udp/234.0.0.205:2000
+#EXTINF:-1 group-title="Общий",5 канал 12
+http://91.224.169.250:5000/c305
+#EXTINF:-1 group-title="Общий",5 канал 13
+http://91.196.37.133:4000/play/a00y
+#EXTINF:-1 group-title="Общий",5 канал 14
+http://178.163.0.173:4022/udp/234.0.0.205:2000
+#EXTINF:-1 group-title="Общий",5 канал 15
+http://188.134.76.176:81/udp/235.10.10.12:1234
+#EXTINF:-1 group-title="Общий",5 канал 16
+http://81.23.189.54:4022/udp/234.0.0.205:2000
+#EXTINF:-1 group-title="Общий",5 канал 17
+http://91.207.115.228:12000/play/a005
 
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 1
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1.m3u8
@@ -108,6 +251,44 @@ http://178.212.71.253:8002/play/a00s/index.m3u8
 
 #EXTINF:-1 group-title="Развлекательные", Ю 1
 http://tv.streams.baikal-telecom.net:8080/U/mpegts
+
+#EXTINF:-1 group-title="Познавательный",Discovery Channel 1
+http://65.21.85.175:8000/play/a02u/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Познавательный",Discovery Channel 2
+http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="Познавательный",Discovery Channel 3
+http://edge02.odtv.az/o5/discovery/playlist.m3u8
+#EXTINF:-1 group-title="Познавательный",Discovery Channel 4
+https://stream1.cinerama.uz/1039/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательный",Discovery Channel 5
+http://stream01.vnet.am/DiscoveryChannel/index.m3u8
+#EXTINF:-1 group-title="Познавательный",Discovery Channel 6
+http://78.140.39.3/play/a01g/index.m3u8
+#EXTINF:-1 group-title="Познавательный",Discovery Channel 7
+http://hls.seversk.ru:8080/play/a01g/index.m3u8
+#EXTINF:-1 group-title="Познавательный",Discovery Channel 8
+http://91.196.37.133:4000/play/a007
+#EXTINF:-1 group-title="Познавательный",Discovery Channel 9
+http://91.207.115.228:12000/play/a03y
+#EXTINF:-1 group-title="Познавательный",Discovery Channel 10
+http://91.224.169.250:5000/c161
+#EXTINF:-1 group-title="Познавательный",Discovery Channel 11
+http://ucdn.beetv.kz/btv/live/hls/000001496.m3u8
+#EXTINF:-1 group-title="Познавательный",Discovery Channel 12
+https://bkm.beetv.kz/btv/live/hls/000001496.m3u8
+#EXTINF:-1 group-title="Познавательный",Discovery Channel 13
+http://stream01.vnet.am/DiscoveryChannel/mono.m3u8
+
+#EXTINF:-1 group-title="Познавательный",Investigation Discovery 1
+http://stream01.vnet.am/InvestigationDiscovery/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="Познавательный",Investigation Discovery 2
+http://stream01.vnet.am/InvestigationDiscovery/index.m3u8
+#EXTINF:-1 group-title="Познавательный",Investigation Discovery 3
+http://91.196.37.133:4000/play/a008
+#EXTINF:-1 group-title="Познавательный",Investigation Discovery 4
+http://91.207.115.228:12000/play/a042
+#EXTINF:-1 group-title="Познавательный",Investigation Discovery 5
+http://91.224.169.250:5000/c163
 
 #EXTINF:-1 group-title="Познавательные", Galaxy 1
 http://65.21.85.175:8000/play/a01t/index.m3u8?token=livetv
