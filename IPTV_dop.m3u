@@ -147,25 +147,13 @@ http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", History 2
 https://iptv.prosto.tv/ch87/video.m3u8?secret=3fwh601f
 
-#EXTINF:-1 group-title="Познавательные", National Geographic 1
-http://stream02.vnet.am/NationalGeographic/index.m3u8
-#EXTINF:-1 group-title="Познавательные", National Geographic 2
-http://stream01.vnet.am/NationalGeographic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://iptvx.one/picons/national-geographic.png" group-title="Познавательные",National Geographic (EDTV) 3
 http://stream01.vnet.am/NationalGeographic/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="national-geographic" group-title="Познавательные", National Geographic 4
-http://135.181.115.81:8000/play/a03w/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="national-geographic" group-title="Познавательные", National Geographic SD 5
 https://tv.movielab.pro/143/video.m3u8?token=bde66c7a85d1b125e3079f05c627460573643710-482bf705fa4d83b77d59ce5fde8a7f6c-1742543600-1742457200
 
-#EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательные", Nat Geo Wild 1
-https://tv.movielab.pro/162/video.m3u8?token=51ee875b753776255eb0452a567f5461e27371bd-b4f1165dfb56fb1ca0a77aab547f978a-1742543600-1742457200
 #EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательные", Nat Geo Wild HD 2
 https://bl.rutube.ru/livestream/9f96e00ce0f4256c6ad608aaf580bf88/index.m3u8?s=M7xsNpxb1SuR7qU-9_KCfQ&e=1742547855&scheme=https
-#EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://iptvx.one/picons/nat-geo-wild.png" group-title="Познавательные",Nat Geo Wild (EDTV) 3
-http://stream01.vnet.am/NatGeoWild/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", Nat Geo Wild  4
-http://stream02.vnet.am/NatGeoWild/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", National Geographic Wild HD 5
 http://78.130.250.2:8023/play/a02c/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild 6
@@ -174,20 +162,11 @@ http://stream02.vnet.am/NatGeoWild/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Viasat Nature
 http://135.181.115.81:8000/play/a01j/index.m3u8?token=livetv
 
-#EXTINF:-1 group-title="Познавательные", Viju Explore 
-http://185.50.148.2:7703/ViasatExplorer/index.m3u8
-
 #EXTINF:-1 group-title="Познавательные",Viju History 1
 http://135.181.115.81:8000/play/a00g/index.m3u8?token=livetv
-#EXTINF:-1 tvg-id="viasat-history" tvg-logo="https://iptvx.one/picons/viasat-history.png" group-title="Познавательные",Viju HISTORY (EDTV) 2
-http://185.50.148.2:7703/ViasatHistory/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Viju History 3
-http://flu.ttk.mx:90/Viasat_History/mono.m3u8?token=hs06e
 #EXTINF:-1 group-title="Познавательные", viju History 4
 http://185.50.148.2:7703/ViasatHistory/index.m3u8
 
-#EXTINF:-1 group-title="Познавательные", Viju Nature 1
-http://185.50.148.2:7703/ViasatNature/index.m3u8
 #EXTINF:-1 group-title="Познавательные", viju Nature 2
 http://135.181.115.81:8000/play/a01j/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", viju Nature 3
@@ -195,15 +174,6 @@ http://195.26.83.96:7013/play/37/index.m3u8
 
 #EXTINF:-1 tvg-id="avto-plus" group-title="Познавательные", Авто Плюс
 http://178.212.71.253:8000/play/69/index.m3u8
-
-#EXTINF:-1 tvg-id="arsenaltv" tvg-logo="https://iptvx.one/picons/arsenaltv.png" group-title="Познавательные",Арсенал (HD) 1
-http://45.159.74.14/Tekhno24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", Арсенал 2
-http://stream01.vnet.am/Tekhno24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", Арсенал HD 3
-http://185.23.80.29:8080/Arsenal_HD/index.m3u8?token=test
-#EXTINF:-1 tvg-id="arsenaltv" group-title="Познавательные", Арсенал HD 4
-https://stream-msk-03.ott.tricolor.tv:443/dtv/id634_MSKSG-PVR-1--Arsenal_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0Mjc5NTc1MywiaHdpZCI6IjU2NmM5YTVmNzYxZGYwYmYzYWQ5NDNkZmMyNjM0YzgyNjFhYjg3MjQyMTVkNDFhNjVmODZjMzI0ZmM5MGUxMDEiLCJsYXN0X3JlcV9kYXRlIjoxNzQyMTkwOTUzLCJzZXNzaW9uX2lkIjoiNmY2MjBjYmQwN2JmOGM3N2M5Y2Y4NGRkMTc4NmEyNGYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.25d6ImROxOXX5kg5gf5CfGKkZKXM0N5jWZ--0zleEho
 
 #EXTINF:-1 group-title="Познавательные", Большая Азия HD 1
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
@@ -218,18 +188,11 @@ http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательные", Драйв 1
 http://api.peers.tv/timeshift/drive/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDI1NTAzODQsImlhdCI6MTc0MjQ2Mzk4NCwiY2lkIjo2LCJ1aWQiOjkwMjg2OTA1NSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.9p2sH-ELJfXL9NYeJBQkz5Qc4xflCNS9JhBUB0vjjf4&offset=3
-#EXTINF:-1 group-title="Хобби", Драйв 2
-http://flu.ttk.mx:90/Drive/mono.m3u8?token=hs06e
 #EXTINF:-1 tvg-id="drive" tvg-logo="https://iptvx.one/picons/drive.png" group-title="Хобби и увлечения",ДРАЙВ (HD) 3
 http://flu.ttk.mx:90/Drive/mono.m3u8?token=hs06e
 
 #EXTINF:-1 group-title="Познавательные", История 1
 http://109.200.130.123:7537/play/a025
-#EXTINF:-1 tvg-id="istoria" tvg-logo="https://iptvx.one/picons/istoria.png" group-title="Познавательные",История (SDTV) 2
-http://stream01.vnet.am/Istoria/mono.m3u8
-#EXTINF:-1 group-title="Познавательные",История 3
-http://stream-msk-04.ott.tricolor.tv/dtv/id259_MSKSG-PVR-1--Istoriya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0Mjc5NTc1MywiaHdpZCI6IjU2NmM5YTVmNzYxZGYwYmYzYWQ5NDNkZmMyNjM0YzgyNjFhYjg3MjQyMTVkNDFhNjVmODZjMzI0ZmM5MGUxMDEiLCJsYXN0X3JlcV9kYXRlIjoxNzQyMTkwOTUzLCJzZXNzaW9uX2lkIjoiNmY2MjBjYmQwN2JmOGM3N2M5Y2Y4NGRkMTc4NmEyNGYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.25d6ImROxOXX5kg5gf5CfGKkZKXM0N5jWZ--0zleEho
-
 
 #EXTINF:-1 group-title="Познавательные", Моя Планета 1
 http://194.143.148.28:8080/Nauka20/mpegts
