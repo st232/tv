@@ -41,39 +41,10 @@ https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал 1
 #EXTVLCOPT:http-user-agent=WINK/1.51.4 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV.m3u8
-#EXTINF:-1 group-title="Общий",5 канал 2
-http://iptv.mega.net.ru:8888/Peterburg_5_kanal/mono.m3u8
-#EXTINF:-1 group-title="Общий",5 канал 3
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
-#EXTINF:-1 group-title="Общий",5 канал 4
-http://135.181.115.81:8000/play/a00m/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Общий",5 канал 5
-http://91.207.115.228:9001/play/a052/index.m3u8
-#EXTINF:-1 group-title="Общий",5 канал 6
-http://91.207.114.220:9001/play/a052/index.m3u8
-#EXTINF:-1 group-title="Общий",5 канал 7
-http://91.142.158.107:8092/play/5/index.m3u8
-#EXTINF:-1 group-title="Общий",5 канал 8
-http://91.142.158.107:8092/play/35/index.m3u8
 #EXTINF:-1 group-title="Общий",5 канал 9
 http://77.106.252.178:4022/udp/233.33.210.6:5050
-#EXTINF:-1 group-title="Общий",5 канал 10
-http://91.234.108.44:8886/udp/237.0.1.5:10000
-#EXTINF:-1 group-title="Общий",5 канал 11
-http://178.163.99.241:4022/udp/234.0.0.205:2000
-#EXTINF:-1 group-title="Общий",5 канал 12
-http://91.224.169.250:5000/c305
-#EXTINF:-1 group-title="Общий",5 канал 13
-http://91.196.37.133:4000/play/a00y
-#EXTINF:-1 group-title="Общий",5 канал 14
-http://178.163.0.173:4022/udp/234.0.0.205:2000
 #EXTINF:-1 group-title="Общий",5 канал 15
 http://188.134.76.176:81/udp/235.10.10.12:1234
-#EXTINF:-1 group-title="Общий",5 канал 16
-http://81.23.189.54:4022/udp/234.0.0.205:2000
-#EXTINF:-1 group-title="Общий",5 канал 17
-http://91.207.115.228:12000/play/a005
 
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 1
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1.m3u8
