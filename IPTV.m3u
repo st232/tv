@@ -133,7 +133,7 @@ https://hls.goodgame.ru/hls/206355.m3u8
 #EXTINF:-1 group-title="Познавательные", Первый космический HD
 http://stream01.vnet.am/Evrika/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Т24
-http://flu.ttk.mx:90/T-24/mono.m3u8?token=hs06e
+http://178.212.71.253:8000/play/63/index.m3u8
 
 
 
