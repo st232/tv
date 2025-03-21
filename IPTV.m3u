@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="Новостные", Известия
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 group-title="Новостные", Первый информационный
+#EXTINF:-1 group-title="Новостные", Первый информационный 1419
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
 #EXTINF:-1 group-title="Новостные", РБК
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
