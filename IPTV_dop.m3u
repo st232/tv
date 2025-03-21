@@ -33,11 +33,6 @@ http://194.158.222.36:6104
 #EXTINF:-1 group-title="Развлекательные", Первый канал 1
 http://195.26.83.96:7013/play/12/index.m3u8
 
-#EXTINF:-1 group-title="Познавательные", Перец 1
-rtmp://212.0.213.132//Teledom
-
-#EXTINF:-1 group-title="Познавательные", Пятница! HD 1
-https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
 #EXTINF:-1 tvg-id="piatnica" tvg-logo="http://epg.one/img2/1003.png" group-title="Развлекательные",Пятница! 2
 http://130.193.73.10:8937/play/a018
 #EXTINF:-1 tvg-id="piatnica" tvg-logo="https://iptvx.one/picons/piatnica.png" group-title="Развлекательные",Пятница! 3
@@ -65,8 +60,6 @@ http://195.26.83.96:7013/play/a00e/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Суббота! 3
 http://77.106.252.178:4022/udp/233.33.210.203:5050
 
-#EXTINF:-1 group-title="Развлекательные", ТВ 3 1
-http://65.21.85.175:8000/play/a00u/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="tv3-ru" tvg-logo="https://iptvx.one/picons/tv3-ru.png" group-title="Общественные",ТВ3 2
 http://130.193.73.10:8937/play/a03q
 
@@ -116,9 +109,6 @@ http://178.212.71.253:8002/play/a00s/index.m3u8
 
 #EXTINF:-1 group-title="Развлекательные", Ю 1
 http://tv.streams.baikal-telecom.net:8080/U/mpegts
-
-#EXTINF:-1 group-title="Познавательные", Animal Planet 1
-http://135.181.115.81:8000/play/a03i/index.m3u8?token=livetv
 
 #EXTINF:-1 group-title="Познавательные", Galaxy 1
 http://65.21.85.175:8000/play/a01t/index.m3u8?token=livetv
