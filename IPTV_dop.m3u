@@ -135,13 +135,8 @@ https://bl.rutube.ru/livestream/9f96e00ce0f4256c6ad608aaf580bf88/index.m3u8?s=M7
 #EXTINF:-1 group-title="Познавательные", National Geographic Wild HD 2
 http://78.130.250.2:8023/play/a02c/index.m3u8
 
-#EXTINF:-1 group-title="Познавательные", Viasat Nature
-http://135.181.115.81:8000/play/a01j/index.m3u8?token=livetv
-
 #EXTINF:-1 group-title="Познавательные",Viju History 1
 http://135.181.115.81:8000/play/a00g/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Познавательные", viju History 4
-http://185.50.148.2:7703/ViasatHistory/index.m3u8
 
 #EXTINF:-1 group-title="Познавательные", viju Nature 2
 http://135.181.115.81:8000/play/a01j/index.m3u8?token=livetv
@@ -164,8 +159,6 @@ http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательные", Драйв 1
 http://api.peers.tv/timeshift/drive/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDI1NTAzODQsImlhdCI6MTc0MjQ2Mzk4NCwiY2lkIjo2LCJ1aWQiOjkwMjg2OTA1NSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.9p2sH-ELJfXL9NYeJBQkz5Qc4xflCNS9JhBUB0vjjf4&offset=3
-#EXTINF:-1 tvg-id="drive" tvg-logo="https://iptvx.one/picons/drive.png" group-title="Хобби и увлечения",ДРАЙВ (HD) 3
-http://flu.ttk.mx:90/Drive/mono.m3u8?token=hs06e
 
 #EXTINF:-1 group-title="Познавательные", История 1
 http://109.200.130.123:7537/play/a025
@@ -185,30 +178,13 @@ http://87.120.142.11:18000/RENTV
 #EXTINF:-1 group-title="Познавательные", Моя Планета 7
 http://95.156.76.230:33001/udp/230.4.34.36:1234
 
-#EXTINF:-1 group-title="Познавательные", Первый Космический 1
-http://stream01.vnet.am/Evrika/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", Первый космический 2
-http://185.23.80.29:8080/Evrika_HD/index.m3u8?token=test
-#EXTINF:-1 group-title="Познавательные", Первый космический HD  3
-http://stream01.vnet.am/Evrika/mono.m3u8
 #EXTINF:-1 tvg-id="eureka-hd" tvg-logo="https://iptvx.one/picons/kosmichesky.png" group-title="Познавательные",Первый Космический (HD) 4
 http://stream01.vnet.am/Evrika/mono.m3u8
 #EXTINF:-1 tvg-id="eureka-hd" group-title="Познавательные",Первый Космический HD 5
 http://stream-msk-03.ott.tricolor.tv/dtv/id159_MSKSG-PVR-1--HD_Eureka/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0Mjc5NTc1MywiaHdpZCI6IjU2NmM5YTVmNzYxZGYwYmYzYWQ5NDNkZmMyNjM0YzgyNjFhYjg3MjQyMTVkNDFhNjVmODZjMzI0ZmM5MGUxMDEiLCJsYXN0X3JlcV9kYXRlIjoxNzQyMTkwOTUzLCJzZXNzaW9uX2lkIjoiNmY2MjBjYmQwN2JmOGM3N2M5Y2Y4NGRkMTc4NmEyNGYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.25d6ImROxOXX5kg5gf5CfGKkZKXM0N5jWZ--0zleEho
 
-#EXTINF:-1 group-title="Познавательные", Техно 24 1
-http://flu.ttk.mx:90/T-24/mono.m3u8?token=hs06e
 #EXTINF:-1 tvg-id="texno-24" tvg-logo="https://iptvx.one/picons/texno-24.png" group-title="Познавательные",Техно 24 (EDTV) 2
 http://flu.ttk.mx:90/T-24/mono.m3u8?token=hs06e
-#EXTINF:-1 tvg-id="texno-24" tvg-id="texno-24" group-title="Познавательные", Техно 24 3
-http://stream-msk-03.ott.tricolor.tv/dtv/id283_MSKSG-PVR-1--Tehno24/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0Mjc5NTc1MywiaHdpZCI6IjU2NmM5YTVmNzYxZGYwYmYzYWQ5NDNkZmMyNjM0YzgyNjFhYjg3MjQyMTVkNDFhNjVmODZjMzI0ZmM5MGUxMDEiLCJsYXN0X3JlcV9kYXRlIjoxNzQyMTkwOTUzLCJzZXNzaW9uX2lkIjoiNmY2MjBjYmQwN2JmOGM3N2M5Y2Y4NGRkMTc4NmEyNGYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.25d6ImROxOXX5kg5gf5CfGKkZKXM0N5jWZ--0zleEho
-
-#EXTINF:-1 group-title="Музыка", Bridge Rock 1
-http://185.23.80.29:8080/BRIDGE_ROCK/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="bridge-tv-rock" group-title="Музыкальные", Bridge TV Rock 2
-http://185.23.80.29:8080/BRIDGE_ROCK/index.m3u8?token=test
-
-
 
 #EXTINF:-1 group-title="Детские", Ani
 http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigh.m3u8
