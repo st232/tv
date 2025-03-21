@@ -43,7 +43,7 @@ http://176.107.219.20:9000/play/a009/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТВ Беларусь
 http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТС
-http://stream02.vnet.am/CTC/tracks-v1a1/mono.m3u8
+https://streaming.televizor-24-tochka.ru/live/296.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТС Love
 http://178.212.71.253:8002/play/a00r/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Суббота!
@@ -100,7 +100,7 @@ https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/3.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju Explore
 http://158.101.222.193:88/vesti/play.php?channel_id=104
 #EXTINF:-1 group-title="Познавательные", Viju History
-http://185.50.148.2:7703/ViasatHistory/index.m3u8
+http://135.181.115.81:8000/play/a00g/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", Viju Nature
 http://135.181.115.81:8000/play/a01j/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", Viju+ Planet
@@ -112,7 +112,7 @@ http://31.148.48.15/Avto_Plus/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Арсенал HD
 http://dmi3y-tv.ru/hls/CH_ARSENALHD.m3u8
 #EXTINF:-1 group-title="Познавательные", Драйв
-http://api.peers.tv/timeshift/drive/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDIyOTY1ODAsImlhdCI6MTc0MjIxMDE4MCwiY2lkIjo2LCJ1aWQiOjkwMjExNTYzOCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.kKKqr0SFOo6HqfFwODeUgusXtEVqx6MElVu0Zvz17yY&offset=3
+http://api.peers.tv/timeshift/drive/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDI1NTAzODQsImlhdCI6MTc0MjQ2Mzk4NCwiY2lkIjo2LCJ1aWQiOjkwMjg2OTA1NSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.9p2sH-ELJfXL9NYeJBQkz5Qc4xflCNS9JhBUB0vjjf4&offset=3
 #EXTINF:-1 group-title="Познавательные", Живая планета
 http://130.193.73.10:8937/play/a01m
 #EXTINF:-1 group-title="Познавательные", Звезда Плюс
@@ -120,7 +120,7 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Познавательные", Зоо ТВ
 http://31.148.48.15/Zoo_TV/index.m3u8
 #EXTINF:-1 group-title="Познавательные", История
-http://stream01.vnet.am/Istoria/mono.m3u8
+http://109.200.130.123:7537/play/a025
 #EXTINF:-1 group-title="Познавательные", Кулинар ТВ
 http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 group-title="Познавательные", Моя Планета
@@ -164,8 +164,6 @@ http://hlss.goodgame.ru:8080/hls/163253.m3u8
 http://158.101.222.193:88/vesti/play.php?channel_id=47
 #EXTINF:-1 group-title="Кино и сериалы", Индийское кино
 http://158.101.222.193:88/vesti/play.php?channel_id=32
-#EXTINF:-1 group-title="Кино и сериалы", Камеди HD
-http://ott.server-iptv.live/676/video.m3u8?token=M4f082ab4c
 #EXTINF:-1 group-title="Кино и сериалы", Кино ТВ
 http://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кинокомедия
@@ -184,5 +182,3 @@ http://158.101.222.193:88/vesti/play.php?channel_id=45
 http://158.101.222.193:88/vesti/play.php?channel_id=26
 #EXTINF:-1 group-title="Кино и сериалы", Наше новое кино
 http://158.101.222.193:88/vesti/play.php?channel_id=22
-#EXTINF:-1 group-title="Кино и сериалы", НТВ Сериал
-http://cdn2.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
