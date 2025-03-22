@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="Новостные", Известия
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 group-title="Новостные", Первый информационный 1419
+#EXTINF:-1 group-title="Новостные", Первый информационный
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
 #EXTINF:-1 group-title="Новостные", РБК
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
@@ -79,14 +79,13 @@ http://135.181.115.81:8000/play/a03i/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", Big Planet
 http://109.200.130.123:7537/play/a02j
 #EXTINF:-1 group-title="Познавательные", Discovery Channel HD
-http://65.21.85.175:8000/play/a02u/index.m3u8?token=livetv
+https://tv.movielab.pro/147/mono.m3u8?token=a33cfe3e606b973c30b3017820db726f5187698f-aaf389a13b590a4dfc46f9632f48b8dd-1742673593-1742587193
 #EXTINF:-1 group-title="Познавательные", Galaxy
 http://65.21.85.175:8000/play/a01t/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", History
 http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", Investigation Discovery
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-http://stream01.vnet.am/InvestigationDiscovery/tracks-v1a2/mono.m3u8
+http://193.35.224.154/8074/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild
 http://78.130.250.2:8023/play/a02c/index.m3u8
 #EXTINF:-1 group-title="Познавательные", National Geographic
@@ -111,8 +110,6 @@ http://178.124.152.238:8088/auto24
 http://31.148.48.15/Avto_Plus/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Арсенал HD
 http://dmi3y-tv.ru/hls/CH_ARSENALHD.m3u8
-#EXTINF:-1 group-title="Познавательные", Драйв
-http://api.peers.tv/timeshift/drive/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDI1NTAzODQsImlhdCI6MTc0MjQ2Mzk4NCwiY2lkIjo2LCJ1aWQiOjkwMjg2OTA1NSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.9p2sH-ELJfXL9NYeJBQkz5Qc4xflCNS9JhBUB0vjjf4&offset=3
 #EXTINF:-1 group-title="Познавательные", Живая планета
 http://130.193.73.10:8937/play/a01m
 #EXTINF:-1 group-title="Познавательные", Звезда Плюс
@@ -127,9 +124,6 @@ http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 http://65.21.85.175:8000/play/a01m/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", Наука HD
 http://vod.tuva.ru/nauka2/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Первый автомобильный
-#EXTVLCOPT:http-user-agent=SmartTV
-https://hls.goodgame.ru/hls/206355.m3u8
 #EXTINF:-1 group-title="Познавательные", Первый космический HD
 http://stream01.vnet.am/Evrika/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Т24
@@ -138,8 +132,8 @@ http://178.212.71.253:8000/play/63/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Музыка", Bridge Rock
-http://185.23.80.29:8080/BRIDGE_ROCK/index.m3u8?token=test
+#EXTINF:-1 group-title="Музыка", Now Rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 group-title="Музыка", Krone hit HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1 group-title="Музыка", Trace Urban HD
