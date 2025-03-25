@@ -349,7 +349,46 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="Музыка", Zerouno TV Music
 https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
-
+#EXTINF:-1 group-title="KINO+",Viasat Kino Comedy
+http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/309/stream.m3u8
+#EXTINF:-1 group-title="KINO+",Viasat Kino HD
+http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/311/stream.m3u8
+#EXTINF:-1 group-title="KINO+",Viasat Kino Megahit HD
+http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/3981/stream.m3u8
+#EXTINF:-1 group-title="KINO+",Viasat World
+http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/4816/stream.m3u8
+#EXTINF:-1 group-title="KINO+",Kinoliving
+http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/4805/stream.m3u8
+#EXTINF:-1 group-title="KINO+",KINO зал
+https://rpn3.bozztv.com/dvrfl07/ushba64/index.m3u8
+#EXTINF:-1 group-title="KINO+",Сити Эдем - Кино Экшен
+https://autopilot.catcast.tv/content/41333/index.m3u8
+#EXTINF:-1 group-title="KINO+",Сити Эдем - Кино Мистика
+https://autopilot.catcast.tv/content/40783/index.m3u8
+#EXTINF:-1 group-title="KINO+",Кино 1 International
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 group-title="KINO+",Just tv
+http://185.236.229.62:9981/play/a08e
+#EXTINF:-1 group-title="KINO+",Любимое Индийское Кино (ЛИК) 
+http://autopilot.catcast.tv/content/41596/index.m3u8
+#EXTINF:-1 group-title="KINO+",Amedia 1 sd
+http://sc.id-tv.kz/A1.m3u8
+#EXTINF:-1 group-title="KINO+",Amedia 2 sd
+http://sc.id-tv.kz/A2_36_37.m3u8
+#EXTINF:-1 group-title="KINO+",Sci-Fi
+http://178.124.179.122:8088/Sci-Fi/index.m3u8
+#EXTINF:-1 group-title="KINO+",ТСВ iptv-org-ua
+https://iptv-hls.idc.md/hls/2/live2.m3u8
+#EXTINF:-1 group-title="KINO+",СМОТРИМ
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+",Dorama
+http://95.67.12.82:9046
+#EXTINF:-1 group-title="KINO+",ТНТ
+https://streaming.goodstream.cyou/live/38.m3u8
+#EXTINF:-1 group-title="KINO+",Timeless Dizi Channel
+http://194.158.222.36:6086
+#EXTINF:-1 group-title="KINO+",СТС
+https://streaming.goodstream.cyou/live/296.m3u8
 
 
 
