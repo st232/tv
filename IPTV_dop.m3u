@@ -518,7 +518,43 @@ https://api.alpaca.t62a.com/hls/9104/stream0.m3u8
 #EXTINF:-1 group-title="ОБЩИЕ",Каббала
 http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AutoPlus.ru" tvg-logo="https://i.imgur.com/sVc8cFt.png" tvg-name="Авто Плюс" group-title="Хобби и увлечения",Авто Плюс [720x576]
+http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/151/index.m3u
 
+#EXTINF:-1 tvg-id="Bober.ru" tvg-logo="https://i.imgur.com/clWWhB8.png" tvg-name="Бобёр" group-title="Хобби и увлечения",Бобёр [720x576]
+http://195.18.23.20:8000/play/1/index.m3u8
+#EXTINF:-1 tvg-id="Bober.ru" tvg-logo="https://i.imgur.com/clWWhB8.png" tvg-name="Бобёр" group-title="Хобби и увлечения",Бобёр [720x576]
+http://178.212.71.253:8002/play/a00m/index.m3u8
+
+#EXTINF:-1 tvg-id="Dikij.ru" tvg-logo="https://i.imgur.com/VDXDiPC.png" tvg-name="Дикий" group-title="Хобби и увлечения",Дикий [720x576]
+http://65.21.85.175:8000/play/a00k/index.m3u8?token=livetv
+
+#EXTINF:-1 tvg-id="Dikij.ru" tvg-logo="https://i.imgur.com/VDXDiPC.png" tvg-name="Дикий" group-title="Хобби и увлечения",Дикий [720x576]
+http://95.156.76.230:33001/udp/230.4.34.78:1234
+
+#EXTINF:-1 tvg-id="Zhivi.ru" tvg-logo="https://i.imgur.com/LPqySGk.png" tvg-name="Живи!" group-title="Хобби и увлечения",Живи! [720x576]
+http://195.18.23.20:8000/play/10/index.m3u8
+
+#EXTINF:-1 tvg-id="ZagorodnayaZhizn.ru" tvg-logo="https://i.imgur.com/RoYd5pz.png" tvg-name="Загородная жизнь" group-title="Хобби и увлечения",Загородная жизнь [720x576]
+http://195.26.83.96:7007/play/10/index.m3u8
+
+#EXTINF:-1 tvg-id="NTVStyle.ru" tvg-logo="https://i.imgur.com/rX6K6qT.png" tvg-name="НТВ Стиль" group-title="Хобби и увлечения",НТВ-Стиль [1920x1080]
+http://65.21.85.175:8000/play/a018/index.m3u8?token=livetv
+#EXTINF:-1 tvg-id="NTVStyle.ru" tvg-logo="https://i.imgur.com/rX6K6qT.png" tvg-name="НТВ Стиль" group-title="Хобби и увлечения",НТВ-Стиль [1024x576]
+http://cdn.ntv.ru/th_style/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NTVStyle.ru" tvg-logo="https://i.imgur.com/rX6K6qT.png" tvg-name="НТВ Стиль" group-title="Хобби и увлечения",НТВ-Стиль [1024x576]
+http://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="NTVStyle.ru" tvg-logo="https://i.imgur.com/rX6K6qT.png" tvg-name="НТВ Стиль" group-title="Хобби и увлечения",НТВ-Стиль [1024x576]
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+http://cdn.ntv.ru/th_style/mono.m3u8
+#EXTINF:-1 tvg-id="NTVStyle.ru" tvg-logo="https://i.imgur.com/rX6K6qT.png" tvg-name="НТВ Стиль" group-title="Хобби и увлечения",НТВ-Стиль [1024x576]
+http://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="NTVStyle.ru" tvg-logo="https://i.imgur.com/rX6K6qT.png" tvg-name="НТВ Стиль" group-title="Хобби и увлечения",НТВ-Стиль [1024x576]
+http://cdn.ntv.ru/th_style/index.m3u8
+
+#EXTINF:-1 tvg-id="Okhotairybalka.ru" tvg-logo="https://i.imgur.com/nZwBaeW.png" tvg-name="Охота и рыбалка" group-title="Хобби и увлечения",Охота и Рыбалка [720x576]
+http://65.21.85.175:8000/play/a01k/index.m3u8?token=livetv
 
 
 
