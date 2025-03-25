@@ -389,7 +389,32 @@ https://streaming.goodstream.cyou/live/38.m3u8
 http://194.158.222.36:6086
 #EXTINF:-1 group-title="KINO+",СТС
 https://streaming.goodstream.cyou/live/296.m3u8
-
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Рыбалка
+http://iptv.prosto.tv:7000/ch344/video.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Viasat History
+http://135.181.115.81:8000/play/a00g/index.m3u8?token=livetv
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Viasat Nature
+http://135.181.115.81:8000/play/a01j/index.m3u8?token=livetv
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ONE PLANET
+http://95.67.12.82:9088
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ" ,ТСВ 720x576
+https://iptv-hls.idc.md/hls/2/live1.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ" ,ТСВ SD
+https://iptv-hls.idc.md/hls/2/live2.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Motorvision TV 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",National Geographic Wild HD (6 ЯЗЫКОВ)
+http://78.130.250.2:8023/play/a02c/index.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Love Nature 4k
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+#EXTINF:-1 group-title="CHILDREN'S",Кнопка ТВ
+http://api.alpaca.t62a.com/hls/9116/stream0.m3u8
+#EXTINF:-1 group-title="CHILDREN'S",Детское кино International
+https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 group-title="CHILDREN'S",HGTN
+https://v2.catcast.tv/content/34251/index.m3u8
+#EXTINF:-1 group-title="CHILDREN'S",CHD TV
+http://194.26.229.213/souzmultfilm/index.m3u8
 
 
 
