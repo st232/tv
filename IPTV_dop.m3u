@@ -254,24 +254,6 @@ http://hls3.ttv2.space/home_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", TV Brics 
 http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="Новости", Беларусь 24
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1008231497_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="Новости", Восток 24
@@ -286,8 +268,7 @@ http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
 #EXTINF:-1 group-title="Политические", БелРос
 http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
-#EXTINF:-1 group-title="Хобби", Еда HD
-http://188.134.76.176:81/udp/235.10.10.240:1234
+
 #EXTINF:-1 group-title="Хобби", Лапки Live
 http://91.247.68.229:8000/play/Lapki/index.m3u8
 #EXTINF:-1 group-title="Хобби", Мама
@@ -306,8 +287,7 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="clubbing-tv" group-title="Музыка", Clubbing TV 
 https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Музыка", Deluxe Dance 
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+
 #EXTINF:-1 group-title="Музыка", Deluxe Music 
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 group-title="Музыка", Kiss Kiss
@@ -322,8 +302,7 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="Музыка", Zerouno TV Music
 https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
-#EXTINF:-1 group-title="KINO+",Viasat Kino Comedy
-http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/309/stream.m3u8
+
 #EXTINF:-1 group-title="KINO+",Viasat Kino HD
 http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/311/stream.m3u8
 #EXTINF:-1 group-title="KINO+",Viasat Kino Megahit HD
@@ -537,8 +516,6 @@ https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV.m3u8
 #EXTINF:-1 group-title="Общий",5 канал 9
 http://77.106.252.178:4022/udp/233.33.210.6:5050
-#EXTINF:-1 group-title="Общий",5 канал 15
-http://188.134.76.176:81/udp/235.10.10.12:1234
 
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 1
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1.m3u8
@@ -554,8 +531,6 @@ http://178.212.71.253:8002/play/a00r/index.m3u8
 https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="super", Суббота! 2
 http://195.26.83.96:7013/play/a00e/index.m3u8
-#EXTINF:-1 group-title="Развлекательные", Суббота! 3
-http://77.106.252.178:4022/udp/233.33.210.203:5050
 
 #EXTINF:-1 tvg-id="tv3-ru" tvg-logo="https://iptvx.one/picons/tv3-ru.png" group-title="Общественные",ТВ3 2
 http://130.193.73.10:8937/play/a03q
@@ -597,8 +572,6 @@ https://iptv-hls.idc.md/hls/2/live2.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТСВ 4
 http://iptv-hls.idc.md:8200/hls/2/live2.m3u8
 
-#EXTINF:-1 group-title="Развлекательные", Че! 1
-http://195.26.83.96:7009/play/89/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Че! 2
 http://178.212.71.253:8002/play/a00s/index.m3u8
 
@@ -620,8 +593,6 @@ http://78.130.250.2:8023/play/a02c/index.m3u8
 
 #EXTINF:-1 group-title="Познавательные", viju Nature 2
 http://135.181.115.81:8000/play/a01j/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Познавательные", viju Nature 3
-http://195.26.83.96:7013/play/37/index.m3u8
 
 #EXTINF:-1 tvg-id="avto-plus" group-title="Познавательные", Авто Плюс
 http://178.212.71.253:8000/play/69/index.m3u8
