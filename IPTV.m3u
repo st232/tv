@@ -29,11 +29,12 @@ https://streaming.thestream.cyou/live/213-req_offset_28000000-req_window_0-1k_v5
 https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
 #EXTINF:-1 group-title="Развлекательные", Перец
 rtmp://212.0.213.132//Teledom
-#EXTINF:-1 group-title="Развлекательные", Пятница!
-https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
+#EXTINF:-1 group-title="Развлекательные", Пятница
+http://130.193.73.10:8937/play/a018
+#EXTINF:-1 group-title="Развлекательные", Пятница! Int
+https://cdn2.skygo.mn/live/disk1/Friday/HLS-FTA/Friday.m3u8
 #EXTINF:-1 group-title="Развлекательные", Пятый канал
-#EXTVLCOPT:http-user-agent=SmartTV
-http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+http://130.193.73.10:8937/play/a00h
 #EXTINF:-1 group-title="Развлекательные", РЕН ТВ
 https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
 #EXTINF:-1 group-title="Развлекательные", Россия 1
@@ -54,8 +55,6 @@ http://65.21.85.175:8000/play/a00u/index.m3u8?token=livetv
 http://65.21.85.175:8000/play/a00v/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Развлекательные", Твое ТВ HD
 http://tvoetv.space:8080/tvoetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Развлекательные", Твоё ТВ Юмор
-http://tvoetv.space:8080/tvoetv_humor/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ
 https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ4
@@ -79,13 +78,11 @@ http://135.181.115.81:8000/play/a03i/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", Big Planet
 http://109.200.130.123:7537/play/a02j
 #EXTINF:-1 group-title="Познавательные", Discovery Channel HD
-https://tv.movielab.pro/147/mono.m3u8?token=a33cfe3e606b973c30b3017820db726f5187698f-aaf389a13b590a4dfc46f9632f48b8dd-1742673593-1742587193
+http://91.146.94.234:10000/play/a041
 #EXTINF:-1 group-title="Познавательные", Galaxy
 http://65.21.85.175:8000/play/a01t/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", History
 http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Познавательные", Investigation Discovery
-http://193.35.224.154/8074/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild
 http://78.130.250.2:8023/play/a02c/index.m3u8
 #EXTINF:-1 group-title="Познавательные", National Geographic
