@@ -77,10 +77,17 @@ https://cdn2.skygo.mn/live/disk1/Friday/HLS-FTA/Friday.m3u8
 #EXTINF:-1 group-title="Развлекательные", Пятый канал
 http://130.193.73.10:8937/play/a00h
 #EXTINF:-1 group-title="Развлекательные", Пятый канал
-#EXTVLCOPT:http-user-agent=WINK/1.51.4 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.57.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV.m3u8
-#EXTINF:-1 group-title="Развлекательные", Пятый канал
-http://77.106.252.178:4022/udp/233.33.210.6:5050
+#EXTINF:-1 group-title="Развлекательные", Рен ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.57.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF:-1 group-title="Развлекательные", РЕН ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.57.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF:-1 group-title="Развлекательные", РЕН ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.57.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV.m3u8
 #EXTINF:-1 group-title="Развлекательные", РЕН ТВ
 https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
 #EXTINF:-1 group-title="Развлекательные", Россия 1
@@ -96,7 +103,7 @@ http://178.212.71.253:8002/play/a00r/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТС
 https://streaming.televizor-24-tochka.ru/live/296.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТС
-#EXTVLCOPT:http-user-agent=WINK/1.51.4 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.57.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/DVB-T2/CH_STS.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТС
 https://streaming.goodstream.cyou/live/296.m3u8
@@ -212,7 +219,7 @@ http://178.212.71.253:8000/play/69/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Авто Плюс
 http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/151/index.m3u
 #EXTINF:-1 group-title="Познавательные", Арсенал HD
-http://dmi3y-tv.ru/hls/CH_ARSENALHD.m3u8
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Arsenal_HD
 #EXTINF:-1 group-title="Познавательные", Бобёр
 http://195.18.23.20:8000/play/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Бобёр
