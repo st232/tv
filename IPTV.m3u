@@ -2,8 +2,14 @@
 
 #EXTINF:-1 group-title="Новостные", Известия
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 group-title="Новости", Известия
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Новостные", Первый информационный
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
+#EXTINF:-1 group-title="Эфирные", Первый информационный
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w499524774_b5160000_sleng.m3u8
+#EXTINF:-1 group-title="Информационные", Первый информационный 
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w868240704_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="Новостные", РБК
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 
@@ -14,6 +20,8 @@ http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 http://194.158.222.36:6101
 #EXTINF:-1 group-title="Развлекательные", Беларусь 2
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8
+#EXTINF:-1 group-title="Развлекательные",Беларусь 2
+http://194.158.222.36:6107
 #EXTINF:-1 group-title="Развлекательные", Беларусь 3
 http://194.158.222.36:6108
 #EXTINF:-1 group-title="Развлекательные", Беларусь 24
@@ -22,12 +30,34 @@ https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1
 http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 #EXTINF:-1 group-title="Развлекательные", Большая Азия HD
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные", Домашний
+http://65.21.85.175:8000/play/a00n/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Развлекательные", Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные", Мир
+https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
+#EXTINF:-1 group-title="Развлекательные", МИР
+http://65.21.85.175:8000/play/a00d/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Развлекательные", МИР
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_mobil/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные", МИР
+http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_mobil/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные", МИР
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8?hls_proxy_host=f4eb0d287702d48f6bbf6e6f56891e63
+#EXTINF:-1 group-title="Развлекательные", МИР
+http://uiptv.do.am/1ufc/113500247/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные", МИР
+http://194.158.222.36:6104
+#EXTINF:-1 group-title="Общие", НТВ HD
+http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
+#EXTINF:-1 group-title="Общие", НТВ-Беларусь
+http://194.158.222.36:6106/
 #EXTINF:-1 group-title="Развлекательные", НТВ Мир
 https://streaming.thestream.cyou/live/213-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Развлекательные", Первый канал
 https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
+#EXTINF:-1 group-title="Развлекательные", Первый канал 1
+http://195.26.83.96:7013/play/12/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Перец
 rtmp://212.0.213.132//Teledom
 #EXTINF:-1 group-title="Развлекательные", Пятница
@@ -36,36 +66,81 @@ http://130.193.73.10:8937/play/a018
 https://cdn2.skygo.mn/live/disk1/Friday/HLS-FTA/Friday.m3u8
 #EXTINF:-1 group-title="Развлекательные", Пятый канал
 http://130.193.73.10:8937/play/a00h
+#EXTINF:-1 group-title="ЭФИРНЫЕ", Пятый канал
+#EXTVLCOPT:http-user-agent=WINK/1.51.4 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV.m3u8
+#EXTINF:-1 group-title="Общий", Пятый канал
+http://77.106.252.178:4022/udp/233.33.210.6:5050
 #EXTINF:-1 group-title="Развлекательные", РЕН ТВ
 https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
 #EXTINF:-1 group-title="Развлекательные", Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1.m3u8
 #EXTINF:-1  group-title="Развлекательные", Светлое ТВ
 http://176.107.219.20:9000/play/a009/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТВ Беларусь
 http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТС
 https://streaming.televizor-24-tochka.ru/live/296.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС
+#EXTVLCOPT:http-user-agent=WINK/1.51.4 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv.ru/hls/DVB-T2/CH_STS.m3u8
+#EXTINF:-1 group-title="KINO+",СТС
+https://streaming.goodstream.cyou/live/296.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТС Love
 http://178.212.71.253:8002/play/a00r/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Суббота!
 http://130.193.73.10:8937/play/a03a
+#EXTINF:-1 group-title="Развлекательные", Суббота
+https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="super", Суббота!
+http://195.26.83.96:7013/play/a00e/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТВ3
 http://65.21.85.175:8000/play/a00u/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Развлекательные",ТВ3 2
+http://130.193.73.10:8937/play/a03q
 #EXTINF:-1 group-title="Развлекательные", ТВЦ
 http://65.21.85.175:8000/play/a00v/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Развлекательные", ТВЦ
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", Твое ТВ HD
 http://tvoetv.space:8080/tvoetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные",Твоё ТВ (HD)
+http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ
 https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
+#EXTINF:-1 group-title="Развлекательные", ТНТ
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT.m3u8
+EXTINF:-1 group-title="Развлекательные", ТНТ
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+#EXTINF:-1 group-title="Развлекательные", ТНТ
+https://streaming.goodstream.cyou/live/38.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ4
 https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
+#EXTINF:-1 group-title="Развлекательные", ТНТ4
+http://130.193.73.10:8937/play/a020
+#EXTINF:-1 group-title="Развлекательные", ТНТ4
+http://31.148.48.15/TNT4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные", ТНТ Int
+http://85.187.13.40:18000/tntint
 #EXTINF:-1 group-title="Развлекательные", ТСВ MD
 https://iptv-hls.idc.md/hls/2/live1.m3u8
+#EXTINF:-1 group-title="Развлекательные", ТСВ MD
+http://iptv-hls.idc.md:8200/hls/2/live1.m3u8
+#EXTINF:-1 group-title="Развлекательные" , ТСВ MD
+https://iptv-hls.idc.md/hls/2/live2.m3u8
+#EXTINF:-1 group-title="Развлекательные", ТСВ MD
+http://iptv-hls.idc.md:8200/hls/2/live2.m3u8
 #EXTINF:-1 group-title="Развлекательные", Че!
 http://195.26.83.96:7009/play/89/index.m3u8
+#EXTINF:-1 group-title="Развлекательные", Че!
+http://178.212.71.253:8002/play/a00s/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Ю ТВ
 http://tv.streams.baikal-telecom.net:8080/U/index.m3u8
+#EXTINF:-1 group-title="Развлекательные", Ю ТВ
+http://tv.streams.baikal-telecom.net:8080/U/mpegts
 #EXTINF:-1 group-title="Развлекательные", TV BRICS
 http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
 
@@ -74,6 +149,8 @@ http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
 
 #EXTINF:-1 group-title="Познавательные", 360°
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные", 360°
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
 #EXTINF:-1 group-title="Познавательные", Animal Planet
 http://135.181.115.81:8000/play/a03i/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", Big Planet
