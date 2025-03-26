@@ -157,23 +157,49 @@ http://135.181.115.81:8000/play/a03i/index.m3u8?token=livetv
 http://109.200.130.123:7537/play/a02j
 #EXTINF:-1 group-title="Познавательные", Discovery Channel HD
 http://91.146.94.234:10000/play/a041
+#EXTINF:-1 group-title="Познавательный",Discovery Channel 1
+http://65.21.85.175:8000/play/a02u/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", Galaxy
 http://65.21.85.175:8000/play/a01t/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Познавательный",Galaxy 1
+http://65.21.85.175:8000/play/a01t/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Познавательные", Galaxy 3
+http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 group-title="Познавательные", History
 http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Познавательный",History 1
+https://iptv.prosto.tv/ch87/video.m3u8?secret=3fwh601f
+#EXTINF:-1 group-title="Познавательные", History 2
+http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild
+http://78.130.250.2:8023/play/a02c/index.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",National Geographic Wild HD 1
 http://78.130.250.2:8023/play/a02c/index.m3u8
 #EXTINF:-1 group-title="Познавательные", National Geographic
 http://135.181.115.81:8000/play/a03w/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", Ocean TV
 http://158.101.222.193:88/vesti/play.php?channel_id=96
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ONE PLANET
+http://95.67.12.82:9088
 #EXTINF:-1 group-title="Познавательные", RT Doc orig
 https://hls.rt.com/hls/rtdru.m3u8
+#EXTINF:-1 group-title="Познавательный",RTД 3
+https://hls.rt.com/hls/rtdru.m3u8
+#EXTINF:-1 group-title="Познавательный",RTД rus 4
+https://streaming102.goodstream.cyou/live/554-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="Познавательный",RTД rus 5
+https://streaming101.goodstream.cyou/live/554-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Познавательные", Sunset Space 
 https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/3.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Viasat Nature1
+http://135.181.115.81:8000/play/a01j/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Познавательный",viju Nature 5
+http://195.26.83.96:7013/play/37/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju Explore
 http://158.101.222.193:88/vesti/play.php?channel_id=104
 #EXTINF:-1 group-title="Познавательные", Viju History
+http://135.181.115.81:8000/play/a00g/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Познавательный",viju History 2
 http://135.181.115.81:8000/play/a00g/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", Viju Nature
 http://135.181.115.81:8000/play/a01j/index.m3u8?token=livetv
@@ -183,24 +209,125 @@ http://158.101.222.193:88/vesti/play.php?channel_id=91
 http://178.124.152.238:8088/auto24
 #EXTINF:-1 group-title="Познавательные", Авто Плюс
 http://31.148.48.15/Avto_Plus/index.m3u8
+#EXTINF:-1 tvg-id="avto-plus" group-title="Познавательные", Авто Плюс 1
+http://178.212.71.253:8000/play/69/index.m3u8
+#EXTINF:-1 group-title="Хобби и увлечения",Авто Плюс 2
+http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/151/index.m3u
 #EXTINF:-1 group-title="Познавательные", Арсенал HD
 http://dmi3y-tv.ru/hls/CH_ARSENALHD.m3u8
+#EXTINF:-1 group-title="Хобби и увлечения",Бобёр 1
+http://195.18.23.20:8000/play/1/index.m3u8
+#EXTINF:-1 group-title="Хобби и увлечения",Бобёр 2
+http://178.212.71.253:8002/play/a00m/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Большая Азия HD 1
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные", Большая Азия 2
+http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные", Большая Азия 3
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные", Большая Азия 4
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
+#EXTINF:-1 group-title="Хобби и увлечения",Дикий 1
+http://65.21.85.175:8000/play/a00k/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Хобби и увлечения",Дикий 2
+http://95.156.76.230:33001/udp/230.4.34.78:1234
 #EXTINF:-1 group-title="Познавательные", Живая планета
 http://130.193.73.10:8937/play/a01m
+#EXTINF:-1 group-title="Хобби и увлечения",Живи! 
+http://195.18.23.20:8000/play/10/index.m3u8
+#EXTINF:-1 group-title="Познавательный",Живая природа 1
+http://178.212.71.253:8002/play/a00o/index.m3u8
+#EXTINF:-1 group-title="Познавательный",Живая природа 2
+http://95.156.76.230:33001/udp/230.4.34.25:1234
+#EXTINF:-1 group-title="Хобби и увлечения",Загородная жизнь 
+http://195.26.83.96:7007/play/10/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Зал суда (EDTV 576p)
+http://95.156.76.230:33001/udp/230.4.34.6:1234
 #EXTINF:-1 group-title="Познавательные", Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Познавательный",Звезда Плюс 1
+http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Познавательный",Звезда Плюс 2
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Познавательный",Звезда Плюс 3
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdlow.m3u8
+#EXTINF:-1 group-title="Познавательный",Звезда Плюс 4
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist_hdlow.m3u8
+#EXTINF:-1 group-title="Познавательный",Звезда Плюс 5
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="Познавательный",Звезда Плюс 6
+http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="Общественные",Звезда 7
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Познавательный",Звезда Плюс 8
+http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist.m3u8
+#EXTINF:-1 group-title="Познавательный",Звезда Плюс 9
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/Star.png", Звезда 10
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Познавательные", Зоо ТВ
 http://31.148.48.15/Zoo_TV/index.m3u8
 #EXTINF:-1 group-title="Познавательные", История
 http://109.200.130.123:7537/play/a025
 #EXTINF:-1 group-title="Познавательные", Кулинар ТВ
 http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
+#EXTINF:-1 group-title="Хобби и увлечения",Лапки Live 1
+http://91.247.68.229:8000/play/Lapki/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Моя Планета
 http://65.21.85.175:8000/play/a01m/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Познавательные", Моя Планета 1
+http://194.143.148.28:8080/Nauka20/mpegts
+#EXTINF:-1 group-title="Познавательные", Моя Планета 2
+http://tv.streams.baikal-telecom.net:8080/Moya_Planeta/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Моя Планета 3
+http://tv.streams.baikal-telecom.net:8080/Nauka20/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Моя Планета 4
+http://tv.streams.baikal-telecom.net:8080/Moya_Planeta/mpegts
+#EXTINF:-1 group-title="Познавательные", Моя Планета 5
+http://tv.streams.baikal-telecom.net:8080/Nauka20/mpegts
+#EXTINF:-1 group-title="Познавательные", Моя Планета 6
+http://87.120.142.11:18000/RENTV
+#EXTINF:-1 group-title="Познавательные", Моя Планета 7
+http://95.156.76.230:33001/udp/230.4.34.36:1234
+#EXTINF:-1 group-title="Познавательный",Моя Планета 8
+http://65.21.85.175:8000/play/a01m/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Хобби и увлечения",Мужской 1
+http://195.26.83.96:7007/play/11/index.m3u8
+#EXTINF:-1 group-title="Познавательный",НТВ-Право 1
+http://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Познавательный",НТВ-Право 2
+http://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательный",НТВ-Право 3
+http://cdn.ntv.ru/th_pravo/mono.m3u8
+#EXTINF:-1 group-title="Познавательный",НТВ-Право 4
+http://65.21.85.175:8000/play/a01e/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Познавательный",НТВ-Право 5
+http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательный",НТВ-Право 7
+http://cdn.ntv.ru/th_pravo/index.m3u8
+#EXTINF:-1 group-title="Познавательный",НТВ-Право 8
+http://cdn.ntv.ru/th_pravo/playlist.m3u8
+#EXTINF:-1 group-title="Познавательный",Наука 6
+http://vod.tuva.ru/nauka2/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Наука HD
 http://vod.tuva.ru/nauka2/index.m3u8
+#EXTINF:-1 group-title="Общественные",Неизвестная Россия 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.69
+http://cdn.ntv.ru/unknown_russia/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные", Неизвестная Россия 2
+https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
+#EXTINF:-1  group-title="Познавательные", Открытый мир
+http://v4.proofix.ru/0mir/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Первый космический HD
 http://stream01.vnet.am/Evrika/mono.m3u8
+#EXTINF:-1 group-title="Познавательный",Поехали! 1
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+http://91.247.68.229:8000/play/Poehali/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Продвижение 
+http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Т24
 http://178.212.71.253:8000/play/63/index.m3u8
 
