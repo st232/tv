@@ -82,8 +82,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", РЕН ТВ
 #EXTVLCOPT:http-user-agent=WINK/1.57.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV.m3u8
-#EXTINF:-1 group-title="Развлекательные", РЕН ТВ
-https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
 #EXTINF:-1 group-title="Развлекательные", Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1 group-title="Развлекательные", Россия 1
