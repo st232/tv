@@ -118,18 +118,12 @@ http://tvoetv.space:8080/tvoetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", Твоё ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ
-https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
-#EXTINF:-1 group-title="Развлекательные", ТНТ
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT.m3u8
-EXTINF:-1 group-title="Развлекательные", ТНТ
+#EXTINF:-1 group-title="Развлекательные", ТНТ
 #EXTVLCOPT:http-user-agent=SmartTV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ
 https://streaming.goodstream.cyou/live/38.m3u8
-#EXTINF:-1 group-title="Развлекательные", ТНТ Int
-http://85.187.13.40:18000/tntint
-#EXTINF:-1 group-title="Развлекательные", ТНТ4
-https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ4
 http://130.193.73.10:8937/play/a020
 #EXTINF:-1 group-title="Развлекательные", ТНТ4
