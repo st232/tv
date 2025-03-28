@@ -195,8 +195,6 @@ http://178.124.152.238:8088/auto24
 #EXTINF:-1 group-title="Познавательные", Авто Плюс
 http://31.148.48.15/Avto_Plus/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Авто Плюс
-http://178.212.71.253:8000/play/69/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Авто Плюс
 http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/151/index.m3u
 #EXTINF:-1 group-title="Познавательные", Арсенал HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Arsenal_HD
@@ -210,16 +208,10 @@ http://65.21.85.175:8000/play/a00k/index.m3u8?token=livetv
 http://95.156.76.230:33001/udp/230.4.34.78:1234
 #EXTINF:-1 group-title="Познавательные", Живая планета
 http://130.193.73.10:8937/play/a01m
-#EXTINF:-1 group-title="Познавательные", Живая природа
-http://178.212.71.253:8002/play/a00o/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Живая природа
-http://95.156.76.230:33001/udp/230.4.34.25:1234
 #EXTINF:-1 group-title="Познавательные", Живи! 
 http://195.18.23.20:8000/play/10/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Загородная жизнь
 http://195.26.83.96:7007/play/10/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Зал суда
-http://95.156.76.230:33001/udp/230.4.34.6:1234
 #EXTINF:-1 group-title="Познавательные", Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Познавательные", Звезда Плюс
