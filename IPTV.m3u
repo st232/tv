@@ -150,7 +150,7 @@ http://tv.streams.baikal-telecom.net:8080/U/mpegts
 
 #EXTINF:-1 group-title="Познавательные", 360°
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные", 360°
+#EXTINF:-1 group-title="Познавательные", 360° Новости
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
 #EXTINF:-1 group-title="Познавательные", Animal Planet
 http://135.181.115.81:8000/play/a03i/index.m3u8?token=livetv
