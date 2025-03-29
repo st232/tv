@@ -66,8 +66,11 @@ http://195.26.83.96:7013/play/12/index.m3u8
 rtmp://212.0.213.132//Teledom
 #EXTINF:-1 group-title="Развлекательные", Пятница
 http://130.193.73.10:8937/play/a018
-#EXTINF:-1 group-title="Развлекательные", Пятница Int
-https://cdn2.skygo.mn/live/disk1/Friday/HLS-FTA/Friday.m3u8
+#EXTINF:-1 group-title="Развлекательные", Пятница
+http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY.m3u8
+#EXTINF:-1 group-title="Развлекательные", Пятница
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", Пятый канал
 http://130.193.73.10:8937/play/a00h
 #EXTINF:-1 group-title="Развлекательные", Пятый канал
@@ -121,6 +124,12 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 https://streaming.goodstream.cyou/live/38.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT.m3u8
+#EXTINF:-1 group-title="Развлекательные", ТНТ
+http://188.190.222.53/THT/index.m3u8
+#EXTINF:-1 group-title="Развлекательные", ТНТ
+http://130.193.73.10:8937/play/a01z
+#EXTINF:-1 group-title="Развлекательные", ТНТ
+http://s3.merlive.am/tnthd/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ
 #EXTVLCOPT:http-user-agent=SmartTV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
