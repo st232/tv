@@ -136,8 +136,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ4
 http://130.193.73.10:8937/play/a020
 #EXTINF:-1 group-title="Развлекательные", ТНТ4
-http://31.148.48.15/TNT4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Развлекательные", ТНТ4
 https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ4
 http://178.212.71.253:8000/play/106/index.m3u8
