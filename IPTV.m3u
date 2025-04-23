@@ -200,7 +200,7 @@ http://178.212.71.253:8002/play/a00m/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Дикий
 http://65.21.85.175:8000/play/a00k/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", Живая планета
-http://130.193.73.10:8937/play/a01m
+http://178.212.71.253:8000/play/114/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Живи! 
 http://195.18.23.20:8000/play/10/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Загородная жизнь
@@ -372,8 +372,6 @@ http://158.101.222.193:88/vesti/play.php?channel_id=163
 http://158.101.222.193:88/vesti/play.php?channel_id=165
 #EXTINF:-1 group-title="Кино", Любимое Индийское Кино
 http://autopilot.catcast.tv/content/41596/index.m3u8
-#EXTINF:-1 group-title="Кино", Любимое кино
-http://158.101.222.193:88/vesti/play.php?channel_id=44
 #EXTINF:-1 group-title="Кино", Мир сериала
 http://158.101.222.193:88/vesti/play.php?channel_id=45
 #EXTINF:-1 group-title="Кино", Мужское Кино
