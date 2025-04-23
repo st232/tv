@@ -65,14 +65,10 @@ http://195.26.83.96:7013/play/12/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Перец
 rtmp://212.0.213.132//Teledom
 #EXTINF:-1 group-title="Развлекательные", Пятница
-http://130.193.73.10:8937/play/a018
-#EXTINF:-1 group-title="Развлекательные", Пятница
 http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY.m3u8
 #EXTINF:-1 group-title="Развлекательные", Пятница
 #EXTVLCOPT:http-user-agent=SmartTV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные", Пятый канал
-http://130.193.73.10:8937/play/a00h
 #EXTINF:-1 group-title="Развлекательные", Пятый канал
 #EXTVLCOPT:http-user-agent=WINK/1.57.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV.m3u8
@@ -106,12 +102,8 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_STS.m3u8
 https://streaming.goodstream.cyou/live/296.m3u8
 #EXTINF:-1 group-title="Развлекательные", Суббота!
 http://195.26.83.96:7013/play/a00e/index.m3u8
-#EXTINF:-1 group-title="Развлекательные", Суббота!
-http://130.193.73.10:8937/play/a03a
 #EXTINF:-1 group-title="Развлекательные", ТВ3
 http://65.21.85.175:8000/play/a00u/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Развлекательные", ТВ3
-http://130.193.73.10:8937/play/a03q
 #EXTINF:-1 group-title="Развлекательные", ТВЦ
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТВЦ
