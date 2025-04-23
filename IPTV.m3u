@@ -139,10 +139,6 @@ http://iptv-hls.idc.md:8200/hls/2/live2.m3u8
 http://195.26.83.96:7009/play/89/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Че!
 http://178.212.71.253:8002/play/a00s/index.m3u8
-#EXTINF:-1 group-title="Развлекательные", Ю ТВ
-http://tv.streams.baikal-telecom.net:8080/U/index.m3u8
-#EXTINF:-1 group-title="Развлекательные", Ю ТВ
-http://tv.streams.baikal-telecom.net:8080/U/mpegts
 
 
 
@@ -181,10 +177,6 @@ http://135.181.115.81:8000/play/a03w/index.m3u8?token=livetv
 http://158.101.222.193:88/vesti/play.php?channel_id=96
 #EXTINF:-1 group-title="Познавательные", ONE PLANET
 http://95.67.12.82:9088
-#EXTINF:-1 group-title="Познавательные", RT Doc orig
-https://hls.rt.com/hls/rtdru.m3u8
-#EXTINF:-1 group-title="Познавательные", Sunset Space 
-https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/3.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju Explore
 http://158.101.222.193:88/vesti/play.php?channel_id=104
 #EXTINF:-1 group-title="Познавательные", Viju History
@@ -199,8 +191,6 @@ http://158.101.222.193:88/vesti/play.php?channel_id=91
 http://178.124.152.238:8088/auto24
 #EXTINF:-1 group-title="Познавательные", Авто Плюс
 http://31.148.48.15/Avto_Plus/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Авто Плюс
-http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/151/index.m3u
 #EXTINF:-1 group-title="Познавательные", Арсенал HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Arsenal_HD
 #EXTINF:-1 group-title="Познавательные", Бобёр
@@ -209,8 +199,6 @@ http://195.18.23.20:8000/play/1/index.m3u8
 http://178.212.71.253:8002/play/a00m/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Дикий
 http://65.21.85.175:8000/play/a00k/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Познавательные", Дикий
-http://95.156.76.230:33001/udp/230.4.34.78:1234
 #EXTINF:-1 group-title="Познавательные", Живая планета
 http://130.193.73.10:8937/play/a01m
 #EXTINF:-1 group-title="Познавательные", Живи! 
@@ -246,20 +234,6 @@ http://109.200.130.123:7537/play/a025
 http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 group-title="Познавательные", Лапки Live
 http://91.247.68.229:8000/play/Lapki/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Моя Планета
-http://65.21.85.175:8000/play/a01m/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Познавательные", Моя Планета
-http://194.143.148.28:8080/Nauka20/mpegts
-#EXTINF:-1 group-title="Познавательные", Моя Планета
-http://tv.streams.baikal-telecom.net:8080/Moya_Planeta/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Моя Планета
-http://tv.streams.baikal-telecom.net:8080/Nauka20/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Моя Планета
-http://tv.streams.baikal-telecom.net:8080/Moya_Planeta/mpegts
-#EXTINF:-1 group-title="Познавательные", Моя Планета
-http://tv.streams.baikal-telecom.net:8080/Nauka20/mpegts
-#EXTINF:-1 group-title="Познавательные", Моя Планета
-http://87.120.142.11:18000/RENTV
 #EXTINF:-1 group-title="Познавательные", Моя Планета
 http://65.21.85.175:8000/play/a01m/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", Мужской
