@@ -2,8 +2,6 @@
 
 #EXTINF:-1 group-title="Общие", ТСВ Приднестровье
 http://iptv-hls.idc.md:8200/hls/2/live1.m3u8
-#EXTINF:-1 tvg-id="tcb" tvg-logo="https://iptvx.one/picons/tcb.png" group-title="Общественные",ТСВ (EDTV)
-http://iptv-hls.idc.md:8200/hls/2/live1.m3u8
 
 
 #EXTINF:-1 group-title="Познавательные", Перец
@@ -12,6 +10,15 @@ rtmp://212.0.213.132//Teledom
 http://213.91.178.133:8000/play/a0ay
 #EXTINF:-1 tvg-id="perec-int" group-title="Развлекательные",Перец
 https://cdn3.skygo.mn/live/disk1/Che/HLS-FTA/Che.m3u8
+
+#EXTINF:-1 group-title="Познавательные", Nat Geo Wild 
+http://135.181.115.81:8000/play/a03v/index.m3u8?token=livetv
+#EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://iptvx.one/picons/nat-geo-wild.png" group-title="Познавательные",Nat Geo Wild (HD)
+ttp://188.237.47.212:6005
+#EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательные", Nat Geo Wild
+https://tv.movielab.pro/162/video.m3u8?token=8626af10719de4a7e09d22afc8e749a78b4c342d-2a38bfef56bc250452235960ff460adb-1745434446-1745348046
+#EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательные", Nat Geo Wild FHD
+https://bl.rutube.ru/livestream/c18137e3491619017f984f84598035ec/index.m3u8?s=08TJIPW5oDKjvbjgMzU5Mw&e=1745442270&scheme=https
 
 
 #EXTINF:-1 group-title="The Grand Tour" tvg-id="no_epg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/The_Grand_Tour_Logo.svg/938px-The_Grand_Tour_Logo.svg.png",1x1
