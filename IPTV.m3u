@@ -133,6 +133,9 @@ https://iptv-hls.idc.md/hls/2/live1.m3u8
 http://195.26.83.96:7009/play/89/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Че!
 http://178.212.71.253:8002/play/a00s/index.m3u8
+#EXTINF:-1 group-title="Развлекательные", Ю
+http://dmi3y-tv.ru/hls/zabava/CH_U.m3u8
+
 
 
 
@@ -336,6 +339,8 @@ http://158.101.222.193:88/vesti/play.php?channel_id=40
 http://158.101.222.193:88/vesti/play.php?channel_id=41
 #EXTINF:-1 group-title="Кино", Cinema
 http://catchup.videoline.ru/cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино", Comedy Hub
+https://bl.rutube.ru/livestream/dcc02ed1ff97923541c6d4c030c54c65/index.m3u8?s=2jL4hhpn0Tn_GZvZQLxk8g&e=1745485412&scheme=https
 #EXTINF:-1 group-title="Кино", FILM TV 2
 http://hlss.goodgame.ru:8080/hls/163253.m3u8
 #EXTINF:-1 group-title="Кино", Hollywood HD
