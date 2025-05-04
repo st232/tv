@@ -64,8 +64,6 @@ https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
 http://195.26.83.96:7013/play/12/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Перец
 http://213.91.178.133:8000/play/a0ay
-#EXTINF:-1 group-title="Развлекательные", Перец
-rtmp://212.0.213.132//Teledom
 #EXTINF:-1 group-title="Развлекательные", Пятница
 http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY.m3u8
 #EXTINF:-1 group-title="Развлекательные", Пятница
@@ -149,8 +147,6 @@ http://135.181.115.81:8000/play/a03i/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", Big Planet
 http://109.200.130.123:7537/play/a02j
 #EXTINF:-1 group-title="Познавательные", Discovery Channel HD
-http://91.146.94.234:10000/play/a041
-#EXTINF:-1 group-title="Познавательные", Discovery Channel HD
 http://65.21.85.175:8000/play/a02u/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", Galaxy
 http://65.21.85.175:8000/play/a01t/index.m3u8?token=livetv
@@ -162,10 +158,6 @@ http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
 http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild
 http://135.181.115.81:8000/play/a03v/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Познавательные", Nat Geo Wild
-https://tv.movielab.pro/162/video.m3u8?token=8626af10719de4a7e09d22afc8e749a78b4c342d-2a38bfef56bc250452235960ff460adb-1745434446-1745348046
-#EXTINF:-1 group-title="Познавательные", Nat Geo Wild
-https://bl.rutube.ru/livestream/c18137e3491619017f984f84598035ec/index.m3u8?s=08TJIPW5oDKjvbjgMzU5Mw&e=1745442270&scheme=https
 #EXTINF:-1 group-title="Познавательные", National Geographic
 http://135.181.115.81:8000/play/a03w/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", Ocean TV
@@ -293,8 +285,6 @@ http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 group-title="Детские", HGTN
 https://v2.catcast.tv/content/34251/index.m3u8
-#EXTINF:-1 group-title="Детские", Nick Jr.
-rtmp://212.0.213.132//NickJr
 #EXTINF:-1 group-title="Детские", Детский мир
 http://195.26.83.96:7007/play/14/index.m3u8
 #EXTINF:-1 group-title="Детские", Детское кино International
