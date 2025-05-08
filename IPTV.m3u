@@ -115,9 +115,9 @@ http://tvoetv.space:8080/tvoetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", Твоё ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ
-https://streaming.goodstream.cyou/live/38.m3u8
-#EXTINF:-1 group-title="Развлекательные", ТНТ
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT.m3u8
+#EXTINF:-1 group-title="Развлекательные", ТНТ
+https://streaming.goodstream.cyou/live/38.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ
 #EXTVLCOPT:http-user-agent=SmartTV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
@@ -127,8 +127,6 @@ http://130.193.73.10:8937/play/a020
 https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ4
 http://178.212.71.253:8000/play/106/index.m3u8
-#EXTINF:-1 group-title="Развлекательные", ТСВ MD
-https://iptv-hls.idc.md/hls/2/live1.m3u8
 #EXTINF:-1 group-title="Развлекательные", Че!
 http://195.26.83.96:7009/play/89/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Че!
@@ -180,8 +178,6 @@ http://158.101.222.193:88/vesti/play.php?channel_id=91
 http://178.124.152.238:8088/auto24
 #EXTINF:-1 group-title="Познавательные", Авто Плюс
 http://31.148.48.15/Avto_Plus/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Арсенал HD
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Arsenal_HD
 #EXTINF:-1 group-title="Познавательные", Бобёр
 http://195.18.23.20:8000/play/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Бобёр
@@ -246,8 +242,6 @@ http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 http://cdn.ntv.ru/th_pravo/index.m3u8
 #EXTINF:-1 group-title="Познавательные", НТВ-Право
 http://cdn.ntv.ru/th_pravo/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные", Первый космический HD
-http://stream01.vnet.am/Evrika/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Поехали!
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://91.247.68.229:8000/play/Poehali/index.m3u8
@@ -258,7 +252,10 @@ http://178.212.71.253:8000/play/63/index.m3u8
 
 
 
-
+#EXTINF:-1 group-title="Музыкальные", Bridge Rock
+http://31.173.165.29:8000/play/a01v/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Bridge Rock
+http://178.212.71.253:8000/play/101/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Krone hit HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1 group-title="Музыкальные", Now Rock
