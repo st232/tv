@@ -145,7 +145,7 @@ https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u
 #EXTINF:-1 group-title="Познавательные", Animal Planet
 http://135.181.115.81:8000/play/a03i/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", Big Planet
-http://109.200.130.123:7537/play/a02j
+http://212.75.204.30:81/udp/239.255.42.36:1234
 #EXTINF:-1 group-title="Познавательные", Discovery Channel HD
 http://109.248.236.51/Discovery/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Discovery Channel HD
