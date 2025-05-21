@@ -98,10 +98,10 @@ http://178.212.71.253:8002/play/a00r/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТС
 https://streaming.televizor-24-tochka.ru/live/296.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТС
+https://streaming.goodstream.cyou/live/296.m3u8
+#EXTINF:-1 group-title="Развлекательные", СТС
 #EXTVLCOPT:http-user-agent=WINK/1.59.2 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/DVB-T2/CH_STS.m3u8
-#EXTINF:-1 group-title="Развлекательные", СТС
-https://streaming.goodstream.cyou/live/296.m3u8
 #EXTINF:-1 group-title="Развлекательные", Суббота!
 http://195.26.83.96:7013/play/a00e/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТВ3
