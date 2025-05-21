@@ -159,6 +159,8 @@ http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", History
 http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild
+http://188.237.47.212:6005
+#EXTINF:-1 group-title="Познавательные", Nat Geo Wild
 http://135.181.115.81:8000/play/a03v/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", National Geographic
 http://109.248.236.51/black/tracks-v1a1/mono.m3u8
