@@ -72,16 +72,16 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY.m3u8
 #EXTVLCOPT:http-user-agent=SmartTV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", Пятый канал
-#EXTVLCOPT:http-user-agent=WINK/1.59.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.60.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV.m3u8
 #EXTINF:-1 group-title="Развлекательные", Рен ТВ
-#EXTVLCOPT:http-user-agent=WINK/1.59.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.60.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", РЕН ТВ
-#EXTVLCOPT:http-user-agent=WINK/1.59.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.60.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", РЕН ТВ
-#EXTVLCOPT:http-user-agent=WINK/1.59.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.60.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV.m3u8
 #EXTINF:-1 group-title="Развлекательные", Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
@@ -100,7 +100,7 @@ https://streaming.televizor-24-tochka.ru/live/296.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТС
 https://streaming.goodstream.cyou/live/296.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТС
-#EXTVLCOPT:http-user-agent=WINK/1.59.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.60.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/DVB-T2/CH_STS.m3u8
 #EXTINF:-1 group-title="Развлекательные", Суббота!
 http://195.26.83.96:7013/play/a00e/index.m3u8
@@ -115,11 +115,12 @@ http://tvoetv.space:8080/tvoetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", Твоё ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT.m3u8
-#EXTINF:-1 group-title="Развлекательные", ТНТ
 https://streaming.goodstream.cyou/live/38.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ
-#EXTVLCOPT:http-user-agent=SmartTV
+#EXTVLCOPT:http-user-agent=WINK/1.60.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT.m3u8
+#EXTINF:-1 group-title="Развлекательные", ТНТ
+#EXTVLCOPT:http-user-agent=WINK/1.60.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ4
 http://130.193.73.10:8937/play/a020
