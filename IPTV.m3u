@@ -184,15 +184,17 @@ http://158.101.222.193:88/vesti/play.php?channel_id=91
 #EXTINF:-1 group-title="Познавательные", Авто 24
 http://178.124.152.238:8088/auto24
 #EXTINF:-1 group-title="Познавательные", Авто Плюс
-http://178.212.71.253:8000/play/69/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Авто Плюс
 http://api.peers.tv/timeshift/auto_plus/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDc5MzA1ODAsImlhdCI6MTc0Nzg0NDE4MCwiY2lkIjo2LCJ1aWQiOjkxODE1MDc4MywicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.1ZCHpqc1hf-9zXIFbvPkdeoM6d2spL6CTgi7IQsCCfc&offset=3
+#EXTINF:-1 group-title="Познавательные", Авто Плюс
+http://178.212.71.253:8000/play/69/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Авто Плюс
 http://31.148.48.15/Avto_Plus/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Бобёр
 http://195.18.23.20:8000/play/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Бобёр
 http://178.212.71.253:8002/play/a00m/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Живая планета
+http://130.193.73.10:8937/play/a01m
 #EXTINF:-1 group-title="Познавательные", Живая планета
 http://178.212.71.253:8000/play/114/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Живи! 
