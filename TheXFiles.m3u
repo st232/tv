@@ -1,5 +1,3 @@
-#EXTM3U url-tvg="http://epg.one/ru.xml.gz"
-
 #EXTINF:-1 group-title="Секретные материалы", Серия 1 (сезон 1)
 http://s6.gencit.info/vod/films/1.pilot_411341/hls/index.m3u8
 #EXTINF:-1 group-title="Секретные материалы", Серия 2 (сезон 1)
