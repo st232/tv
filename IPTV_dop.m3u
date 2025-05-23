@@ -1,5 +1,3 @@
-#EXTM3U url-tvg="http://epg.one/ru.xml.gz"
-
 #EXTINF:-1 group-title="Развлекательные", ТСВ MD
 https://iptv-hls.idc.md/hls/2/live1.m3u8
 #EXTINF:-1 group-title="Познавательные", Арсенал HD
