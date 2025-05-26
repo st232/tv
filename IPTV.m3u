@@ -102,8 +102,6 @@ https://streaming.goodstream.cyou/live/296.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.60.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/DVB-T2/CH_STS.m3u8
 #EXTINF:-1 group-title="Развлекательные", Суббота!
-https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=eNbLGi5CvRdeqw1asFdJAw&e=1748136182&scheme=https
-#EXTINF:-1 group-title="Развлекательные", Суббота!
 http://195.26.83.96:7013/play/a00e/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТВ3
 http://65.21.85.175:8000/play/a00u/index.m3u8?token=livetv
@@ -118,17 +116,11 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ
 https://streaming.goodstream.cyou/live/38.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ
-https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=_-3F0LGX-UVksGPcqWGOMg&e=1748136178&scheme=https
-#EXTINF:-1 group-title="Развлекательные", ТНТ
 #EXTVLCOPT:http-user-agent=WINK/1.60.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ
 #EXTVLCOPT:http-user-agent=WINK/1.60.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные", ТНТ4
-https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=vIur4pb7UXM7uxjDtyCUBQ&e=1748136179&scheme=https
-#EXTINF:-1 group-title="Развлекательные", ТНТ4
-https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ4
 http://178.212.71.253:8000/play/106/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Че!
