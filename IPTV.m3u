@@ -118,10 +118,10 @@ http://tvoetv.space:8080/tvoetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", Твоё ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ
-https://streaming.goodstream.cyou/live/38.m3u8
-#EXTINF:-1 group-title="Развлекательные", ТНТ
 #EXTVLCOPT:http-user-agent=WINK/1.60.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT.m3u8
+#EXTINF:-1 group-title="Развлекательные", ТНТ
+https://streaming.goodstream.cyou/live/38.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ
 #EXTVLCOPT:http-user-agent=WINK/1.60.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
