@@ -16,10 +16,14 @@ http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
 #EXTINF:-1 group-title="Новостные", РБК
 http://dmi3y-tv.ru/hls/CH_RBK.m3u8
+#EXTINF:-1 group-title="Новостные", 360° Новости
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
 
 
 
 
+#EXTINF:-1 group-title="Развлекательные", 360°
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", TV BRICS
 http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Развлекательные", Беларусь 1
@@ -40,6 +44,10 @@ http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", Домашний
 http://65.21.85.175:8000/play/a00n/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Познавательные", Звезда
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Познавательные", Звезда
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Развлекательные", Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", Мир
@@ -126,8 +134,6 @@ https://streaming.goodstream.cyou/live/38.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.60.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ4
-http://s1.merlive.am/tnt4/index.m3u8
-#EXTINF:-1 group-title="Развлекательные", ТНТ4
 #EXTVLCOPT:http-user-agent=WINK/1.60.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ4
@@ -135,6 +141,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ4
 http://178.212.71.253:8000/play/106/index.m3u8
+#EXTINF:-1 group-title="Развлекательные", ТНТ4
+http://s1.merlive.am/tnt4/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ4 International
 https://cdn2.skygo.mn/live/disk1/TNT4/HLS-FTA/TNT4.m3u8
 #EXTINF:-1 group-title="Развлекательные", Че!
@@ -151,10 +159,6 @@ http://dmi3y-tv.ru/hls/zabava/CH_U.m3u8
 
 
 
-#EXTINF:-1 group-title="Познавательные", 360°
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные", 360° Новости
-https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
 #EXTINF:-1 group-title="Познавательные", Animal Planet
 http://109.248.236.51/animal_planet_hd/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Animal Planet
@@ -234,10 +238,6 @@ http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist_sdhigh.m3u8
 http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные", Звезда
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Познавательные", Звезда
-http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Познавательные", Зоо ТВ
 http://31.148.48.15/Zoo_TV/index.m3u8
 #EXTINF:-1 group-title="Познавательные", История
