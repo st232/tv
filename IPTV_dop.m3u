@@ -145,7 +145,18 @@ http://178.217.72.66:8080/National_Geographic/index.m3u8
 http://135.181.115.81:8000/play/a03w/index.m3u8?token=livetv
 
 
-
+#EXTINF:-1 group-title="Познавательные", Моя планета
+http://194.143.148.28:8080/Nauka20/mpegts
+#EXTINF:-1 group-title="Познавательные", Моя планета HD
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Moya_Planeta_HD
+#EXTINF:-1 tvg-id="moya-planeta" tvg-logo="https://iptvx.one/picons/moya-planeta.png" group-title="Познавательные",Моя Планета
+http://194.143.148.28:8080/Nauka20/mpegts
+#EXTINF:-1 tvg-id="moya-planeta" group-title="Познавательные",Моя Планета
+http://tv.streams.baikal-telecom.net:8080/Moya_Planeta/index.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Моя Планета
+http://dmi3y-tv.ru/hls/CH_MOYAPLANETA.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Моя Планета HD720
+http://dmi3y-tv.ru/hls/CH_MOYAPLANETAHD720.m3u8
 
 
 
