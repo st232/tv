@@ -2,8 +2,6 @@
 
 #EXTINF:-1 group-title="Новостные", Известия
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 group-title="Новостные", Известия
-http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Новостные", Первый информационный
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
 #EXTINF:-1 group-title="Новостные", Первый информационный
@@ -92,9 +90,9 @@ http://194.158.222.36:6104
 #EXTINF:-1 group-title="Развлекательные", НТВ
 http://194.158.222.36:6107
 #EXTINF:-1 group-title="Развлекательные", Первый канал
-http://195.26.83.96:7013/play/12/index.m3u8
-#EXTINF:-1 group-title="Развлекательные", Первый канал
 https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
+#EXTINF:-1 group-title="Развлекательные", Первый канал
+http://195.26.83.96:7013/play/12/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Перец
 http://213.91.178.133:8000/play/a0ay
 #EXTINF:-1 group-title="Развлекательные", Перец
@@ -144,8 +142,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные", Суббота!
 #EXTVLCOPT:http-user-agent=SmartTV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные", Суббота!
-http://195.26.83.96:7013/play/a00e/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Суббота! (+2)
 http://dmi3y-tv.ru/hls/zabava/CH_SUBBOTA_2.m3u8
 #EXTINF:-1 group-title="Развлекательные", Суббота! (+4)
@@ -222,12 +218,6 @@ http://217.113.25.29:8001/play/a045/index.m3u8
 http://195.245.99.242/Discovery/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Galaxy
 http://195.26.83.96:7007/play/a00j/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Galaxy
-http://api.peers.tv/timeshift/galaxy_tv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDgxMzU3ODAsImlhdCI6MTc0ODA0OTM4MCwiY2lkIjo2LCJ1aWQiOjkxODcwMjQxNiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.H6qnFj9gY0s73kLEWByjfIHxtqi3kk5dQaIInlk6IzQ&offset=3
-#EXTINF:-1 group-title="Познавательные", History
-http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Познавательные", History
-http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild
 http://188.237.47.212:6005
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild
@@ -246,12 +236,7 @@ http://158.101.222.193:88/vesti/play.php?channel_id=96
 http://95.67.12.82:9088
 #EXTINF:-1 group-title="Познавательные", Viju Explore
 http://158.101.222.193:88/vesti/play.php?channel_id=104
-#EXTINF:-1 group-title="Познавательные", Viju History
-http://135.181.115.81:8000/play/a00g/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Познавательные", Viju Nature
-http://195.26.83.96:7013/play/37/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Viju Nature
-http://135.181.115.81:8000/play/a01j/index.m3u8?token=livetv
+
 #EXTINF:-1 group-title="Познавательные", Viju+ Planet
 http://158.101.222.193:88/vesti/play.php?channel_id=91
 #EXTINF:-1 group-title="Познавательные", Авто 24
@@ -271,20 +256,8 @@ http://195.18.23.20:8000/play/10/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Загородная жизнь
 http://195.26.83.96:7007/play/10/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Звезда Плюс
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Познавательные", Звезда Плюс
-http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Познавательные", Звезда Плюс
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist_hdlow.m3u8
-#EXTINF:-1 group-title="Познавательные", Звезда Плюс
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_sdhigh.m3u8
-#EXTINF:-1 group-title="Познавательные", Звезда Плюс
-http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist_sdhigh.m3u8
-#EXTINF:-1 group-title="Познавательные", Звезда Плюс
-http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные", Звезда Плюс
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Зоо ТВ
 http://31.148.48.15/Zoo_TV/index.m3u8
 #EXTINF:-1 group-title="Познавательные", История
