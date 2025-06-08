@@ -42,8 +42,35 @@ http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v2a1/mono.m3u8
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", Большая Азия HD
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные", Домашний (-1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY-1.m3u8
 #EXTINF:-1 group-title="Развлекательные", Домашний
-http://65.21.85.175:8000/play/a00n/index.m3u8?token=livetv
+http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY.m3u8
+#EXTINF:-1 tvg-id="domashny" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные", Домашний
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="domashny" group-title="Развлекательные", Домашний (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.61.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+#EXTINF:-1 group-title="Развлекательные", Домашний (+2)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY_2.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные", Домашний (+2)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
+#EXTINF:-1 group-title="Развлекательные", Домашний (+4)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY_4.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные",Домашний (+4)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
+#EXTINF:-1 group-title="Развлекательные", Домашний (+6)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY_6.m3u8
+#EXTINF:-1 group-title="Развлекательные", Домашний (+7)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY_7.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="domashny-pl7" group-title="Развлекательные", Домашний (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.61.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
+#EXTINF:-1 group-title="Развлекательные", Домашний Int
+http://178.124.152.238:8088/dom
 #EXTINF:-1 group-title="Познавательные", Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Познавательные", Звезда
@@ -70,6 +97,8 @@ http://195.26.83.96:7013/play/12/index.m3u8
 https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
 #EXTINF:-1 group-title="Развлекательные", Перец
 http://213.91.178.133:8000/play/a0ay
+#EXTINF:-1 group-title="Развлекательные", Перец
+http://178.124.152.238:8088/perec
 #EXTINF:-1 group-title="Развлекательные", Пятница
 #EXTVLCOPT:http-user-agent=WINK/1.61.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY.m3u8
@@ -105,10 +134,49 @@ https://streaming.goodstream.cyou/live/296.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТС
 #EXTVLCOPT:http-user-agent=WINK/1.61.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/DVB-T2/CH_STS.m3u8
+#EXTINF:-1 group-title="Развлекательные", Суббота! (-1)
+http://dmi3y-tv.ru/hls/zabava/CH_SUBBOTA-1.m3u8
+#EXTINF:-1 group-title="Развлекательные", Суббота!
+http://dmi3y-tv.ru/hls/zabava/CH_SUBBOTA.m3u8
+#EXTINF:-1 tvg-id="super" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://iptvx.one/picons/subbota.png" group-title="Развлекательные", Суббота!
+#EXTVLCOPT:http-user-agent=WINK/1.61.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные", Суббота!
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", Суббота!
 http://195.26.83.96:7013/play/a00e/index.m3u8
+#EXTINF:-1 group-title="Развлекательные", Суббота! (+2)
+http://dmi3y-tv.ru/hls/zabava/CH_SUBBOTA_2.m3u8
+#EXTINF:-1 group-title="Развлекательные", Суббота! (+4)
+http://dmi3y-tv.ru/hls/zabava/CH_SUBBOTA_4.m3u8
+#EXTINF:-1 group-title="Развлекательные", Суббота! (+6)
+http://dmi3y-tv.ru/hls/zabava/CH_SUBBOTA_6.m3u8
+#EXTINF:-1 group-title="Развлекательные", Суббота! (+7)
+http://dmi3y-tv.ru/hls/zabava/CH_SUBBOTA_7.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Познавательные" tvg-id="super-pl7", Суббота! (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.61.1 (AndroidTV/9) HlsWinkPlayer 
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
+#EXTINF:-1 group-title="Развлекательные", ТВ3 (-1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3-1.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТВ3
-http://65.21.85.175:8000/play/a00u/index.m3u8?token=livetv
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3.m3u8
+#EXTINF:-1 group-title="Развлекательные", ТВ3
+http://92.242.110.52:9835/udp/238.1.11.45:1234
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="tv3-ru", ТВ3 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.61.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+#EXTINF:-1 group-title="Развлекательные", ТВ3 (+2)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_2.m3u8
+#EXTINF:-1 group-title="Развлекательные", ТВ3 (+4)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_4.m3u8
+#EXTINF:-1 group-title="Развлекательные", ТВ3 (+6)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_6.m3u8
+#EXTINF:-1 group-title="Развлекательные", ТВ3 (+7)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_7.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="tv3-ru-pl7" group-title="Общие", ТВ3 (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.61.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТВЦ
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", Твое ТВ HD
@@ -149,7 +217,9 @@ http://s7.merlive.am/animalplanet/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Big Planet
 http://212.75.204.30:81/udp/239.255.42.36:1234
 #EXTINF:-1 group-title="Познавательные", Discovery Channel HD
-http://65.21.85.175:8000/play/a02u/index.m3u8?token=livetv
+http://217.113.25.29:8001/play/a045/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Discovery Channel HD
+http://195.245.99.242/Discovery/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Galaxy
 http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Galaxy
@@ -160,10 +230,16 @@ http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
 http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild
 http://188.237.47.212:6005
+#EXTINF:-1 group-title="Познавательные", Nat Geo Wild
+http://195.245.99.242/NatGeoWild/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные", Nat Geo Wild
+http://178.217.72.66:8080/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 group-title="Познавательные", National Geographic
-http://109.248.236.51/black/tracks-v1a1/mono.m3u8
+http://217.113.25.29:8001/play/a00y/index.m3u8
 #EXTINF:-1 group-title="Познавательные", National Geographic
-http://135.181.115.81:8000/play/a03w/index.m3u8?token=livetv
+http://195.245.99.242/National_Geographic/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные", National Geographic
+http://178.217.72.66:8080/National_Geographic/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Ocean TV
 http://158.101.222.193:88/vesti/play.php?channel_id=96
 #EXTINF:-1 group-title="Познавательные", ONE PLANET
@@ -218,7 +294,13 @@ http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 group-title="Познавательные", Лапки Live HD
 http://91.247.68.229:8000/play/Lapki/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Моя Планета
-http://65.21.85.175:8000/play/a01m/index.m3u8?token=livetv
+http://194.143.148.28:8080/Nauka20/mpegts
+#EXTINF:-1 group-title="Познавательные", Моя Планета
+http://tv.streams.baikal-telecom.net:8080/Moya_Planeta/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Моя Планета
+http://dmi3y-tv.ru/hls/CH_MOYAPLANETA.m3u8
+#EXTINF:-1 group-title="Познавательные", Моя Планета
+http://dmi3y-tv.ru/hls/CH_MOYAPLANETAHD720.m3u8
 #EXTINF:-1 group-title="Познавательные", Мужской
 http://195.26.83.96:7007/play/11/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Наука HD
