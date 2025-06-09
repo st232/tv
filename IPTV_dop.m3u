@@ -1,4 +1,9 @@
-
+#EXTINF:-1 group-title="Познавательные", Animal Planet
+http://109.248.236.51/animal_planet_hd/mono.m3u8
+#EXTINF:-1 group-title="Познавательные", Animal Planet HD
+http://s7.merlive.am/animalplanet/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/801.png" tvg-id="animal-planet",Animal Planet
+http://217.113.25.29:8001/play/a047/index.m3u8
 
 
 
