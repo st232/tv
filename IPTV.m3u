@@ -209,7 +209,7 @@ http://dmi3y-tv.ru/hls/zabava/CH_U.m3u8
 
 
 #EXTINF:-1 group-title="Познавательные", Animal Planet
-http://217.113.25.29:8001/play/a047/index.m3u8
+http://31.148.48.15/Animal_Planet_HD/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Big Planet
 http://212.75.204.30:81/udp/239.255.42.36:1234
 #EXTINF:-1 group-title="Познавательные", Discovery Channel HD
