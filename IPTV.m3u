@@ -226,8 +226,6 @@ http://195.245.99.242/National_Geographic/playlist.m3u8
 http://178.217.72.66:8080/National_Geographic/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Ocean TV
 http://158.101.222.193:88/vesti/play.php?channel_id=96
-#EXTINF:-1 group-title="Познавательные", ONE PLANET
-http://95.67.12.82:9088
 #EXTINF:-1 group-title="Познавательные", Viju Explore
 http://158.101.222.193:88/vesti/play.php?channel_id=104
 
