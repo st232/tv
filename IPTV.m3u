@@ -69,9 +69,9 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY_7.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", Домашний Int
 http://178.124.152.238:8088/dom
-#EXTINF:-1 group-title="Познавательные", Звезда
+#EXTINF:-1 group-title="Развлекательные", Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Познавательные", Звезда
+#EXTINF:-1 group-title="Развлекательные", Звезда
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Развлекательные", Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
@@ -150,7 +150,7 @@ http://dmi3y-tv.ru/hls/zabava/CH_SUBBOTA_4.m3u8
 http://dmi3y-tv.ru/hls/zabava/CH_SUBBOTA_6.m3u8
 #EXTINF:-1 group-title="Развлекательные", Суббота! (+7)
 http://dmi3y-tv.ru/hls/zabava/CH_SUBBOTA_7.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Познавательные" tvg-id="super-pl7", Суббота! (+7)
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="super-pl7", Суббота! (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.62.2 (AndroidTV/9) HlsWinkPlayer 
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТВ3 (-1)
@@ -229,9 +229,9 @@ http://195.245.99.242/NatGeoWild/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild
 http://178.217.72.66:8080/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 group-title="Познавательные", National Geographic
-http://195.245.99.242/National_Geographic/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные", National Geographic
 http://178.217.72.66:8080/National_Geographic/index.m3u8
+#EXTINF:-1 group-title="Познавательные", National Geographic
+http://195.245.99.242/National_Geographic/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Ocean TV
 http://158.101.222.193:88/vesti/play.php?channel_id=96
 #EXTINF:-1 group-title="Познавательные", Viju Explore
