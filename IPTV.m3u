@@ -185,6 +185,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ4
 http://178.212.71.253:8000/play/106/index.m3u8
+#EXTINF:-1 group-title="Развлекательные", ТСВ MD
+https://tsv.md/stream/hls/tsv-online/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Че!
 http://178.212.71.253:8002/play/a00s/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Че!
