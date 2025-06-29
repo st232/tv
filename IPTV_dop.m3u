@@ -1,40 +1,11 @@
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="Развлекательные", ТСВ MD
-https://iptv-hls.idc.md/hls/2/live1.m3u8
+https://tsv.md/stream/hls/tsv-online/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Арсенал HD
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Arsenal_HD
+http://ott-cdn.ucom.am/s68/04.m3u8
 #EXTINF:-1 group-title="Познавательные", Первый космический HD
-http://stream01.vnet.am/Evrika/mono.m3u8
-
-
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Eureka
 
 
 
@@ -42,24 +13,21 @@ http://stream01.vnet.am/Evrika/mono.m3u8
 https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные",О!2 (EDTV 576p)
 http://195.26.83.96:7006/play/1/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",RU TV (HD)
-https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",Жар-Птица (EDTV 480p)
-http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные",Страна FM (HD ready)
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные",ТНТ Music (HD)
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Музыка", 1HD
-http://91.247.68.229:8000/play/eee/index.m3u8
-#EXTINF:-1 group-title="Музыка", Жар птица 
-http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
+https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:-1 group-title="Музыка", Deluxe Music 
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 group-title="Музыка", Kiss Kiss
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Музыка", Kronehit
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 group-title="МУЗЫКА",Kronehit HD
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 group-title="МУЗЫКА",Kronehit TV
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 #EXTINF:-1 group-title="Музыка", Radio M2O 
 https://streamcdnm5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/index.m3u8
 #EXTINF:-1 group-title="Музыка", Retro Music
@@ -68,12 +36,6 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="Музыка", Zerouno TV Music
 https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
-#EXTINF:-1 group-title="МУЗЫКА",RE МИКС
-http://autopilot.catcast.tv/content/41833/index.m3u8
-#EXTINF:-1 group-title="МУЗЫКА",TeleRomagna
-http://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
-#EXTINF:-1 group-title="МУЗЫКА",Radio Iglesias
-http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
 #EXTINF:-1 group-title="МУЗЫКА",Radio 51
 https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
 #EXTINF:-1 group-title="МУЗЫКА",70-80 TV [it]
@@ -86,20 +48,12 @@ http://live.m2.tv/hls3/stream.m3u8
 http://rtmp.one.by:2200
 #EXTINF:-1 group-title="МУЗЫКА",1MUS
 http://rtmp.one.by:1300
-#EXTINF:-1 group-title="МУЗЫКА",Factoria TV HD
-https://eu1.servers10.com:8081/8010/index.m3u8
-#EXTINF:-1 group-title="МУЗЫКА",MUZZIK HIP-HOP
-https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
 #EXTINF:-1 group-title="МУЗЫКА",POP STAR
 https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
 #EXTINF:-1 group-title="МУЗЫКА",Trace Urban HD
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="МУЗЫКА",Ocko Star
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-#EXTINF:-1 group-title="МУЗЫКА",Kronehit HD
-https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:-1 group-title="МУЗЫКА",Kronehit TV
-http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 #EXTINF:-1 group-title="МУЗЫКА",Afrobeats
 https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:-1 group-title="МУЗЫКА",Первый музыкальный HD (Россия)
@@ -112,12 +66,8 @@ https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
 https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 #EXTINF:-1 group-title="МУЗЫКА",V2 Beat HD
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
-#EXTINF:-1 group-title="МУЗЫКА",Xite HD DE
-https://xite-samsung-de.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="МУЗЫКА",Rouge TV 720p
 http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
-#EXTINF:-1 group-title="МУЗЫКА",DBM (1080p)
-https://dbmtv.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8
 #EXTINF:-1 group-title="МУЗЫКА",DeepHouse District
 https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 #EXTINF:-1 group-title="МУЗЫКА",V2BEAT
