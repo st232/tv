@@ -1,6 +1,4 @@
 
-#EXTINF:-1 group-title="Музыкальные",Clubbing TV (HD ready)
-https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="big-planet" group-title="Познавательные", Big Planet 1
 http://178.217.72.66:8080/big_planet/index.m3u8
@@ -20,19 +18,12 @@ http://178.217.72.66:8080/National_Geographic/index.m3u8
 #EXTINF:-1 group-title="Хобби", Авто Плюс 
 http://80.245.95.243:8888/play/a003/index.m3u8
 
-#EXTINF:-1 group-title="Познавательные", Живая планета
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zhivaya_Planeta
 
 
 #EXTINF:-1 group-title="Познавательные", Наука 2.0
 http://vod.tuva.ru/nauka2/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Наука 2.0 HD
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nauka_HD
 #EXTINF:-1 tvg-id="nauka-20" tvg-logo="https://iptvx.one/picons/nauka-20.png" group-title="Познавательные",Наука
 http://178.124.152.238:8088/nauka
-
-#EXTINF:-1 group-title="Познавательные", Техно 24
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Tehno24
 
 
 
