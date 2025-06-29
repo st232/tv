@@ -4,16 +4,8 @@
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 group-title="Новостные", Первый информационный
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
-#EXTINF:-1 group-title="Новостные", Первый информационный
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w499524774_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Новостные", Первый информационный 
-https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w868240704_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="Новостные", РБК
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
-#EXTINF:-1 group-title="Новостные", РБК
-http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
-#EXTINF:-1 group-title="Новостные", РБК
-http://dmi3y-tv.ru/hls/CH_RBK.m3u8
 #EXTINF:-1 group-title="Новостные", 360° Новости
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
 
@@ -301,14 +293,14 @@ http://178.212.71.253:8000/play/63/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Музыкальные", Bridge Rock
-http://178.212.71.253:8000/play/101/index.m3u8
-#EXTINF:-1 group-title="Музыкальные", Bridge Rock
-http://31.173.165.29:8000/play/a01v/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", 1HD
+http://91.247.68.229:8000/play/eee/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Krone hit HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1 group-title="Музыкальные", Now Rock UK
 https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 group-title="Музыкальные", RU TV (HD)
+https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Trace Urban HD
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="Музыкальные", ТНТ Music
