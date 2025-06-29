@@ -210,8 +210,6 @@ http://31.148.48.15/Animal_Planet_HD/index.m3u8
 http://178.217.72.66:8080/big_planet/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Big Planet
 http://31.173.165.29:8000/play/a01h/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Big Planet
-http://212.75.204.30:81/udp/239.255.42.36:1234
 #EXTINF:-1 group-title="Познавательные", Discovery Channel HD
 http://178.217.72.66:8080/Discovery_HD/video.m3u8
 #EXTINF:-1 group-title="Познавательные", Discovery Channel HD
