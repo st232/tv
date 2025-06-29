@@ -1,6 +1,10 @@
-#EXTINF:-1 tvg-id="big-planet" group-title="Познавательные", Big Planet
+
+#EXTINF:-1 group-title="Музыкальные",Clubbing TV (HD ready)
+https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="big-planet" group-title="Познавательные", Big Planet 1
 http://178.217.72.66:8080/big_planet/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Big Planet
+#EXTINF:-1 group-title="Познавательные", Big Planet 2
 http://31.173.165.29:8000/play/a01h/index.m3u8
 
 #EXTINF:-1 group-title="Познавательные", Galaxy TV
@@ -10,7 +14,7 @@ http://77.235.1.19:8000/play/a065/index.m3u8
 
 #EXTINF:-1 group-title="Познавательные", National Geographic
 http://195.245.99.242/National_Geographic/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные", National Geographic HD
+#EXTINF:-1 group-title="Познавательные", National Geographic HD 
 http://178.217.72.66:8080/National_Geographic/index.m3u8
 
 #EXTINF:-1 group-title="Хобби", Авто Плюс 
