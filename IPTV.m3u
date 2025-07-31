@@ -197,21 +197,11 @@ http://dmi3y-tv.ru/hls/zabava/CH_U.m3u8
 
 
 #EXTINF:-1 group-title="Познавательные", Animal Planet
-http://5.134.87.11:4600/AnimalPlanet/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Animal Planet
-http://80.245.95.243:8888/play/a001/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Animal Planet
 http://31.148.48.15/Animal_Planet_HD/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Big Planet
 http://178.217.72.66:8080/big_planet/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Big Planet
-http://31.173.165.29:8000/play/a01h/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Discovery Channel HD
 http://178.217.72.66:8080/Discovery_HD/video.m3u8
-#EXTINF:-1 group-title="Познавательные", Discovery Channel HD
-http://80.245.95.243:8888/play/a016/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Discovery Channel HD
-http://195.245.99.242/Discovery/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Galaxy
 http://77.235.1.19:8000/play/a065/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Galaxy
@@ -219,13 +209,9 @@ http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild
 http://188.237.47.212:6005
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild
-http://195.245.99.242/NatGeoWild/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные", Nat Geo Wild
 http://178.217.72.66:8080/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 group-title="Познавательные", National Geographic
 http://178.217.72.66:8080/National_Geographic/index.m3u8
-#EXTINF:-1 group-title="Познавательные", National Geographic
-http://195.245.99.242/National_Geographic/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Ocean TV
 http://158.101.222.193:88/vesti/play.php?channel_id=96
 #EXTINF:-1 group-title="Познавательные", Viju Explore
@@ -235,8 +221,6 @@ http://158.101.222.193:88/vesti/play.php?channel_id=104
 http://158.101.222.193:88/vesti/play.php?channel_id=91
 #EXTINF:-1 group-title="Познавательные", Авто 24
 http://178.124.152.238:8088/auto24
-#EXTINF:-1 group-title="Познавательные", Авто Плюс
-http://80.245.95.243:8888/play/a003/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Авто Плюс
 http://178.212.71.253:8000/play/69/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Авто Плюс
