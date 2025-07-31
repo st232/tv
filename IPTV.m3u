@@ -239,8 +239,6 @@ http://195.26.83.96:7007/play/10/index.m3u8
 http://31.148.48.15/Zoo_TV/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Кулинар ТВ
 http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
-#EXTINF:-1 group-title="Познавательные", Лапки Live HD
-http://91.247.68.229:8000/play/Lapki/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Моя Планета
 http://194.143.148.28:8080/Nauka20/mpegts
 #EXTINF:-1 group-title="Познавательные", Моя Планета
@@ -267,9 +265,6 @@ http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 http://cdn.ntv.ru/th_pravo/index.m3u8
 #EXTINF:-1 group-title="Познавательные", НТВ-Право
 http://cdn.ntv.ru/th_pravo/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные", Поехали!
-#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
-http://91.247.68.229:8000/play/Poehali/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Продвижение 
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Т24
