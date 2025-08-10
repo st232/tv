@@ -10,6 +10,11 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY.m3u8
 #EXTINF:-1 group-title="Развлекательные", Пятница
 #EXTVLCOPT:http-user-agent=WINK/1.65.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF:-1 group-title="Развлекательные", СТС
+https://streaming.goodstream.cyou/live/296.m3u8
+#EXTINF:-1 group-title="Развлекательные", СТС
+#EXTVLCOPT:http-user-agent=WINK/1.65.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv.ru/hls/DVB-T2/CH_STS.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ
 #EXTVLCOPT:http-user-agent=WINK/1.65.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT.m3u8
@@ -142,11 +147,6 @@ http://176.107.219.20:9000/play/a009/index.m3u8
 http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТС Love
 http://178.212.71.253:8002/play/a00r/index.m3u8
-#EXTINF:-1 group-title="Развлекательные", СТС
-https://streaming.goodstream.cyou/live/296.m3u8
-#EXTINF:-1 group-title="Развлекательные", СТС
-#EXTVLCOPT:http-user-agent=WINK/1.65.1 (AndroidTV/9) HlsWinkPlayer
-http://dmi3y-tv.ru/hls/DVB-T2/CH_STS.m3u8
 #EXTINF:-1 group-title="Развлекательные", Суббота! (-1)
 http://dmi3y-tv.ru/hls/zabava/CH_SUBBOTA-1.m3u8
 #EXTINF:-1 group-title="Развлекательные", Суббота!
@@ -367,5 +367,6 @@ https://autopilot.catcast.tv/content/41333/index.m3u8
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", СМОТРИМ
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+
 
 
