@@ -249,10 +249,6 @@ http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 http://194.143.148.28:8080/Nauka20/mpegts
 #EXTINF:-1 group-title="Познавательные", Моя Планета
 http://tv.streams.baikal-telecom.net:8080/Moya_Planeta/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Моя Планета
-http://dmi3y-tv.ru/hls/CH_MOYAPLANETA.m3u8
-#EXTINF:-1 group-title="Познавательные", Моя Планета
-http://dmi3y-tv.ru/hls/CH_MOYAPLANETAHD720.m3u8
 #EXTINF:-1 group-title="Познавательные", Мужской
 http://195.26.83.96:7007/play/11/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Наука HD
@@ -331,8 +327,6 @@ http://catchup.videoline.ru/cinema/tracks-v1a1/mono.m3u8
 http://158.101.222.193:88/vesti/play.php?channel_id=102
 #EXTINF:-1 group-title="Кино", Sci-Fi
 http://178.124.179.122:8088/Sci-Fi/index.m3u8
-#EXTINF:-1 group-title="Кино", Timeless Dizi Channel
-http://194.158.222.36:6086
 #EXTINF:-1 group-title="Кино", viju TV1000
 http://158.101.222.193:88/vesti/play.php?channel_id=47
 #EXTINF:-1 group-title="Кино", Индийское кино
@@ -351,8 +345,6 @@ http://158.101.222.193:88/vesti/play.php?channel_id=162
 http://158.101.222.193:88/vesti/play.php?channel_id=163
 #EXTINF:-1 group-title="Кино", Киносемья
 http://158.101.222.193:88/vesti/play.php?channel_id=165
-#EXTINF:-1 group-title="Кино", Любимое Индийское Кино
-http://autopilot.catcast.tv/content/41596/index.m3u8
 #EXTINF:-1 group-title="Кино", Мир сериала
 http://158.101.222.193:88/vesti/play.php?channel_id=45
 #EXTINF:-1 group-title="Кино", Мужское Кино
@@ -369,8 +361,3 @@ https://autopilot.catcast.tv/content/41333/index.m3u8
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", СМОТРИМ
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
-
-
-
-
-
