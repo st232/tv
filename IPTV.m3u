@@ -12,6 +12,15 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY.m3u8
 #EXTINF:-1 group-title="Развлекательные", Пятница
 #EXTVLCOPT:http-user-agent=WINK/1.66.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF:-1 group-title="Развлекательные", Рен ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.66.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF:-1 group-title="Развлекательные", РЕН ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.66.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF:-1 group-title="Развлекательные", РЕН ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.66.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТС
 https://streaming.goodstream.cyou/live/296.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТС
@@ -42,10 +51,6 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT_4.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные", ТНТ (+6)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT_6.m3u8
-#EXTINF:-1 group-title="Развлекательные", ТНТ (+7)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT_7.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.66.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
@@ -64,14 +69,10 @@ https://tsv.md/stream/hls/tsv-online/index.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", Че!
 http://195.26.83.96:7009/play/89/index.m3u8
-#EXTINF:-1 group-title="Музыкальные", 1HD
-http://91.247.68.229:8000/play/eee/index.m3u8
 
 
 
 
-#EXTINF:-1 group-title="Новостные", Первый информационный
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
 #EXTINF:-1 group-title="Новостные", РБК
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 #EXTINF:-1 group-title="Новостные", 360° Новости
@@ -127,8 +128,6 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY_7.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="domashny-pl7" group-title="Развлекательные", Домашний (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.66.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные", Домашний Int
-http://178.124.152.238:8088/dom
 #EXTINF:-1 group-title="Развлекательные", Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Развлекательные", Звезда
@@ -137,10 +136,6 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", Мир
 https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
-#EXTINF:-1 group-title="Развлекательные", МИР
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_mobil/playlist.m3u8
-#EXTINF:-1 group-title="Развлекательные", МИР
-http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_mobil/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", МИР
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8?hls_proxy_host=f4eb0d287702d48f6bbf6e6f56891e63
 #EXTINF:-1 group-title="Развлекательные", МИР
@@ -151,26 +146,10 @@ http://194.158.222.36:6104
 http://194.158.222.36:6107
 #EXTINF:-1 group-title="Развлекательные", Первый канал
 https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
-#EXTINF:-1 group-title="Развлекательные", Пятый канал
-#EXTVLCOPT:http-user-agent=WINK/1.66.1 (AndroidTV/9) HlsWinkPlayer
-http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV.m3u8
-#EXTINF:-1 group-title="Развлекательные", Рен ТВ
-#EXTVLCOPT:http-user-agent=WINK/1.66.1 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные", РЕН ТВ
-#EXTVLCOPT:http-user-agent=WINK/1.66.1 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные", РЕН ТВ
-#EXTVLCOPT:http-user-agent=WINK/1.66.1 (AndroidTV/9) HlsWinkPlayer
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV.m3u8
 #EXTINF:-1 group-title="Развлекательные", Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
-#EXTINF:-1 group-title="Развлекательные", Россия 1
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1.m3u8
 #EXTINF:-1 group-title="Развлекательные", РТР Беларусь
 http://194.158.222.36:6106/
-#EXTINF:-1  group-title="Развлекательные", Светлое ТВ
-http://176.107.219.20:9000/play/a009/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТВ HD
 http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТС Love
@@ -246,7 +225,6 @@ http://178.217.72.66:8080/National_Geographic/index.m3u8
 http://158.101.222.193:88/vesti/play.php?channel_id=96
 #EXTINF:-1 group-title="Познавательные", Viju Explore
 http://158.101.222.193:88/vesti/play.php?channel_id=104
-
 #EXTINF:-1 group-title="Познавательные", Viju+ Planet
 http://158.101.222.193:88/vesti/play.php?channel_id=91
 #EXTINF:-1 group-title="Познавательные", Авто 24
@@ -381,9 +359,3 @@ http://195.26.83.96:7006/play/a00y/index.m3u8
 https://autopilot.catcast.tv/content/40783/index.m3u8
 #EXTINF:-1 group-title="Кино", Сити Эдем - Киноэкшен 
 https://autopilot.catcast.tv/content/41333/index.m3u8
-#EXTINF:-1 group-title="Кино", СМОТРИМ
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Кино", СМОТРИМ
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
-
-
