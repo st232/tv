@@ -53,12 +53,8 @@ http://195.26.83.96:7009/play/89/index.m3u8
 
 #EXTINF:-1 group-title="Познавательные", Animal Planet
 http://31.148.48.15/Animal_Planet_HD/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Big Planet
-http://178.217.72.66:8080/big_planet/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Discovery Channel HD
 http://178.217.72.66:8080/Discovery_HD/video.m3u8
-#EXTINF:-1 group-title="Познавательные", Galaxy
-http://77.235.1.19:8000/play/a065/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Galaxy
 http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild
@@ -80,8 +76,6 @@ http://178.212.71.253:8000/play/69/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Авто Плюс
 http://31.148.48.15/Avto_Plus/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Бобёр
-http://195.18.23.20:8000/play/1/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Бобёр
 http://178.212.71.253:8002/play/a00m/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Большая Азия HD
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
@@ -95,8 +89,6 @@ http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Живая планета
 http://178.212.71.253:8000/play/114/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Живи! 
-http://195.18.23.20:8000/play/10/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Загородная жизнь
 http://195.26.83.96:7007/play/10/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Зоо ТВ
@@ -359,3 +351,33 @@ http://178.212.71.253:8000/play/106/index.m3u8
 http://tvoetv.space:8080/tvoetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", Ю ТВ
 http://dmi3y-tv.ru/hls/zabava/CH_U.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="Знания", Big Planet
+http://178.217.72.66:8080/big_planet/index.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",BIG PLANET
+http://dmi3y-tv.ru/hls/CH_BIG_PLANET.m3u8
+
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Discovery Channel HD
+http://dmi3y-tv.ru/hls/CH_DISCOVERY_CHANNELHD.m3u8
+#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://iptvx.one/picons/discovery-channel.png" group-title="Познавательные",Discovery HD
+http://158.160.149.81:8080/3465/index.m3u8
+#EXTINF:-1 group-title="Развлечение", Discovery
+http://45.159.74.22/DiscoveryChannel/mono.m3u8
+#EXTINF:-1 group-title="Развлечение", Discovery HD
+http://178.217.72.66:8080/Discovery_HD/video.m3u8
+
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",National Geographic WILD HD
+http://dmi3y-tv.ru/hls/CH_NATGEOTV_WILDHD.m3u8
+#EXTINF:-1 group-title="Знания", National Geographic Wild
+http://45.159.74.22/NatGeoWild/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",National Geographic HD
+http://dmi3y-tv.ru/hls/CH_NATGEOTVHD.m3u8
+#EXTINF:-1 group-title="Знания", National Geographic
+http://158.160.149.81:8080/43/index.m3u8
+#EXTINF:-1 group-title="Знания", National Geographic HD
+http://178.217.72.66:8080/National_Geographic/index.m3u8
