@@ -351,3 +351,79 @@ http://178.212.71.253:8000/play/106/index.m3u8
 http://tvoetv.space:8080/tvoetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", Ю ТВ
 http://dmi3y-tv.ru/hls/zabava/CH_U.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Знания", Живая планета
+http://158.160.149.81:8080/1491/index.m3u8
+
+#EXTINF:-1 group-title="Знания", Animal Planet
+http://178.217.72.66:8080/Animal_Planet_HD/index.m3u8
+#EXTINF:-1 group-title="Знания", Animal Planet HD
+http://45.159.74.22/AnimalPlanet/mono.m3u8
+
+#EXTINF:-1 group-title="Знания", History 2 HD 🛡️
+http://95.67.12.81:10620
+
+#EXTINF:-1 group-title="Знания", National Geographic
+http://158.160.149.81:8080/43/index.m3u8
+#EXTINF:-1 group-title="Знания", National Geographic HD
+http://178.217.72.66:8080/National_Geographic/index.m3u8
+#EXTINF:-1 group-title="Знания", National Geographic Wild
+http://45.159.74.22/NatGeoWild/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Знания", National Geographic Wild HD
+http://178.217.72.66:8080/Nat_Geo_Wild/index.m3u8
+
+#EXTINF:-1 group-title="Знания", Viasat Nature
+http://87.246.54.249:8085/ViasatNature/index.m3u8
+#EXTINF:-1 group-title="Знания", Viasat Nature HD
+http://85.187.13.40:18000/viasatnat
+#EXTINF:-1 group-title="Знания", viju Nature
+http://158.101.222.193:88/georgia_play.php?id=viasatnat
+#EXTINF:-1 group-title="Знания", viju History
+http://158.101.222.193:88/georgia_play.php?id=viasathist
+#EXTINF:-1 group-title="Знания", viju Explore
+http://158.101.222.193:88/georgia_play.php?id=viasatexp
+#EXTINF:-1 group-title="Знания", viju+ Planet
+http://stream1.prizma.link/ViasatHistoryHD/index.m3u8
+#EXTINF:-1 group-title="Знания", viju+ Planet HD
+http://77.235.1.19:8000/play/a05m/index.m3u8
+
+
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Animal Planet HD
+http://dmi3y-tv.ru/hls/CH_ANIMAL_PLANETHD.m3u8
+
+
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Discovery Channel HD
+http://dmi3y-tv.ru/hls/CH_DISCOVERY_CHANNELHD.m3u8
+
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",National Geographic HD
+http://dmi3y-tv.ru/hls/CH_NATGEOTVHD.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",National Geographic WILD HD
+http://dmi3y-tv.ru/hls/CH_NATGEOTV_WILDHD.m3u8
+
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",VIASAT EXPLORE
+http://dmi3y-tv.ru/hls/CH_VIASAT_EXPLORE.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",VIASAT HISTORY
+http://dmi3y-tv.ru/hls/CH_VIASAT_HISTORY.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",VIASAT NATURE
+http://dmi3y-tv.ru/hls/CH_VIASAT_NATURE.m3u8
