@@ -56,11 +56,11 @@ http://178.217.72.66:8080/National_Geographic/index.m3u8
 http://158.101.222.193:88/vesti/play.php?channel_id=96
 #EXTINF:-1 group-title="Познавательные", Viju Explore
 http://158.101.222.193:88/vesti/play.php?channel_id=104
-#EXTINF:-1 group-title="Знания", viju Explore
+#EXTINF:-1 group-title="Познавательные", viju Explore
 http://158.101.222.193:88/georgia_play.php?id=viasatexp
-#EXTINF:-1 group-title="Знания", viju History
+#EXTINF:-1 group-title="Познавательные", viju History
 http://158.101.222.193:88/georgia_play.php?id=viasathist
-#EXTINF:-1 group-title="Знания", viju Nature
+#EXTINF:-1 group-title="Познавательные", viju Nature
 http://158.101.222.193:88/georgia_play.php?id=viasatnat
 #EXTINF:-1 group-title="Познавательные", Viju+ Planet
 http://158.101.222.193:88/vesti/play.php?channel_id=91
@@ -126,8 +126,6 @@ http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Детские", CHD TV
-http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 group-title="Детские", Детский мир
 http://195.26.83.96:7007/play/14/index.m3u8
 #EXTINF:-1 group-title="Детские", Кнопка ТВ
@@ -212,30 +210,18 @@ http://194.158.222.36:6101
 http://194.158.222.36:6108
 #EXTINF:-1 group-title="Развлекательные", БелРос
 http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
-#EXTINF:-1 group-title="Развлекательные", Домашний (-1)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY-1.m3u8
-#EXTINF:-1 group-title="Развлекательные", Домашний
-http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY.m3u8
 #EXTINF:-1 tvg-id="domashny" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные", Домашний
 #EXTVLCOPT:http-user-agent=SmartTV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="domashny" group-title="Развлекательные", Домашний (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.68.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные", Домашний (+2)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY_2.m3u8
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные", Домашний (+2)
 #EXTVLCOPT:http-user-agent=SmartTV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные", Домашний (+4)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY_4.m3u8
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные",Домашний (+4)
 #EXTVLCOPT:http-user-agent=SmartTV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные", Домашний (+6)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY_6.m3u8
-#EXTINF:-1 group-title="Развлекательные", Домашний (+7)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY_7.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="domashny-pl7" group-title="Развлекательные", Домашний (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.68.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
@@ -346,3 +332,4 @@ http://178.212.71.253:8000/play/106/index.m3u8
 http://tvoetv.space:8080/tvoetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", Ю ТВ
 http://dmi3y-tv.ru/hls/zabava/CH_U.m3u8
+
