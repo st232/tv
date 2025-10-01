@@ -295,3 +295,81 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
 http://178.212.71.253:8000/play/106/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Твое ТВ HD
 http://tvoetv.space:8080/tvoetv/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 group-title="Познавательные",Viju History
+http://158.101.222.193:88/georgia_play.php?id=viasathist
+
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательные",Viju History HD
+http://api.peers.tv/timeshift/viasat_history/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkzMTU1ODAsImlhdCI6MTc1OTIyOTE4MCwiY2lkIjo2LCJ1aWQiOjk0OTExNDgwNywicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.2HfhqWfMsugVZYcP7b0aez-GtX0E61p3ujLnr3JJRSY&offset=3
+
+#EXTINF:-1 tvg-id="viasat-nature" group-title="Познавательные", Viju Nature
+http://158.101.222.193:88/georgia_play.php?id=viasatnat
+
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="viasat-nature" group-title="Познавательные", Viju Nature HD
+http://api.peers.tv/timeshift/viasat_nature/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkzMTU1ODAsImlhdCI6MTc1OTIyOTE4MCwiY2lkIjo2LCJ1aWQiOjk0OTExNDgwNywicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.2HfhqWfMsugVZYcP7b0aez-GtX0E61p3ujLnr3JJRSY&offset=3
+
+#EXTINF:-1 group-title="Познавательные",Viju Explore
+http://158.101.222.193:88/georgia_play.php?id=viasatexp
+
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательные",Viju Explore HD
+http://api.peers.tv/timeshift/viasat_explorer/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkzMTU1ODAsImlhdCI6MTc1OTIyOTE4MCwiY2lkIjo2LCJ1aWQiOjk0OTExNDgwNywicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.2HfhqWfMsugVZYcP7b0aez-GtX0E61p3ujLnr3JJRSY&offset=3
+
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="galaxy-tv" group-title="Познавательные", Тайны Галактики
+http://api.peers.tv/timeshift/galaxy_tv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkzMTU1ODAsImlhdCI6MTc1OTIyOTE4MCwiY2lkIjo2LCJ1aWQiOjk0OTExNDgwNywicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.2HfhqWfMsugVZYcP7b0aez-GtX0E61p3ujLnr3JJRSY&offset=3
+
+#EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательные", National Geo Wild
+http://195.64.140.147:10149/149
+
+#EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательные", Nat Geo Wild
+http://188.237.47.212:6005
+
+#EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательные", Nat Geo Wild HD
+https://vod.splay.uz/live_splay/original/Nat_Geo_Wild_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="national-geographic" group-title="Познавательные", National Geographic
+http://195.64.140.147:10153/153
+
+#EXTINF:-1 tvg-id="national-geographic" group-title="Познавательные", National Geographic HD
+https://vod.splay.uz/live_splay/original/National_Geographic/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательные", Discovery Channel
+http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
+
+#EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательные", Discovery Channel HD
+http://195.64.140.147:10151/151
+
+#EXTINF:-1 tvg-id="drive" group-title="Познавательные", Драйв
+http://46.8.46.14/Drive/index.m3u8
+
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="drive" group-title="Познавательные", Драйв [архив]
+http://api.peers.tv/timeshift/drive/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkzMTU1ODAsImlhdCI6MTc1OTIyOTE4MCwiY2lkIjo2LCJ1aWQiOjk0OTExNDgwNywicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.2HfhqWfMsugVZYcP7b0aez-GtX0E61p3ujLnr3JJRSY&offset=3
+
+#EXTINF:-1 tvg-id="avto24" group-title="Познавательные", Авто 24
+http://194.32.242.245/avto24/index.m3u8
+
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="avto24" group-title="Познавательные", Авто 24 [архив]
+http://api.peers.tv/timeshift/avto_24/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkzMTU1ODAsImlhdCI6MTc1OTIyOTE4MCwiY2lkIjo2LCJ1aWQiOjk0OTExNDgwNywicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.2HfhqWfMsugVZYcP7b0aez-GtX0E61p3ujLnr3JJRSY&offset=3
+
+#EXTINF:-1 tvg-id="avto-plus" group-title="Познавательные", Авто Плюс
+http://194.32.242.245/avto24/index.m3u8
+
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="avto-plus" group-title="Познавательные", Авто Плюс [архив]
+http://api.peers.tv/timeshift/auto_plus/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkzMTU1ODAsImlhdCI6MTc1OTIyOTE4MCwiY2lkIjo2LCJ1aWQiOjk0OTExNDgwNywicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.2HfhqWfMsugVZYcP7b0aez-GtX0E61p3ujLnr3JJRSY&offset=3
+
+#EXTINF:-1 tvg-id="moya-planeta" group-title="Познавательные",Моя Планета
+http://185.78.112.17/moya_planeta/index.m3u8
+
+#EXTINF:-1 tvg-id="moya-planeta" group-title="Познавательные",Моя Планета HD
+http://stream-msk-04.ott.tricolor.tv/dtv/id623_MSKSG-PVR-1--Moya_Planeta_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+
+#EXTINF:-1 tvg-id="eureka-hd" group-title="Познавательные",Первый Космический HD
+http://stream-msk-03.ott.tricolor.tv/dtv/id159_MSKSG-PVR-1--HD_Eureka/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="animal-planet", Animal Planet HD
+https://vod.splay.uz/live_splay/original/Animal_Planet/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="big-planet" group-title="Познавательные", Big Planet
+http://109.200.130.123:7537/play/a03j
