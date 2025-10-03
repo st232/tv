@@ -304,6 +304,18 @@ http://tvoetv.space:8080/tvoetv/tracks-v1a1/mono.m3u8
 
 
 
+#EXTINF:-1 group-title="Познавательные", Animal Planet HD
+https://livetv.mylifeisgood.ml/channels/animalplanethd
+#EXTINF:-1 group-title="Познавательные", Animal Planet
+https://vod.splay.uz/live_splay/original/Animal_Planet/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные", Discovery HD
+https://livetv.mylifeisgood.ml/channels/discovery.m3u8
+#EXTINF:-1 group-title="Познавательные", Discovery Science HD
+https://livetv.mylifeisgood.ml/channels/discoveryscience.m3u8
+#EXTINF:-1 group-title="Познавательные", Nat Geo Wild
+http://188.237.47.212:6005
+#EXTINF:-1 group-title="Познавательные", Nat Geo Wild HD
+https://vod.splay.uz/live_splay/original/Nat_Geo_Wild_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Viju History
 http://158.101.222.193:88/georgia_play.php?id=viasathist
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательные",Viju History HD
@@ -318,10 +330,6 @@ http://158.101.222.193:88/georgia_play.php?id=viasatexp
 http://api.peers.tv/timeshift/viasat_explorer/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkzMTU1ODAsImlhdCI6MTc1OTIyOTE4MCwiY2lkIjo2LCJ1aWQiOjk0OTExNDgwNywicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.2HfhqWfMsugVZYcP7b0aez-GtX0E61p3ujLnr3JJRSY&offset=3
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательные", Тайны Галактики
 http://api.peers.tv/timeshift/galaxy_tv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkzMTU1ODAsImlhdCI6MTc1OTIyOTE4MCwiY2lkIjo2LCJ1aWQiOjk0OTExNDgwNywicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.2HfhqWfMsugVZYcP7b0aez-GtX0E61p3ujLnr3JJRSY&offset=3
-#EXTINF:-1 group-title="Познавательные", Nat Geo Wild
-http://188.237.47.212:6005
-#EXTINF:-1 group-title="Познавательные", Nat Geo Wild HD
-https://vod.splay.uz/live_splay/original/Nat_Geo_Wild_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="drive" group-title="Познавательные", Драйв [архив]
 http://api.peers.tv/timeshift/drive/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkzMTU1ODAsImlhdCI6MTc1OTIyOTE4MCwiY2lkIjo2LCJ1aWQiOjk0OTExNDgwNywicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.2HfhqWfMsugVZYcP7b0aez-GtX0E61p3ujLnr3JJRSY&offset=3
 #EXTINF:-1 group-title="Познавательные", Авто 24
@@ -334,6 +342,3 @@ http://194.32.242.245/avto24/index.m3u8
 http://api.peers.tv/timeshift/auto_plus/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkzMTU1ODAsImlhdCI6MTc1OTIyOTE4MCwiY2lkIjo2LCJ1aWQiOjk0OTExNDgwNywicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.2HfhqWfMsugVZYcP7b0aez-GtX0E61p3ujLnr3JJRSY&offset=3
 #EXTINF:-1 group-title="Познавательные", Моя Планета
 http://185.78.112.17/moya_planeta/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Animal Planet HD
-https://vod.splay.uz/live_splay/original/Animal_Planet/tracks-v1a1/mono.m3u8
-
