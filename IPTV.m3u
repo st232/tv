@@ -274,6 +274,8 @@ http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ
 #EXTVLCOPT:http-user-agent=WINK/1.68.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+#EXTINF:-1 group-title="Развлекательные", ТНТ (-1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT-1.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
@@ -310,3 +312,4 @@ http://194.32.242.245/avto24/index.m3u8
 http://194.32.242.245/avto24/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Моя Планета
 http://185.78.112.17/moya_planeta/index.m3u8
+
