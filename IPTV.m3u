@@ -48,9 +48,9 @@ https://vod.splay.uz/live_splay/original/Animal_Planet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Animal Planet
 http://31.148.48.15/Animal_Planet_HD/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Discovery Channel HD
-http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Discovery Channel HD
 http://195.64.140.147:10151/151
+#EXTINF:-1 group-title="Познавательные", Discovery Channel HD
+http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild
 http://188.237.47.212:6005
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild
@@ -71,8 +71,6 @@ http://158.101.222.193:88/georgia_play.php?id=viasatnat
 http://158.101.222.193:88/vesti/play.php?channel_id=91
 #EXTINF:-1 group-title="Познавательные", Авто 24
 http://178.124.152.238:8088/auto24
-#EXTINF:-1 group-title="Познавательные", Авто 24
-http://194.32.242.245/avto24/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Авто Плюс
 http://178.212.71.253:8000/play/69/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Авто Плюс
@@ -305,5 +303,6 @@ http://158.101.222.193:88/georgia_play.php?id=viasatexp
 http://194.32.242.245/avto24/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Моя Планета
 http://185.78.112.17/moya_planeta/index.m3u8
+
 
 
