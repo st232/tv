@@ -161,14 +161,8 @@ http://catchup.videoline.ru/cinema/tracks-v1a1/mono.m3u8
 http://iptv.prosto.tv:7000/ch64/video.m3u8
 #EXTINF:-1 group-title="Кино", Hollywood HD
 http://158.101.222.193:88/vesti/play.php?channel_id=102
-#EXTINF:-1 group-title="Кино", Plan_B
-http://188.134.76.176:81/udp/235.10.10.151:1234
-#EXTINF:-1 group-title="Кино", .red 9
-http://188.134.76.176:81/udp/235.10.10.108:1234
 #EXTINF:-1 group-title="Кино", .sci-fi
 http://178.124.179.122:8088/Sci-Fi/index.m3u8
-#EXTINF:-1 group-title="Кино", Star Family
-http://iptv.prosto.tv:7000/ch57/video.m3u8
 #EXTINF:-1 group-title="Кино", START World
 http://95.156.76.230:33001/udp/230.4.34.66:1234
 #EXTINF:-1 group-title="Кино", Timeless Dizi Channel
@@ -178,13 +172,9 @@ http://158.101.222.193:88/vesti/play.php?channel_id=47
 #EXTINF:-1 group-title="Кино", viju TV1000 Action
 http://95.156.76.230:33001/udp/230.4.34.97:1234
 #EXTINF:-1 group-title="Кино", viju TV1000 Русское
-http://188.134.76.176:81/udp/235.10.10.94:1234
-#EXTINF:-1 group-title="Кино", viju TV1000 Русское
 http://95.156.76.230:33001/udp/230.4.34.96:1234
 #EXTINF:-1 group-title="Кино", viju+ Comedy
 http://95.156.76.230:33001/udp/230.4.34.109:1234
-#EXTINF:-1 group-title="Кино", viju+ Megahit
-http://188.134.76.176:81/udp/235.10.10.135:1234
 #EXTINF:-1 group-title="Кино", viju+ Megahit
 http://95.156.76.230:33001/udp/230.4.34.108:1234
 #EXTINF:-1 group-title="Кино", viju+ Premiere
@@ -193,8 +183,6 @@ http://95.156.76.230:33001/udp/230.4.34.107:1234
 http://87.120.142.11:18000/STSLove
 #EXTINF:-1 group-title="Кино", Индийское кино
 http://158.101.222.193:88/vesti/play.php?channel_id=32
-#EXTINF:-1 group-title="Кино", Индия
-http://77.106.252.178:4022/udp/233.33.220.6:5050
 #EXTINF:-1 group-title="Кино", Кино 1 International 
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ
@@ -207,16 +195,8 @@ http://158.101.222.193:88/vesti/play.php?channel_id=30
 http://158.101.222.193:88/vesti/play.php?channel_id=162
 #EXTINF:-1 group-title="Кино", Кинопремьера
 http://158.101.222.193:88/vesti/play.php?channel_id=163
-#EXTINF:-1 group-title="Кино", Киносвидание
-http://188.134.76.176:81/udp/235.10.10.177:1234
 #EXTINF:-1 group-title="Кино", Киносемья
 http://158.101.222.193:88/vesti/play.php?channel_id=165
-#EXTINF:-1 group-title="Кино", Киноужас
-http://188.134.76.176:81/udp/235.10.10.157:1234
-#EXTINF:-1 group-title="Кино", Кинохит
-http://188.134.76.176:81/udp/235.10.10.181:1234
-#EXTINF:-1 group-title="Кино", Комедия 
-http://188.134.76.176:81/udp/235.10.10.180:1234
 #EXTINF:-1 group-title="Кино", Мир сериала
 http://158.101.222.193:88/vesti/play.php?channel_id=45
 #EXTINF:-1 group-title="Кино", Мосфильм. Золотая коллекция
@@ -225,18 +205,6 @@ http://95.156.76.230:33001/udp/230.4.34.124:1234
 http://158.101.222.193:88/vesti/play.php?channel_id=26
 #EXTINF:-1 group-title="Кино", Наше новое кино
 http://158.101.222.193:88/vesti/play.php?channel_id=22
-#EXTINF:-1 group-title="Кино", Родное кино
-http://188.134.76.176:81/udp/235.10.10.91:1234
-#EXTINF:-1 group-title="Кино", Русский бестселлер
-http://77.106.252.178:4022/udp/233.33.210.188:5050
-#EXTINF:-1 group-title="Кино", Русский детектив
-http://77.106.252.178:4022/udp/233.33.210.204:5050
-#EXTINF:-1 group-title="Кино", Русский иллюзион
-http://195.26.83.96:7006/play/a00y/index.m3u8
-#EXTINF:-1 group-title="Кино", Русский роман
-http://77.106.252.178:4022/udp/233.33.220.199:5050
-#EXTINF:-1 group-title="Кино", Сапфир
-http://188.134.76.176:81/udp/235.10.10.104:1234
 #EXTINF:-1 group-title="Кино", Сити Эдем - КиноДетектив
 https://autopilot.catcast.tv/content/41327/index.m3u8
 #EXTINF:-1 group-title="Кино", Сити Эдем - КиноКомедия
@@ -246,8 +214,6 @@ http://autopilot.catcast.tv/content/41331/index.m3u8
 https://autopilot.catcast.tv/content/40783/index.m3u8
 #EXTINF:-1 group-title="Кино", Сити Эдем - Киноэкшен 
 https://autopilot.catcast.tv/content/41333/index.m3u8
-#EXTINF:-1 group-title="Кино", ТВ 21
-http://77.106.252.178:4022/udp/233.33.210.1:5050
 
 
 
@@ -368,4 +334,55 @@ http://185.78.112.17/moya_planeta/index.m3u8
 
 
 
+#EXTINF:-1 group-title="Кино", Победа
+https://streaming102.goodstream.cyou/live/43.m3u8
+#EXTINF:-1 group-title="Кино", Победа 15
+http://188.134.76.176:81/udp/235.10.10.168:1234
+#EXTINF:-1 group-title="Кино", Amedia 12
+http://sc.id-tv.kz/A1.m3u8
+#EXTINF:-1 group-title="Кино", Amedia 13
+http://188.134.76.176:81/udp/235.10.10.123:1234
+#EXTINF:-1 group-title="Кино", Cinema1
+http://catchup.videoline.ru/cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино", Cinema2
+http://catchup.videoline.ru/cinema/index.m3u8
+#EXTINF:-1 group-title="Кино", Cinema3
+http://188.134.76.176:81/udp/235.10.10.222:1234
+#EXTINF:-1 group-title="Кино", viju TV1000 12
+http://95.156.76.230:33001/udp/230.4.34.98:1234
+#EXTINF:-1 group-title="Кино", Индия 2ьт
+http://95.156.76.230:33001/udp/230.4.34.105:1234
+#EXTINF:-1 group-title="Кино", Капитан Фантастика 1сми
+http://188.134.76.176:81/udp/235.10.10.105:1234
+#EXTINF:-1 group-title="Кино", Кино 1 International 5мпс
+http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
+#EXTINF:-1 group-title="Кино", Кино ТВ 2ь
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино", Кино ТВ 2р
+http://vod.tuva.ru/kinotv/index.m3u8
+#EXTINF:-1 group-title="Кино", Комедия 2т
+http://95.156.76.230:33001/udp/230.4.34.93:1234
+#EXTINF:-1 group-title="Кино", Мужское кино 1ма
+http://188.134.76.176:81/udp/235.10.10.150:1234
+#EXTINF:-1 group-title="Кино", Наше новое кино 2р
+http://178.212.71.253:8002/play/a00i/index.m3u8
+#EXTINF:-1 group-title="Кино", Наше новое кино 1л
+http://188.134.76.176:81/udp/235.10.10.221:1234
+#EXTINF:-1 group-title="Кино", Русский иллюзион 2й
+http://195.26.83.96:7006/play/a00y/index.m3u8
+#EXTINF:-1 group-title="Кино", Русский иллюзион 2е
+http://188.134.76.176:81/udp/235.10.10.26:1234
+#EXTINF:-1 group-title="Кино", Русский роман 1и
+https://streamcdnm4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+#EXTINF:-1 group-title="Кино", Русский роман 1т
+http://188.134.76.176:81/udp/235.10.10.44:1234
+#EXTINF:-1 group-title="Кино", Русский роман 2р
+http://95.156.76.230:33001/udp/230.4.34.69:1234
+#EXTINF:-1 group-title="Кино", Сапфир 1й
+http://95.156.76.230:33001/udp/230.4.34.71:1234
+#EXTINF:-1 group-title="Кино", 312 Кино 8
+http://176.126.166.43:1935/live/312kino/chunklist_w164832369.m3u8
+#EXTINF:-1 group-title="Кино", 312 Кино 9
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
 
