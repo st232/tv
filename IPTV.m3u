@@ -50,6 +50,8 @@ https://vod.splay.uz/live_splay/original/Animal_Planet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Animal Planet
 http://31.148.48.15/Animal_Planet_HD/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Discovery Channel HD
+http://213.252.199.137:8000/play/ch336_Diskoveri_kanal_Rossiya_hd/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Discovery Channel HD
 http://195.64.140.147:10151/151
 #EXTINF:-1 group-title="Познавательные", Discovery Channel HD
 http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
@@ -69,6 +71,8 @@ http://158.101.222.193:88/georgia_play.php?id=viasatexp
 http://158.101.222.193:88/georgia_play.php?id=viasathist
 #EXTINF:-1 group-title="Познавательные", Viju Nature
 http://158.101.222.193:88/georgia_play.php?id=viasatnat
+#EXTINF:-1 group-title="Познавательные", Viju Nature
+http://95.156.76.230:33001/udp/230.4.34.98:1234
 #EXTINF:-1 group-title="Познавательные", Viju+ Planet
 http://158.101.222.193:88/vesti/play.php?channel_id=91
 #EXTINF:-1 group-title="Познавательные", Авто 24
@@ -147,6 +151,8 @@ https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 group-title="Кино", 312 Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1 group-title="Кино", 312 Кино
+http://176.126.166.43:1935/live/312kino/chunklist_w164832369.m3u8
 #EXTINF:-1 group-title="Кино", Amedia 1
 http://sc.id-tv.kz/A1.m3u8
 #EXTINF:-1 group-title="Кино", Amedia 2
@@ -157,6 +163,8 @@ http://158.101.222.193:88/vesti/play.php?channel_id=40
 http://158.101.222.193:88/vesti/play.php?channel_id=41
 #EXTINF:-1 group-title="Кино", Cinema
 http://catchup.videoline.ru/cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино", Cinema
+http://catchup.videoline.ru/cinema/index.m3u8
 #EXTINF:-1 group-title="Кино", FilmBox
 http://iptv.prosto.tv:7000/ch64/video.m3u8
 #EXTINF:-1 group-title="Кино", Hollywood HD
@@ -183,8 +191,12 @@ http://95.156.76.230:33001/udp/230.4.34.107:1234
 http://87.120.142.11:18000/STSLove
 #EXTINF:-1 group-title="Кино", Индийское кино
 http://158.101.222.193:88/vesti/play.php?channel_id=32
-#EXTINF:-1 group-title="Кино", Кино 1 International 
+#EXTINF:-1 group-title="Кино", Индия
+http://95.156.76.230:33001/udp/230.4.34.105:1234
+#EXTINF:-1 group-title="Кино", Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 group-title="Кино", Кино 1 International
+http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ
 http://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ
@@ -197,6 +209,8 @@ http://158.101.222.193:88/vesti/play.php?channel_id=162
 http://158.101.222.193:88/vesti/play.php?channel_id=163
 #EXTINF:-1 group-title="Кино", Киносемья
 http://158.101.222.193:88/vesti/play.php?channel_id=165
+#EXTINF:-1 group-title="Кино", Комедия
+http://95.156.76.230:33001/udp/230.4.34.93:1234
 #EXTINF:-1 group-title="Кино", Мир сериала
 http://158.101.222.193:88/vesti/play.php?channel_id=45
 #EXTINF:-1 group-title="Кино", Мосфильм. Золотая коллекция
@@ -205,6 +219,14 @@ http://95.156.76.230:33001/udp/230.4.34.124:1234
 http://158.101.222.193:88/vesti/play.php?channel_id=26
 #EXTINF:-1 group-title="Кино", Наше новое кино
 http://158.101.222.193:88/vesti/play.php?channel_id=22
+#EXTINF:-1 group-title="Кино", Наше новое кино
+http://178.212.71.253:8002/play/a00i/index.m3u8
+#EXTINF:-1 group-title="Кино", Победа
+https://streaming102.goodstream.cyou/live/43.m3u8
+#EXTINF:-1 group-title="Кино", Русский роман
+http://95.156.76.230:33001/udp/230.4.34.69:1234
+#EXTINF:-1 group-title="Кино", Сапфир
+http://95.156.76.230:33001/udp/230.4.34.71:1234
 #EXTINF:-1 group-title="Кино", Сити Эдем - КиноДетектив
 https://autopilot.catcast.tv/content/41327/index.m3u8
 #EXTINF:-1 group-title="Кино", Сити Эдем - КиноКомедия
@@ -212,7 +234,7 @@ https://autopilot.catcast.tv/content/41327/index.m3u8
 http://autopilot.catcast.tv/content/41331/index.m3u8
 #EXTINF:-1 group-title="Кино", Сити Эдем - КиноМистика
 https://autopilot.catcast.tv/content/40783/index.m3u8
-#EXTINF:-1 group-title="Кино", Сити Эдем - Киноэкшен 
+#EXTINF:-1 group-title="Кино", Сити Эдем - КиноЭкшен
 https://autopilot.catcast.tv/content/41333/index.m3u8
 
 
@@ -305,8 +327,6 @@ http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ
 #EXTVLCOPT:http-user-agent=WINK/1.68.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные", ТНТ (-1)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT-1.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
@@ -316,73 +336,5 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.68.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные", ТНТ4
-http://178.212.71.253:8000/play/106/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Твое ТВ HD
 http://tvoetv.space:8080/tvoetv/tracks-v1a1/mono.m3u8
-
-
-
-
-#EXTINF:-1 group-title="Познавательные", Viju Explore
-http://158.101.222.193:88/georgia_play.php?id=viasatexp
-#EXTINF:-1 group-title="Познавательные", Авто Плюс
-http://194.32.242.245/avto24/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Моя Планета
-http://185.78.112.17/moya_planeta/index.m3u8
-
-
-
-
-#EXTINF:-1 group-title="Кино", Победа
-https://streaming102.goodstream.cyou/live/43.m3u8
-#EXTINF:-1 group-title="Кино", Победа 15
-http://188.134.76.176:81/udp/235.10.10.168:1234
-#EXTINF:-1 group-title="Кино", Amedia 12
-http://sc.id-tv.kz/A1.m3u8
-#EXTINF:-1 group-title="Кино", Amedia 13
-http://188.134.76.176:81/udp/235.10.10.123:1234
-#EXTINF:-1 group-title="Кино", Cinema1
-http://catchup.videoline.ru/cinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино", Cinema2
-http://catchup.videoline.ru/cinema/index.m3u8
-#EXTINF:-1 group-title="Кино", Cinema3
-http://188.134.76.176:81/udp/235.10.10.222:1234
-#EXTINF:-1 group-title="Кино", viju TV1000 12
-http://95.156.76.230:33001/udp/230.4.34.98:1234
-#EXTINF:-1 group-title="Кино", Индия 2ьт
-http://95.156.76.230:33001/udp/230.4.34.105:1234
-#EXTINF:-1 group-title="Кино", Капитан Фантастика 1сми
-http://188.134.76.176:81/udp/235.10.10.105:1234
-#EXTINF:-1 group-title="Кино", Кино 1 International 5мпс
-http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
-#EXTINF:-1 group-title="Кино", Кино ТВ 2ь
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино", Кино ТВ 2р
-http://vod.tuva.ru/kinotv/index.m3u8
-#EXTINF:-1 group-title="Кино", Комедия 2т
-http://95.156.76.230:33001/udp/230.4.34.93:1234
-#EXTINF:-1 group-title="Кино", Мужское кино 1ма
-http://188.134.76.176:81/udp/235.10.10.150:1234
-#EXTINF:-1 group-title="Кино", Наше новое кино 2р
-http://178.212.71.253:8002/play/a00i/index.m3u8
-#EXTINF:-1 group-title="Кино", Наше новое кино 1л
-http://188.134.76.176:81/udp/235.10.10.221:1234
-#EXTINF:-1 group-title="Кино", Русский иллюзион 2й
-http://195.26.83.96:7006/play/a00y/index.m3u8
-#EXTINF:-1 group-title="Кино", Русский иллюзион 2е
-http://188.134.76.176:81/udp/235.10.10.26:1234
-#EXTINF:-1 group-title="Кино", Русский роман 1и
-https://streamcdnm4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
-#EXTINF:-1 group-title="Кино", Русский роман 1т
-http://188.134.76.176:81/udp/235.10.10.44:1234
-#EXTINF:-1 group-title="Кино", Русский роман 2р
-http://95.156.76.230:33001/udp/230.4.34.69:1234
-#EXTINF:-1 group-title="Кино", Сапфир 1й
-http://95.156.76.230:33001/udp/230.4.34.71:1234
-#EXTINF:-1 group-title="Кино", 312 Кино 8
-http://176.126.166.43:1935/live/312kino/chunklist_w164832369.m3u8
-#EXTINF:-1 group-title="Кино", 312 Кино 9
-http://176.126.166.43:1935/live/312kino/playlist.m3u8
-
