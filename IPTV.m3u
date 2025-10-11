@@ -153,10 +153,6 @@ http://176.126.166.43:1935/live/312musik/playlist.m3u8
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 group-title="Кино", 312 Кино
 http://176.126.166.43:1935/live/312kino/chunklist_w164832369.m3u8
-#EXTINF:-1 group-title="Кино", Amedia 1
-http://sc.id-tv.kz/A1.m3u8
-#EXTINF:-1 group-title="Кино", Amedia 2
-http://sc.id-tv.kz/A2_36_37.m3u8
 #EXTINF:-1 group-title="Кино", Amedia 2
 http://158.101.222.193:88/vesti/play.php?channel_id=40
 #EXTINF:-1 group-title="Кино", Amedia Hit
@@ -169,8 +165,6 @@ http://catchup.videoline.ru/cinema/index.m3u8
 http://iptv.prosto.tv:7000/ch64/video.m3u8
 #EXTINF:-1 group-title="Кино", Hollywood HD
 http://158.101.222.193:88/vesti/play.php?channel_id=102
-#EXTINF:-1 group-title="Кино", .sci-fi
-http://178.124.179.122:8088/Sci-Fi/index.m3u8
 #EXTINF:-1 group-title="Кино", START World
 http://95.156.76.230:33001/udp/230.4.34.66:1234
 #EXTINF:-1 group-title="Кино", Timeless Dizi Channel
@@ -338,3 +332,4 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", Твое ТВ HD
 http://tvoetv.space:8080/tvoetv/tracks-v1a1/mono.m3u8
+
