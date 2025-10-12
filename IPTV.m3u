@@ -52,8 +52,6 @@ https://vod.splay.uz/live_splay/original/Animal_Planet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Animal Planet
 http://31.148.48.15/Animal_Planet_HD/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Discovery Channel HD
-http://213.252.199.137:8000/play/ch336_Diskoveri_kanal_Rossiya_hd/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Discovery Channel HD
 http://195.64.140.147:10151/151
 #EXTINF:-1 group-title="Познавательные", Discovery Channel HD
 http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
@@ -358,6 +356,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", Твое ТВ HD
 http://tvoetv.space:8080/tvoetv/tracks-v1a1/mono.m3u8
+
 
 
 
