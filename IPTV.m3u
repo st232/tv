@@ -5,6 +5,8 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 group-title="Новостные", Известия
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", НТВ
+http://cdn2.ntv.ru/ntv-msk_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные", НТВ
 http://194.158.222.36:6107
 #EXTINF:-1 group-title="Развлекательные", Первый канал
 https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
@@ -281,6 +283,14 @@ https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u
 http://uiptv.do.am/1ufc/113500247/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", МИР
 http://194.158.222.36:6104
+#EXTINF:-1 group-title="Развлекательные", НТВ
+http://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные", НТВ
+http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные", НТВ
+http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
+#EXTINF:-1 group-title="Развлекательные", НТВ
+http://cdn.ntv.ru/ntv-msk/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", НТВ-Право
 http://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", НТВ-Право
@@ -332,4 +342,5 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", Твое ТВ HD
 http://tvoetv.space:8080/tvoetv/tracks-v1a1/mono.m3u8
+
 
