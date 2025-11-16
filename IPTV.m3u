@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="http://epg.one/epg.xml"
 
 #EXTINF:-1 group-title="Новостные", Известия
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 group-title="Новостные", Известия
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+#EXTINF:-1 group-title="Новостные", Известия
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 
 
 
@@ -234,6 +234,7 @@ http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 group-title="Музыкальные", Шансон-ТВ 
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
+
 
 
 
