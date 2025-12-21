@@ -184,8 +184,6 @@ http://158.101.222.193:88/vesti/play.php?channel_id=26
 http://158.101.222.193:88/vesti/play.php?channel_id=22
 #EXTINF:-1 group-title="Кино", Наше новое кино
 http://178.212.71.253:8002/play/a00i/index.m3u8
-#EXTINF:-1 group-title="Кино", Победа
-https://streaming102.goodstream.cyou/live/43.m3u8
 #EXTINF:-1 group-title="Кино", Сити Эдем - КиноДетектив
 https://autopilot.catcast.tv/content/41327/index.m3u8
 #EXTINF:-1 group-title="Кино", Сити Эдем - КиноКомедия
@@ -225,4 +223,5 @@ http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 group-title="Музыкальные", Шансон-ТВ 
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
+
 
