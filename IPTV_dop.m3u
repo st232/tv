@@ -59,3 +59,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
 http://tvoetv.space:8080/tvoetv/tracks-v1a1/mono.m3u8
 
 
+
+
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Viasat History
+http://mfe02.cliptv.az/dash/Viasat_History_SD78905ty.ism/playlist.mpd
