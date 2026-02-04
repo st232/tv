@@ -36,9 +36,6 @@ http://194.158.222.36:6104
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", МИР 6
 http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Развлекательные", МИР 7
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", Первый канал
 http://195.26.83.96:7013/play/12/index.m3u8
 #EXTINF:-1 group-title="Эфирные", Пятый канал
@@ -49,35 +46,19 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 #EXTINF:-1 group-title="Общие", Россия 2
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
-#EXTINF:-1 group-title="Развлекательные", Россия 3
-#EXTVLCOPT:http-user-agent=WINK/1.50.1 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТВ Беларусь
-http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Развлекательные", СТВ.BY 
 http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ", СТС 1
 #EXTVLCOPT:http-user-agent=WINK/1.50.1 (AndroidTV/9) HlsWinkPlayer 
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТС 2
 https://streaming.televizor-24-tochka.ru/live/296.m3u8
-#EXTINF:-1 group-title="Развлекательные", СТС 3
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer 
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТС 4
 #EXTVLCOPT:http-user-agent=SmartTV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТС Love 1
 http://178.212.71.253:8002/play/a00r/index.m3u8
-#EXTINF:-1 group-title="Развлекательные", СТС Love 2
-http://178.212.71.253:8002/play/a00r/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="super", Суббота! 1
-http://195.26.83.96:7013/play/a00e/index.m3u8
-#EXTINF:-1 group-title="Развлекательные", Суббота! 2
-http://195.26.83.96:7013/play/a00e/index.m3u8
-#EXTINF:-1 group-title="Развлекательные", Суббота! 3
-http://195.26.83.96:7013/play/a00e/index.m3u8
-#EXTINF:-1 group-title="Развлекательные", Суббота! 4
 http://195.26.83.96:7013/play/a00e/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные", Суббота 5
 #EXTVLCOPT:http-user-agent=SmartTV
@@ -125,32 +106,15 @@ http://195.26.83.96:7009/play/89/index.m3u8
 http://uiptv.do.am/1ufc/109121273/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", Че! 3
 http://178.212.71.253:8002/play/a00s/index.m3u8
-#EXTINF:-1 group-title="Развлекательные", Че! 4
-http://195.26.83.96:7009/play/89/index.m3u8
-#EXTINF:-1 group-title="Развлекательные", Че! 5
-http://178.212.71.253:8002/play/a00s/index.m3u8
-#EXTINF:-1 group-title="Развлекательные", Че! 6
-http://195.26.83.96:7009/play/89/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Че! 7
 http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8
-#EXTINF:-1 group-title="Развлекательные", Че! 8
-http://178.212.71.253:8002/play/a00s/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",Че! 9
-http://195.26.83.96:7009/play/89/index.m3u8
-#EXTINF:-1 group-title="Развлекательные", Че! 10
-http://uiptv.do.am/1ufc/109121273/playlist.m3u8
+
 
 
 
 
 
 #EXTINF:-1 group-title="Познавательные", Galaxy 1
-http://195.26.83.96:7007/play/a00j/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Galaxy 2 
-http://195.26.83.96:7007/play/a00j/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Galaxy 3
-http://195.26.83.96:7007/play/a00j/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Galaxy 4
 http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 group-title="Познавательные", History
 https://iptv.prosto.tv/ch87/video.m3u8?secret=3fwh601f
@@ -161,15 +125,11 @@ http://195.26.83.96:7013/play/37/index.m3u8
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Большая Азия HD 2
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", Большая Азия 3
-https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", Большая Азия 4
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", Большая Азия 5
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="Развлекательные", Большая Азия 6
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Моя Планета
 http://87.120.142.11:18000/RENTV
+
