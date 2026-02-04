@@ -13,11 +13,7 @@ http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="domashny" group-title="Развлекательные", Домашний (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.68.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные", Домашний 2
-http://uiptv.do.am/1ufc/104487210/playlist.m3u8
-#EXTINF:-1 group-title="Развлекательный",Домашний 1
-http://uiptv.do.am/1ufc/104487210/playlist.m3u8
-#EXTINF:-1 group-title="Развлекательный",Домашний 1
+#EXTINF:-1 group-title="Развлекательные", Домашний 1
 http://uiptv.do.am/1ufc/104487210/playlist.m3u8
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные", Домашний (+2)
 #EXTVLCOPT:http-user-agent=SmartTV
@@ -40,87 +36,87 @@ http://194.158.222.36:6104
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", МИР 6
 http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Разное",НТВ 1
 http://cdn.ntv.ru/ntv-spb/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Разное",НТВ +1 12
+#EXTINF:-1 group-title="Разное",НТВ +1 2
 http://cdn.ntv.ru/ntv1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Разное",НТВ +1 13
+#EXTINF:-1 group-title="Разное",НТВ +1 3
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 http://cdn.ntv.ru/ntv1/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Разное",НТВ +1 14
+#EXTINF:-1 group-title="Разное",НТВ +1 4
 http://cdn.ntv.ru/ntv1_sd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Разное",НТВ +1 15
+#EXTINF:-1 group-title="Разное",НТВ +1 5
 http://cdn.ntv.ru/ntv1/mono.m3u8
-#EXTINF:-1 group-title="Разное",НТВ +1 16
+#EXTINF:-1 group-title="Разное",НТВ +1 6
 http://cdn2.ntv.ru/ntv1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Разное",НТВ +1 17
+#EXTINF:-1 group-title="Разное",НТВ +1 7
 http://cdn.ntv.ru/ntv1/playlist.m3u8
-#EXTINF:-1 group-title="Разное",НТВ +1 18
+#EXTINF:-1 group-title="Разное",НТВ +1 8
 https://cdn2.ntv.ru/ntv1_sd/index.m3u8
-#EXTINF:-1 group-title="Разное",НТВ +2 19
+#EXTINF:-1 group-title="Разное",НТВ +2 9
 http://cdn.ntv.ru/ntv2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Разное",НТВ +2 20
+#EXTINF:-1 group-title="Разное",НТВ +2 10
 http://cdn.ntv.ru/ntv2_sd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Разное",НТВ +2 21
+#EXTINF:-1 group-title="Разное",НТВ +2 11
 http://cdn.ntv.ru/ntv2/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Разное",НТВ +2 22
+#EXTINF:-1 group-title="Разное",НТВ +2 12
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://cdn.ntv.ru/ntv2/mono.m3u8
-#EXTINF:-1 group-title="Разное",НТВ +2 23
+#EXTINF:-1 group-title="Разное",НТВ +2 13
 http://cdn2.ntv.ru/ntv2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Разное",НТВ +2 24
+#EXTINF:-1 group-title="Разное",НТВ +2 14
 http://cdn.ntv.ru/ntv2/playlist.m3u8
-#EXTINF:-1 group-title="Разное",НТВ +4 25
+#EXTINF:-1 group-title="Разное",НТВ +4 15
 http://cdn.ntv.ru/ntv4/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Разное",НТВ +4 26
+#EXTINF:-1 group-title="Разное",НТВ +4 16
 http://cdn.ntv.ru/ntv4/mono.m3u8
-#EXTINF:-1 group-title="Разное",НТВ +4 27
+#EXTINF:-1 group-title="Разное",НТВ +4 17
 http://cdn.ntv.ru/ntv4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Разное",НТВ +4 28
+#EXTINF:-1 group-title="Разное",НТВ +4 18
 http://cdn.ntv.ru/ntv4_sd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Разное",НТВ +4 29
+#EXTINF:-1 group-title="Разное",НТВ +4 19
 http://cdn2.ntv.ru/ntv4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Разное",НТВ +4 30
+#EXTINF:-1 group-title="Разное",НТВ +4 20
 http://cdn.ntv.ru/ntv4/playlist.m3u8
-#EXTINF:-1 group-title="Разное",НТВ +7 31
+#EXTINF:-1 group-title="Разное",НТВ +7 21
 http://cdn.ntv.ru/ntv7/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Разное",НТВ +7 32
+#EXTINF:-1 group-title="Разное",НТВ +7 22
 http://cdn.ntv.ru/ntv7/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Разное",НТВ +7 33
+#EXTINF:-1 group-title="Разное",НТВ +7 23
 http://cdn.ntv.ru/ntv7_sd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Разное",НТВ +7 34
+#EXTINF:-1 group-title="Разное",НТВ +7 24
 http://cdn.ntv.ru/ntv7/mono.m3u8
-#EXTINF:-1 group-title="Разное",НТВ +7 35
+#EXTINF:-1 group-title="Разное",НТВ +7 25
 http://cdn2.ntv.ru/ntv7/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Разное",НТВ +7 36
+#EXTINF:-1 group-title="Разное",НТВ +7 26
 http://cdn.ntv.ru/ntv7/playlist.m3u8
-#EXTINF:-1 group-title="Общий",НТВ 1
+#EXTINF:-1 group-title="Общий",НТВ 27
 http://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Общий",НТВ 2
+#EXTINF:-1 group-title="Общий",НТВ 28
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Общий",НТВ 3
+#EXTINF:-1 group-title="Общий",НТВ 29
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
-#EXTINF:-1 group-title="Общий",НТВ 4
+#EXTINF:-1 group-title="Общий",НТВ 30
 http://cdn.ntv.ru/ntv-msk/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Общий",НТВ 5
+#EXTINF:-1 group-title="Общий",НТВ 31
 http://cdn2.ntv.ru/ntv-msk_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Общий",НТВ 6
+#EXTINF:-1 group-title="Общий",НТВ 32
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Общий",НТВ 7
+#EXTINF:-1 group-title="Общий",НТВ 33
 http://cdn.ntv.ru/ntv0_hd/tracks-v3a1/rewind-7150.m3u8
-#EXTINF:-1 group-title="Общий",НТВ 8
+#EXTINF:-1 group-title="Общий",НТВ 34
 http://cdn.ntv.ru/ntv0_hd/tracks-v3a1/mono.m3u8
-#EXTINF:-1 group-title="Общий",НТВ 9
+#EXTINF:-1 group-title="Общий",НТВ 35
 http://cdn2.ntv.ru/ntv-spb/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Общий",НТВ 10
+#EXTINF:-1 group-title="Общий",НТВ 36
 http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Общий",НТВ 12
+#EXTINF:-1 group-title="Общий",НТВ 37
 http://cdn.ntv.ru/ntv0_hd/index.m3u8
-#EXTINF:-1 group-title="Общий",НТВ 13
+#EXTINF:-1 group-title="Общий",НТВ 38
 http://cdn.ntv.ru/ntv0/playlist.m3u8
-#EXTINF:-1 group-title="Развлекательные", Первый канал
-http://195.26.83.96:7013/play/12/index.m3u8
-#EXTINF:-1 group-title="Общий",Первый канал 1
+
+#EXTINF:-1 group-title="Развлекательные", Первый канал 1
 http://195.26.83.96:7013/play/12/index.m3u8
 #EXTINF:-1 group-title="Общий",Первый канал 2
 https://streaming.televizor-24-tochka.ru/live/210.m3u8
@@ -134,9 +130,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 #EXTINF:-1 group-title="Общественные", Россия 1
 #EXTVLCOPT:http-user-agent=SmartTV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Общие", Россия 2
-#EXTINF:-1 group-title="Разное", РТР
+#EXTINF:-1 group-title="Разное", Россия 2
 http://194.158.222.36:6106/
+#EXTINF:-1 group-title="Общие", Россия 3
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТВ Беларусь
 http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
@@ -154,15 +150,11 @@ http://178.212.71.253:8002/play/a00r/index.m3u8
 http://188.134.76.176:81/udp/235.10.10.2:1234
 #EXTINF:-1 group-title="Познавательные" tvg-id="super", Суббота! 1
 http://195.26.83.96:7013/play/a00e/index.m3u8
-#EXTINF:-1 group-title="Развлекательный",Суббота! 1
-http://77.106.252.178:4022/udp/233.33.210.203:5050
 #EXTINF:-1 group-title="Развлекательный",Суббота! 2
-http://195.26.83.96:7013/play/a00e/index.m3u8
+http://77.106.252.178:4022/udp/233.33.210.203:5050
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные", Суббота 5
 #EXTVLCOPT:http-user-agent=SmartTV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
-#EXTINF:-1 group-title="Развлекательный",Суббота! 1
-http://77.106.252.178:4022/udp/233.33.210.203:5050
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="super-pl7", Суббота! (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.68.1 (AndroidTV/9) HlsWinkPlayer 
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
@@ -176,8 +168,6 @@ http://188.134.76.176:81/udp/235.10.10.56:1234
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="tv3-ru-pl7" group-title="Общие", ТВ3 (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.68.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные", ТВЦ
-http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательный",Твоё ТВ 3
 https://tvoetv.space/tvoetv/video.m3u8
 #EXTINF:-1 group-title="Развлекательный",Твоё ТВ 4
@@ -192,21 +182,8 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 https://tvoetv.space/tvoetv/index.m3u8
 #EXTINF:-1 group-title="Развлекательный",Твоё ТВ 10
 https://tvoetv.space/tvoetv/mpegts
-#EXTINF:-1 group-title="Развлекательные", Твое ТВ HD
-http://tvoetv.space:8080/tvoetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Развлекательный",Твоё ТВ 1
-https://tvoetv.space/tvoetv/video.m3u8
-#EXTINF:-1 group-title="Развлекательный",Твоё ТВ 2
-http://tvoetv.space:8080/tvoetv/video.m3u8
-#EXTINF:-1 group-title="Развлекательный",Твоё ТВ 3
-https://tvoetv.space/tvoetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Развлекательный",Твоё ТВ 4
-http://tvoetv.space:8080/tvoetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Развлекательный",Твоё ТВ 5
-http://tvoetv.space:8080/tvoetv/index.m3u8
-#EXTINF:-1 group-title="Развлекательный",Твоё ТВ 6
-https://tvoetv.space/tvoetv/index.m3u8
-
+#EXTINF:-1 group-title="Развлекательные", ТВЦ
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Общий", ТНТ 1
 https://streaming.televizor-24-tochka.ru/live/38.m3u8
 #EXTINF:-1 group-title="Общий", ТНТ 2
@@ -239,16 +216,8 @@ http://uiptv.do.am/1ufc/109121273/playlist.m3u8
 http://178.212.71.253:8002/play/a00s/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Че! 7
 http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8
-#EXTINF:-1 group-title="Развлекательный",Че! 2
-http://195.26.83.96:7009/play/89/index.m3u8
-#EXTINF:-1 group-title="Развлекательный",Че! 3
-http://uiptv.do.am/1ufc/109121273/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательный",Че! 4
 http://188.134.76.176:81/udp/235.10.10.7:1234
-#EXTINF:-1 group-title="Развлекательный",Че! 1
-http://195.26.83.96:7009/play/89/index.m3u8
-#EXTINF:-1 group-title="Развлекательный",Че! 2
-http://uiptv.do.am/1ufc/109121273/playlist.m3u8
 
 
 
@@ -266,29 +235,13 @@ http://195.26.83.96:7013/play/37/index.m3u8
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Большая Азия HD 2
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные", Большая Азия 3
+http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", Большая Азия 4
-http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Развлекательные", Большая Азия 5
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="Разное",Большая Азия 1
-http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Разное",Большая Азия 2
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="Разное",Большая Азия 3
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
-#EXTINF:-1 group-title="Разное",Большая Азия 4
+#EXTINF:-1 group-title="Разное",Большая Азия 5
 http://188.134.76.176:81/udp/235.10.10.82:1234
-#EXTINF:-1 group-title="Разное",Большая Азия 1
-http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Разное",Большая Азия 2
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="Разное",Большая Азия 3
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Моя Планета
 http://87.120.142.11:18000/RENTV
 
@@ -316,6 +269,12 @@ http://188.134.76.176:81/udp/235.10.10.222:1234
 http://iptv.prosto.tv:7000/ch64/video.m3u8
 #EXTINF:-1 group-title="Фильмы",HollywooD HD 1
 http://188.134.76.176:81/udp/235.10.10.67:1234
+#EXTINF:-1 group-title="Разное",Plan_B 1
+http://188.134.76.176:81/udp/235.10.10.151:1234
+#EXTINF:-1 group-title="Фильмы плюс",Star Family 1
+http://iptv.prosto.tv:7000/ch57/video.m3u8
+#EXTINF:-1 group-title="Фильмы плюс",Star Family 2
+http://188.134.76.176:81/udp/235.10.10.251:1234
 #EXTINF:-1 group-title="Фильмы",START World 1
 http://188.134.76.176:81/udp/235.10.10.30:1234
 #EXTINF:-1 group-title="Фильмы",viju TV1000 1
@@ -393,12 +352,6 @@ https://streamcdnm4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sM
 http://188.134.76.176:81/udp/235.10.10.44:1234
 #EXTINF:-1 group-title="Фильмы",Сапфир 1
 http://188.134.76.176:81/udp/235.10.10.104:1234
-#EXTINF:-1 group-title="Фильмы",ТВ 21 1
-http://77.106.252.178:4022/udp/233.33.210.1:5050
-#EXTINF:-1 group-title="Фильмы плюс",Star Family 1
-http://iptv.prosto.tv:7000/ch57/video.m3u8
-#EXTINF:-1 group-title="Фильмы плюс",Star Family 2
-http://188.134.76.176:81/udp/235.10.10.251:1234
 #EXTINF:-1 group-title="Фильмы плюс",Сити Эдем - Кино Детектив 1
 https://autopilot.catcast.tv/content/41327/index.m3u8
 #EXTINF:-1 group-title="Фильмы плюс",Сити Эдем - КиноКомедия1
@@ -408,5 +361,5 @@ http://autopilot.catcast.tv/content/41331/index.m3u8
 https://autopilot.catcast.tv/content/40783/index.m3u8
 #EXTINF:-1 group-title="Фильмы плюс",Сити Эдем - КиноЭкшен1
 http://autopilot.catcast.tv/content/41333/index.m3u8
-#EXTINF:-1 group-title="Разное",Plan_B 1
-http://188.134.76.176:81/udp/235.10.10.151:1234
+#EXTINF:-1 group-title="Фильмы",ТВ 21 1
+http://77.106.252.178:4022/udp/233.33.210.1:5050
