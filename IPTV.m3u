@@ -36,16 +36,16 @@ https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
 #EXTINF:-1 group-title="Развлекательные", Перец
 http://178.124.152.238:8088/perec
 #EXTINF:-1 group-title="Развлекательные", Пятница
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", Пятый канал
 #EXTVLCOPT:http-user-agent=SmartTV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", Рен ТВ
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", Рен ТВ
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
@@ -60,33 +60,33 @@ https://streaming.televizor-24-tochka.ru/live/296.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТС Love
 http://178.212.71.253:8002/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="super" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://iptvx.one/picons/subbota.png" group-title="Развлекательные", Суббота!
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", Суббота!
 http://195.26.83.96:7013/play/a00e/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные", ТВ3
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", Твое ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТВЦ
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ4
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ4
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТСВ MD
 https://tsv.md/stream/hls/tsv-online/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Че!
-#EXTVLCOPT:http-user-agent=WINK/1.74.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.75.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", Че!
 http://178.212.71.253:8002/play/a00s/index.m3u8
@@ -246,3 +246,4 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 group-title="Музыкальные", Шансон-ТВ 
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
+
