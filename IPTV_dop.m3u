@@ -1,3 +1,5 @@
+#EXTM3U url-tvg="http://epg.one/epg.xml"
+
 #EXTINF:-1 group-title="Новостные", РБК
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 #EXTINF:-1 group-title="Новостные", 360° Новости
@@ -32,86 +34,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 group-title="Разное",НТВ +1 2
-http://cdn.ntv.ru/ntv1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Разное",НТВ +1 3
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-http://cdn.ntv.ru/ntv1/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Разное",НТВ +1 4
-http://cdn.ntv.ru/ntv1_sd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Разное",НТВ +1 5
-http://cdn.ntv.ru/ntv1/mono.m3u8
-#EXTINF:-1 group-title="Разное",НТВ +1 6
-http://cdn2.ntv.ru/ntv1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Разное",НТВ +1 7
-http://cdn.ntv.ru/ntv1/playlist.m3u8
-#EXTINF:-1 group-title="Разное",НТВ +1 8
-https://cdn2.ntv.ru/ntv1_sd/index.m3u8
-#EXTINF:-1 group-title="Разное",НТВ +2 9
-http://cdn.ntv.ru/ntv2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Разное",НТВ +2 10
-http://cdn.ntv.ru/ntv2_sd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Разное",НТВ +2 11
-http://cdn.ntv.ru/ntv2/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Разное",НТВ +2 12
-#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
-http://cdn.ntv.ru/ntv2/mono.m3u8
-#EXTINF:-1 group-title="Разное",НТВ +2 13
-http://cdn2.ntv.ru/ntv2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Разное",НТВ +2 14
-http://cdn.ntv.ru/ntv2/playlist.m3u8
-#EXTINF:-1 group-title="Разное",НТВ +4 15
-http://cdn.ntv.ru/ntv4/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Разное",НТВ +4 16
-http://cdn.ntv.ru/ntv4/mono.m3u8
-#EXTINF:-1 group-title="Разное",НТВ +4 17
-http://cdn.ntv.ru/ntv4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Разное",НТВ +4 18
-http://cdn.ntv.ru/ntv4_sd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Разное",НТВ +4 19
-http://cdn2.ntv.ru/ntv4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Разное",НТВ +4 20
-http://cdn.ntv.ru/ntv4/playlist.m3u8
-#EXTINF:-1 group-title="Разное",НТВ +7 21
-http://cdn.ntv.ru/ntv7/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Разное",НТВ +7 22
-http://cdn.ntv.ru/ntv7/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Разное",НТВ +7 23
-http://cdn.ntv.ru/ntv7_sd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Разное",НТВ +7 24
-http://cdn.ntv.ru/ntv7/mono.m3u8
-#EXTINF:-1 group-title="Разное",НТВ +7 25
-http://cdn2.ntv.ru/ntv7/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Разное",НТВ +7 26
-http://cdn.ntv.ru/ntv7/playlist.m3u8
-#EXTINF:-1 group-title="Общий",НТВ 27
-http://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Общий",НТВ 28
-http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Общий",НТВ 29
-http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
-#EXTINF:-1 group-title="Общий",НТВ 30
-http://cdn.ntv.ru/ntv-msk/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Общий",НТВ 31
-http://cdn2.ntv.ru/ntv-msk_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Общий",НТВ 32
-http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Общий",НТВ 33
-http://cdn.ntv.ru/ntv0_hd/tracks-v3a1/rewind-7150.m3u8
-#EXTINF:-1 group-title="Общий",НТВ 34
-http://cdn.ntv.ru/ntv0_hd/tracks-v3a1/mono.m3u8
-#EXTINF:-1 group-title="Общий",НТВ 35
-http://cdn2.ntv.ru/ntv-spb/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Общий",НТВ 36
-http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Общий",НТВ 37
-http://cdn.ntv.ru/ntv0_hd/index.m3u8
-#EXTINF:-1 group-title="Общий",НТВ 38
-http://cdn.ntv.ru/ntv0/playlist.m3u8
 
-
-#EXTINF:-1 group-title="Общий",Первый канал 2
-https://streaming.televizor-24-tochka.ru/live/210.m3u8
 #EXTINF:-1 group-title="Общественные", Россия 1
 #EXTVLCOPT:http-user-agent=SmartTV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
@@ -198,3 +121,4 @@ http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", Большая Азия 4
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v2a1/mono.m3u8
+
