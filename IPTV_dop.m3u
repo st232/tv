@@ -120,6 +120,8 @@ http://uiptv.do.am/1ufc/109121273/playlist.m3u8
 
 
 
+#EXTINF:-1 group-title="Познавательные", Discovery Channel HD
+http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Большая Азия HD 1
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
