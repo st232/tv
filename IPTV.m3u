@@ -73,7 +73,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 #EXTINF:-1 group-title="Познавательные", Animal Planet
 http://31.148.48.15/Animal_Planet_HD/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Discovery Channel HD
-http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
+http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Galaxy
 http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild
@@ -87,7 +87,7 @@ http://158.101.222.193:88/vesti/play.php?channel_id=104
 #EXTINF:-1 group-title="Познавательные", Viju History
 http://89.232.68.194:8080/HISTORY/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju Nature
-http://158.101.222.193:88/georgia_play.php?id=viasatnat
+http://195.26.83.96:7013/play/37/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju+ Planet HD
 http://158.101.222.193:88/vesti/play.php?channel_id=91
 #EXTINF:-1 group-title="Познавательные", Авто 24
