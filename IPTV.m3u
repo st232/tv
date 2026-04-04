@@ -77,7 +77,7 @@ http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Galaxy
 http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild
-http://188.237.47.212:6005
+https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", National Geographic
 http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Ocean TV
@@ -94,8 +94,6 @@ http://158.101.222.193:88/vesti/play.php?channel_id=91
 http://178.124.152.238:8088/auto24
 #EXTINF:-1 group-title="Познавательные", Авто Плюс
 http://31.148.48.15/Avto_Plus/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Бобёр
-http://178.212.71.253:8002/play/a00m/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Большая Азия HD
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Живая планета
@@ -111,7 +109,7 @@ http://178.124.152.238:8088/nauka
 #EXTINF:-1 group-title="Познавательные", Продвижение 
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Т24
-http://158.101.222.193:88/georgia_play.php?id=24techno
+https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
 
 
 
