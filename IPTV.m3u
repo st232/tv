@@ -47,7 +47,7 @@ http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТС
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТС Love
-http://178.212.71.253:8002/play/a00r/index.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/CH_STSLOVE.m3u8
 #EXTINF:-1 group-title="Развлекательные", Суббота!
 http://195.26.83.96:7013/play/a00e/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные", ТВ3
@@ -75,19 +75,23 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 #EXTINF:-1 group-title="Познавательные", Animal Planet
 http://31.148.48.15/Animal_Planet_HD/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Discovery Channel HD
-http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
+http://dmitry-tv.ddns.net/hls/CH_DISCOVERY_CHANNEL.m3u8
 #EXTINF:-1 group-title="Познавательные", Galaxy
 http://195.26.83.96:7007/play/a00j/index.m3u8
+#EXTINF:-1 group-title="Познавательные", HISTORY
+http://dmitry-tv.ddns.net/hls/CH_HISTORY.m3u8
+#EXTINF:-1 group-title="Познавательные", HISTORY 2
+http://dmitry-tv.ddns.net/hls/CH_HISTORY_2.m3u8
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild
 https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", National Geographic
-http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
+http://dmitry-tv.ddns.net/hls/CH_NATIONALGEOGRAPHIC.m3u8
 #EXTINF:-1 group-title="Познавательные", Ocean TV
 http://158.101.222.193:88/vesti/play.php?channel_id=96
 #EXTINF:-1 group-title="Познавательные", Viju Explore
 http://158.101.222.193:88/vesti/play.php?channel_id=104
 #EXTINF:-1 group-title="Познавательные", Viju History
-http://89.232.68.194:8080/HISTORY/tracks-v1a1/index.m3u8
+http://dmitry-tv.ddns.net/hls/CH_VIASAT_HISTORYHD.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju Nature
 http://195.26.83.96:7013/play/37/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju+ Planet HD
@@ -128,8 +132,6 @@ http://iptv.prosto.tv:7000/ch64/video.m3u8
 http://158.101.222.193:88/vesti/play.php?channel_id=102
 #EXTINF:-1 group-title="Кино", viju TV1000
 http://158.101.222.193:88/vesti/play.php?channel_id=47
-#EXTINF:-1 group-title="Кино", Еврокино
-http://87.120.142.11:18000/STSLove
 #EXTINF:-1 group-title="Кино", Индийское кино
 http://158.101.222.193:88/vesti/play.php?channel_id=32
 #EXTINF:-1 group-title="Кино", Кино 1 International
