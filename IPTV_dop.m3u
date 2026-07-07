@@ -19,7 +19,10 @@ http://dmitry-tv.ddns.net/hls/CH_DISCOVERY_CHANNEL.m3u8
 http://dmitry-tv.ddns.net/hls/CH_NATIONALGEOGRAPHIC.m3u8
 #EXTINF:-1 group-title="Познавательные", NATIONAL GEOGRAPHIC WILD
 http://dmitry-tv.ddns.net/hls/CH_NATIONALGEOGRAPHICWILD.m3u8
-
+#EXTINF:-1 group-title="Познавательные", Discovery Channel HD
+https://stream8.cinerama.uz/1039/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные", Nat Geo Wild
+https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="Новостные", Известия
