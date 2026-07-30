@@ -101,8 +101,6 @@ http://178.124.152.238:8088/auto24
 https://stream1.cinerama.uz/1036/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Большая Азия HD
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", Драйв
-http://stream1.cinerama.uz/1421/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Живая планета
 http://185.46.16.239:8000/Zhivaya_Planeta
 #EXTINF:-1 group-title="Познавательные", Зоо ТВ
