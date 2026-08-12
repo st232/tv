@@ -72,7 +72,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 
 
 #EXTINF:-1 group-title="Познавательные", Animal Planet
-http://46.32.176.50/AnimalPlanetHD/index.m3u8
+http://31.148.48.15/Animal_Planet_HD/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Discovery Channel HD
 http://stream.mcquack.net/177/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Galaxy TV
@@ -151,8 +151,6 @@ http://158.101.222.193:88/vesti/play.php?channel_id=22
 
 
 
-#EXTINF:-1 group-title="Детские", Кнопка ТВ
-http://api.alpaca.t62a.com/hls/9116/stream0.m3u8
 #EXTINF:-1 group-title="Детские", Радость моя
 http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 
