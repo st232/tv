@@ -151,6 +151,8 @@ http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Наука HD
 http://vod.tuva.ru/nauka2/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Т24
+https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
 
 
 
