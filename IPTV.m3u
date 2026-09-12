@@ -75,20 +75,12 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 http://31.148.48.15/Animal_Planet_HD/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Discovery Channel HD
 http://stream.mcquack.net/177/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Galaxy TV
-http://dmitry-tv.ddns.net/hls/CH_GALAXYTV.m3u8
-#EXTINF:-1 group-title="Познавательные", HISTORY
-http://dmi3y-tv.online/hls/CH_HISTORY.m3u8
-#EXTINF:-1 group-title="Познавательные", HISTORY 2
-http://dmi3y-tv.online/hls/CH_HISTORY_2.m3u8
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild
 https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", National Geographic
 http://dmi3y-tv.online/hls/CH_NATIONALGEOGRAPHIC.m3u8
-#EXTINF:-1 group-title="Познавательные", Ocean TV
-http://158.101.222.193:88/vesti/play.php?channel_id=96
 #EXTINF:-1 group-title="Познавательные", Viju Explore
-http://158.101.222.193:88/vesti/play.php?channel_id=104
+http://dmitry-tv.ddns.net/hls/CH_VIASAT_EXPLOREHD.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju History
 http://dmi3y-tv.online/hls/CH_VIASAT_HISTORYHD.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju Nature
@@ -103,8 +95,6 @@ https://stream1.cinerama.uz/1036/tracks-v1a1/mono.m3u8
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Живая планета
 http://185.46.16.239:8000/Zhivaya_Planeta
-#EXTINF:-1 group-title="Познавательные", Зоо ТВ
-http://31.148.48.15/Zoo_TV/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Моя Планета
 http://dmi3y-tv6.ru/hls/CH_MOYA_PLANETA.m3u8
 #EXTINF:-1 group-title="Познавательные", Наука HD
@@ -117,30 +107,13 @@ http://158.101.222.193:88/georgia_play.php?id=24techno
 
 
 
-#EXTINF:-1 group-title="Кино", Amedia 2
-http://158.101.222.193:88/vesti/play.php?channel_id=40
-#EXTINF:-1 group-title="Кино", Amedia Hit
-http://158.101.222.193:88/vesti/play.php?channel_id=41
 #EXTINF:-1 group-title="Кино", FilmBox
 http://iptv.prosto.tv:7000/ch64/video.m3u8
-#EXTINF:-1 group-title="Кино", Hollywood HD
-http://158.101.222.193:88/vesti/play.php?channel_id=102
-#EXTINF:-1 group-title="Кино", viju TV1000
-http://158.101.222.193:88/vesti/play.php?channel_id=47
-#EXTINF:-1 group-title="Кино", Индийское кино
-http://158.101.222.193:88/vesti/play.php?channel_id=32
 #EXTINF:-1 group-title="Кино", Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="Кино", Кино ТВ
 http://vod.tuva.ru/kinotv/index.m3u8
-#EXTINF:-1 group-title="Кино", Кинокомедия
-http://158.101.222.193:88/vesti/play.php?channel_id=30
-#EXTINF:-1 group-title="Кино", Киномикс
-http://158.101.222.193:88/vesti/play.php?channel_id=162
-#EXTINF:-1 group-title="Кино", Кинопремьера HD
-http://158.101.222.193:88/vesti/play.php?channel_id=163
-#EXTINF:-1 group-title="Кино", Киносемья
-http://158.101.222.193:88/vesti/play.php?channel_id=165
+
 #EXTINF:-1 group-title="Кино", Мир сериала
 http://158.101.222.193:88/vesti/play.php?channel_id=45
 #EXTINF:-1 group-title="Кино", Мужское Кино
