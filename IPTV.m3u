@@ -37,7 +37,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.75.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", Россия 1
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
+https://live.smotrim.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1 group-title="Развлекательные", РТР
 http://194.158.222.36:6106/
 #EXTINF:-1 group-title="Развлекательные", СТВ HD
@@ -72,13 +72,13 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 
 
 #EXTINF:-1 group-title="Познавательные", Animal Planet
-http://31.148.48.15/Animal_Planet_HD/index.m3u8
+http://89.33.29.115:8080/Animal_Planet_HD/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Discovery Channel HD
 http://stream.mcquack.net/177/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild
 https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", National Geographic
-http://dmi3y-tv.online/hls/CH_NATIONALGEOGRAPHIC.m3u8
+http://stream.mcquack.net/116/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju Explore
 http://dmitry-tv.ddns.net/hls/CH_VIASAT_EXPLOREHD.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju History
@@ -86,7 +86,7 @@ http://dmi3y-tv.online/hls/CH_VIASAT_HISTORYHD.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju Nature
 http://dmitry-tv.ddns.net/hls/CH_VIASAT_NATUREHD.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju+ Planet HD
-http://158.101.222.193:88/vesti/play.php?channel_id=91
+http://stream.mcquack.net/240/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Авто 24
 http://178.124.152.238:8088/auto24
 #EXTINF:-1 group-title="Познавательные", Авто Плюс
@@ -102,7 +102,7 @@ http://178.124.152.238:8088/nauka
 #EXTINF:-1 group-title="Познавательные", Продвижение 
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Т24
-http://158.101.222.193:88/georgia_play.php?id=24techno
+https://stream1.cinerama.uz/1037/tracks-v1a1/mono.m3u8
 
 
 
